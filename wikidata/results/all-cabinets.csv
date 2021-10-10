@@ -223,15 +223,17 @@ ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision
 ,Q12729683,Dăscălescu II Cabinet,1985-03-23,11,,,1989-12-22,11,,,Q30301632,Cabinet of Romania,,,Q12729684,Dăscălescu I Cabinet,Q7362015,Roman I Cabinet,,,,
 ,Q7362015,Roman I Cabinet,1989-01-01,9,1989-01-01,9,1990-01-01,9,,,Q30301632,Cabinet of Romania,,,Q12729683,Dăscălescu II Cabinet,Q7362008,Roman II Cabinet,,,Q7362008,Roman II Cabinet
 ,Q7362008,Roman II Cabinet,1990-01-01,9,1990-01-01,9,1991-01-01,9,,,Q30301632,Cabinet of Romania,,,Q7362015,Roman I Cabinet,Q7618671,Stolojan I Cabinet,Q7362015,Roman I Cabinet,Q7362006,Roman III Cabinet
+,Q7362006,Roman III Cabinet,1991-01-01,9,1991-01-01,9,1991-01-01,9,,,Q30301632,Cabinet of Romania,,,,,,,Q7362008,Roman II Cabinet,Q7618671,Stolojan I Cabinet
 ,Q7618671,Stolojan I Cabinet,1991-01-01,9,1991-01-01,9,1992-01-01,9,,,Q30301632,Cabinet of Romania,,,Q7362008,Roman II Cabinet,Q7944914,Văcăroiu I Cabinet,Q7362006,Roman III Cabinet,Q7944914,Văcăroiu I Cabinet
 ,Q7944914,Văcăroiu I Cabinet,1992-01-01,9,1992-01-01,9,1996-01-01,9,,,Q30301632,Cabinet of Romania,,,Q7618671,Stolojan I Cabinet,Q5121220,Ciorbea I Cabinet,Q7618671,Stolojan I Cabinet,Q5121220,Ciorbea I Cabinet
 ,Q5121220,Ciorbea I Cabinet,1996-01-01,9,1996-01-01,9,1998-01-01,9,,,Q30301632,Cabinet of Romania,,,Q7944914,Văcăroiu I Cabinet,Q7916612,Vasile I Cabinet,Q7944914,Văcăroiu I Cabinet,Q7916612,Vasile I Cabinet
 ,Q7916612,Vasile I Cabinet,1998-04-17,11,,,1999-12-22,11,,,Q30301632,Cabinet of Romania,,,Q5121220,Ciorbea I Cabinet,Q6089599,Isărescu I Cabinet,Q5121220,Ciorbea I Cabinet,Q6089599,Isărescu I Cabinet
 ,Q6089599,Isărescu I Cabinet,1999-12-22,11,,,2000-12-28,11,,,Q30301632,Cabinet of Romania,,,Q7916612,Vasile I Cabinet,Q3112329,Năstase I Cabinet,Q7916612,Vasile I Cabinet,Q3112329,Năstase I Cabinet
 ,Q3112329,Năstase I Cabinet,2000-12-28,11,2000-01-01,9,2004-12-21,11,2004-01-01,9,Q30301632,Cabinet of Romania,,,Q6089599,Isărescu I Cabinet,Q2117888,Tăriceanu Cabinet(s),Q6089599,Isărescu I Cabinet,Q7862542,Tăriceanu I Cabinet
-,Q3112329,Năstase I Cabinet,2000-12-28,11,2000-01-01,9,2004-12-21,11,2004-01-01,9,Q5015551,list of Cabinets of Romania,,,Q6089599,Isărescu I Cabinet,Q2117888,Tăriceanu Cabinet(s),Q6089599,Isărescu I Cabinet,Q7862542,Tăriceanu I Cabinet
+,Q7862542,Tăriceanu I Cabinet,2004-01-01,9,2004-01-01,9,,,2007-01-01,9,Q30301632,Cabinet of Romania,,,,,,,Q3112329,Năstase I Cabinet,Q1720421,Tăriceanu II Cabinet
 ,Q2117888,Tăriceanu Cabinet(s),2004-11-28,11,,,2005-12-29,11,,,Q2528718,Government of Romania,,,Q3112329,Năstase I Cabinet,Q735983,Boc Cabinets,,,,
 ,Q2117888,Tăriceanu Cabinet(s),2004-11-28,11,,,2005-12-29,11,,,Q30301632,Cabinet of Romania,,,Q3112329,Năstase I Cabinet,Q735983,Boc Cabinets,,,,
+,Q1720421,Tăriceanu II Cabinet,2007-01-01,9,,,2008-01-01,9,,,Q30301632,Cabinet of Romania,,,,,,,Q7862542,Tăriceanu I Cabinet,Q735983,Boc Cabinets
 ,Q735983,Boc Cabinets,2008-12-22,11,2008-01-01,9,2009-12-23,11,2012-01-01,9,Q30301632,Cabinet of Romania,,,Q2117888,Tăriceanu Cabinet(s),Q842927,2nd Boc Cabinet,Q1720421,Tăriceanu II Cabinet,Q849780,Ungureanu Cabinet
 ,Q842927,2nd Boc Cabinet,2009-12-23,11,,,2012-01-01,9,,,Q30301632,Cabinet of Romania,,,Q735983,Boc Cabinets,Q849780,Ungureanu Cabinet,,,,
 ,Q849780,Ungureanu Cabinet,2012-02-09,11,,,2012-05-07,11,,,Q30301632,Cabinet of Romania,,,Q842927,2nd Boc Cabinet,Q2246953,Ponta I Cabinet,Q735983,Boc Cabinets,Q2246953,Ponta I Cabinet
@@ -244,5 +246,5 @@ ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision
 ,Q31173799,Tudose Cabinet,2017-06-29,11,,,2018-01-29,11,,,Q30301632,Cabinet of Romania,,,Q28123264,Grindeanu Cabinet,Q47516794,Dăncilă Cabinet,,,,
 ,Q47516794,Dăncilă Cabinet,2018-01-29,11,,,2019-11-04,11,,,Q30301632,Cabinet of Romania,,,Q31173799,Tudose Cabinet,Q73529134,First Orban Cabinet,,,,
 ,Q73529134,First Orban Cabinet,2019-11-04,11,,,2020-03-14,11,,,Q30301632,Cabinet of Romania,,,Q47516794,Dăncilă Cabinet,Q87719497,Second Orban Cabinet,,,,
-,Q87719497,Second Orban Cabinet,2020-03-14,11,,,2020-12-23,11,,,Q640506,cabinet,,,Q73529134,First Orban Cabinet,Q104440634,Cîțu Cabinet,,,,
+,Q87719497,Second Orban Cabinet,2020-03-14,11,,,2020-12-23,11,,,Q30301632,Cabinet of Romania,,,Q73529134,First Orban Cabinet,Q104440634,Cîțu Cabinet,,,,
 ,Q104440634,Cîțu Cabinet,2020-12-23,11,2020-12-23,11,2021-10-05,11,2021-10-05,11,Q30301632,Cabinet of Romania,,,Q87719497,Second Orban Cabinet,,,,,,
