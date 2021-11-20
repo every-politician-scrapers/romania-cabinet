@@ -1,22 +1,18 @@
-wdid,name,wdLabel,gender,dob,dobPrecision,source,pid,position,psid
-Q747255,Attila-Zoltán CSEKE,Attila Cseke,male,1973-06-09T00:00:00Z,11,https://www.gov.ro/en/government/the-cabinet-of-ministers,Q21503762,"minister for development, public works and administration",Q747255-80bf21ae-4be3-f9ab-5d24-177a4600a3fa
-Q20437970,Barna TÁNCZOS,Barna Tánczos,male,1976-05-25T00:00:00Z,11,https://www.gov.ro/en/government/the-cabinet-of-ministers,Q21504155,"minister of environment, water and forests",Q20437970-eb1dfcd8-420e-f395-fb6f-e64e3afaef37
-Q28113964,Bogdan GHEORGHIU,Bogdan Gheorghiu,male,1975-07-01T00:00:00Z,11,https://www.gov.ro/en/government/the-cabinet-of-ministers,Q21503769,minister of culture,Q28113964-59b16c45-447d-be04-67f7-67c907909941
-Q18537583,Bogdan Lucian AURESCU,Bogdan Aurescu,male,1973-09-09T00:00:00Z,11,https://www.gov.ro/en/government/the-cabinet-of-ministers,Q21503673,minister of foreign affairs,Q18537583-0b6714c5-4c6f-4f3e-c905-8316be0638dc
-Q940884,Carol-Eduard NOVÁK,Carol-Eduard Novak,male,1976-07-28T00:00:00Z,11,https://www.gov.ro/en/government/the-cabinet-of-ministers,Q21503827,minister for youth and sport,Q940884-fab0f7bf-4c6b-7469-bb16-7390d37a2ed9
-Q104441246,Ciprian-Sergiu TELEMAN,Ciprian Teleman,male,1969-01-27T00:00:00Z,11,https://www.gov.ro/en/government/the-cabinet-of-ministers,Q106640935,"minister of research, innovation and digitalization",Q104441246-E07D03E9-B005-488D-B374-7EC003714B7D
-Q28035503,Claudiu-Iulius-Gavril NĂSUI,Claudiu Năsui,male,1985-05-05T00:00:00Z,11,https://www.gov.ro/en/government/the-cabinet-of-ministers,Q21504183,"minister of economy, entrepreneurship, and tourism",Q28035503-ecd0097e-45e3-c5ea-9aa3-5bb36672fd18
-Q12725938,Cristian GHINEA,Cristian Ghinea,male,1977-07-20T00:00:00Z,11,https://www.gov.ro/en/government/the-cabinet-of-ministers,Q21504218,minister of investments and european projects,Q12725938-bbc64c54-4525-f351-49bd-d3a651c10785
-Q27956305,Cătălin DRULĂ,Cătălin Drulă,male,1981-05-02T00:00:00Z,11,https://www.gov.ro/en/government/the-cabinet-of-ministers,Q21513080,minister of transport and infrastructure,Q27956305-5244969a-4d92-c12a-4ed7-f9d543c2d5f1
-Q28084569,Dan Vîlceanu,Dan Vîlceanu,male,1979-02-05T00:00:00Z,11,,Q21504216,Minister of Finance,Q28084569-0d2a979b-4d69-c8c3-8455-70225f209b6c
-Q28035183,Florin-Vasile CÎŢU,Florin Cîțu,male,1972-04-01T00:00:00Z,11,https://www.gov.ro/en/government/the-cabinet-of-ministers,Q15304810,prime minister,Q28035183-7a625070-4eab-94d7-27d0-6fa5d335911d
-Q923357,Hunor KELEMEN,Hunor Kelemen,male,1967-10-18T00:00:00Z,11,https://www.gov.ro/en/government/the-cabinet-of-ministers,Q81292982,vice prime minister,Q923357-e6380b28-4f56-41fd-fafe-c0cdfd281aff
-Q28113900,Ilie-Dan BARNA,Dan Barna,male,1975-07-10T00:00:00Z,11,https://www.gov.ro/en/government/the-cabinet-of-ministers,Q81292982,vice prime minister,Q28113900-ad427010-403e-b594-609f-33b23b6fc663
-Q106574142,Ioana MIHĂILĂ,Ioana Mihăilă,female,1980-11-20T00:00:00Z,11,https://www.gov.ro/en/government/the-cabinet-of-ministers,Q20885066,minister of health,Q106574142-2a2b12a1-412b-c832-db0d-ace7fcc36ec5
-Q3265173,Lucian Bode,Lucian Bode,male,1974-10-27T00:00:00Z,11,,Q21159939,Minister of Justice of Romania,Q3265173-d7daf693-4399-1bb6-845d-efc851fadf5c
-Q3265173,Lucian Nicolae BODE,Lucian Bode,male,1974-10-27T00:00:00Z,11,https://www.gov.ro/en/government/the-cabinet-of-ministers,Q21504201,minister of internal affairs,Q3265173-2e373321-468c-277d-827a-9036e2468fc7
-Q21179344,Nechita-Adrian OROS,Nechita-Adrian Oros,male,1965-07-09T00:00:00Z,11,https://www.gov.ro/en/government/the-cabinet-of-ministers,Q21503604,minister of agriculture and rural development,Q21179344-76dce42e-4699-61a8-4b7c-480b4ebeea87
-Q28950289,Nicolae-Ionel CIUCĂ,Nicolae Ciucă,male,1967-02-07T00:00:00Z,11,https://www.gov.ro/en/government/the-cabinet-of-ministers,Q21504197,minister of national defence,Q28950289-6af1d1ae-4d62-39c2-2a28-4ccff4edd354
-Q7288407,Raluca TURCAN,Raluca Turcan,female,1976-04-02T00:00:00Z,11,https://www.gov.ro/en/government/the-cabinet-of-ministers,Q21504145,minister of labour and social protection,Q7288407-a8611496-4a8f-c0c4-4a57-0b31c63b4cc4
-Q21095867,Sorin-Mihai CÎMPEANU,Sorin Cîmpeanu,male,1968-04-18T00:00:00Z,11,https://www.gov.ro/en/government/the-cabinet-of-ministers,Q21389881,minister of education,Q21095867-257f8c4e-4d7a-70c1-aa7f-127889638a93
-Q28113715,Virgil-Daniel POPESCU,Virgil-Daniel Popescu,male,1968-04-25T00:00:00Z,11,https://www.gov.ro/en/government/the-cabinet-of-ministers,Q21513151,minister of energy,Q28113715-4b643fe6-4507-3dec-a7a1-65b22973293c
+wdid,name,wdLabel,gender,dob,dobPrecision,source,sourceDate,pid,position,psid
+Q18537583,Bogdan Lucian AURESCU,Bogdan Aurescu,male,1973-09-09,11,https://www.gov.ro/en/government/the-cabinet-of-ministers,2021-08-01,Q21503673,minister of foreign affairs,Q18537583-0b6714c5-4c6f-4f3e-c905-8316be0638dc
+Q20437970,Barna TÁNCZOS,Barna Tánczos,male,1976-05-25,11,https://www.gov.ro/en/government/the-cabinet-of-ministers,2021-08-01,Q21504155,"minister of environment, water and forests",Q20437970-eb1dfcd8-420e-f395-fb6f-e64e3afaef37
+Q21095867,Sorin-Mihai CÎMPEANU,Sorin Cîmpeanu,male,1968-04-18,11,https://www.gov.ro/en/government/the-cabinet-of-ministers,2021-08-01,Q21389881,minister of education,Q21095867-257f8c4e-4d7a-70c1-aa7f-127889638a93
+Q21179344,Nechita-Adrian OROS,Nechita-Adrian Oros,male,1965-07-09,11,https://www.gov.ro/en/government/the-cabinet-of-ministers,2021-08-01,Q21503604,minister of agriculture and rural development,Q21179344-76dce42e-4699-61a8-4b7c-480b4ebeea87
+Q28035183,Florin Cîțu,Florin Cîțu,male,1972-04-01,11,,,Q21504218,Minister of European Funds,Q28035183-f5b39282-41bd-94fd-7c02-048c368efc80
+Q28084569,Dan Vîlceanu,Dan Vîlceanu,male,1979-02-05,11,,,Q21504216,Minister of Finance,Q28084569-a4cc02d6-41bd-864d-362a-be28a17e257d
+Q28084569,Dan Vîlceanu,Dan Vîlceanu,male,1979-02-05,11,,,Q21513080,Minister of Transport and Infrastructure,Q28084569-acdbff7b-4d6c-5346-7080-6a04d5e08a61
+Q28113715,Virgil-Daniel POPESCU,Virgil-Daniel Popescu,male,1968-04-25,11,https://www.gov.ro/en/government/the-cabinet-of-ministers,2021-08-01,Q21513151,minister of energy,Q28113715-4b643fe6-4507-3dec-a7a1-65b22973293c
+Q28113964,Bogdan GHEORGHIU,Bogdan Gheorghiu,male,1975-07-01,11,https://www.gov.ro/en/government/the-cabinet-of-ministers,2021-08-01,Q21503769,minister of culture,Q28113964-59b16c45-447d-be04-67f7-67c907909941
+Q28950289,Nicolae-Ionel CIUCĂ,Nicolae Ciucă,male,1967-02-07,11,https://www.gov.ro/en/government/the-cabinet-of-ministers,2021-08-01,Q21504197,minister of national defence,Q28950289-6af1d1ae-4d62-39c2-2a28-4ccff4edd354
+Q3265173,Lucian Nicolae BODE,Lucian Bode,male,1974-10-27,11,https://www.gov.ro/en/government/the-cabinet-of-ministers,2021-08-01,Q21504201,minister of internal affairs,Q3265173-2e373321-468c-277d-827a-9036e2468fc7
+Q3265173,Lucian Bode,Lucian Bode,male,1974-10-27,11,,,Q21159939,Minister of Justice of Romania,Q3265173-d7daf693-4399-1bb6-845d-efc851fadf5c
+Q7288407,Raluca TURCAN,Raluca Turcan,female,1976-04-02,11,https://www.gov.ro/en/government/the-cabinet-of-ministers,2021-08-01,Q21504145,minister of labour and social protection,Q7288407-a8611496-4a8f-c0c4-4a57-0b31c63b4cc4
+Q747255,Attila Cseke,Attila Cseke,male,1973-06-09,11,,,Q20885066,Minister of Health of Romania,Q747255-2f0a882c-4d03-a35d-7d01-c758afe03430
+Q747255,Attila-Zoltán CSEKE,Attila Cseke,male,1973-06-09,11,https://www.gov.ro/en/government/the-cabinet-of-ministers,2021-08-01,Q21503762,"minister for development, public works and administration",Q747255-80bf21ae-4be3-f9ab-5d24-177a4600a3fa
+Q923357,Hunor KELEMEN,Hunor Kelemen,male,1967-10-18,11,https://www.gov.ro/en/government/the-cabinet-of-ministers,2021-08-01,Q81292982,vice prime minister,Q923357-e6380b28-4f56-41fd-fafe-c0cdfd281aff
+Q940884,Carol-Eduard NOVÁK,Carol-Eduard Novak,male,1976-07-28,11,https://www.gov.ro/en/government/the-cabinet-of-ministers,2021-08-01,Q21503827,minister for youth and sport,Q940884-fab0f7bf-4c6b-7469-bb16-7390d37a2ed9
