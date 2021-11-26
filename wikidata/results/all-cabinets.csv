@@ -247,5 +247,9 @@ ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision
 ,Q47516794,Dăncilă Cabinet,2018-01-29,11,,,2019-11-04,11,,,Q30301632,Cabinet of Romania,,,Q31173799,Tudose Cabinet,Q73529134,First Orban Cabinet,,,,
 ,Q73529134,First Orban Cabinet,2019-11-04,11,,,2020-03-14,11,,,Q30301632,Cabinet of Romania,,,Q47516794,Dăncilă Cabinet,Q87719497,Second Orban Cabinet,,,,
 ,Q87719497,Second Orban Cabinet,2020-03-14,11,,,2020-12-23,11,,,Q30301632,Cabinet of Romania,,,Q73529134,First Orban Cabinet,Q104440634,Cîțu Cabinet,,,,
-131,Q104440634,Cîțu Cabinet,2020-12-23,11,2020-12-23,11,2021-10-05,11,,,Q30301632,Cabinet of Romania,,,Q87719497,Second Orban Cabinet,Q109680585,Ciucă Cabinet,,,,
-,Q109680585,Ciucă Cabinet,2021-11-25,11,,,,,,,Q30301632,Cabinet of Romania,,,,,,,Q104440634,Cîțu Cabinet,,
+131,Q104440634,Cîțu Cabinet,2020-12-23,11,,,2021-10-05,11,2021-11-25,11,Q30301632,Cabinet of Romania,,,Q87719497,Second Orban Cabinet,Q109680585,Ciucă Cabinet,,,Q109680585,Ciucă Cabinet
+131,Q104440634,Cîțu Cabinet,2020-12-23,11,,,2021-10-05,11,2021-11-25,11,Q3112663,caretaker government,,,Q87719497,Second Orban Cabinet,Q109680585,Ciucă Cabinet,,,Q109680585,Ciucă Cabinet
+131,Q104440634,Cîțu Cabinet,2020-12-23,11,,,2021-10-05,11,2021-11-25,11,Q837416,coalition government,,,Q87719497,Second Orban Cabinet,Q109680585,Ciucă Cabinet,,,Q109680585,Ciucă Cabinet
+,Q109680585,Ciucă Cabinet,2021-11-25,11,,,,,,,Q12406825,rotation government,,,Q104440634,Cîțu Cabinet,,,Q104440634,Cîțu Cabinet,,
+,Q109680585,Ciucă Cabinet,2021-11-25,11,,,,,,,Q30301632,Cabinet of Romania,,,Q104440634,Cîțu Cabinet,,,Q104440634,Cîțu Cabinet,,
+,Q109680585,Ciucă Cabinet,2021-11-25,11,,,,,,,Q837416,coalition government,,,Q104440634,Cîțu Cabinet,,,Q104440634,Cîțu Cabinet,,
