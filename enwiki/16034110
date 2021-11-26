@@ -1,0 +1,895 @@
+{
+  "title": "Cătălin Predoiu",
+  "pageID": 16034110,
+  "categories": [
+    "1968 births",
+    "Bogdan Petriceicu Hasdeu National College alumni",
+    "Living people",
+    "Members of the Chamber of Deputies (Romania)",
+    "People from Buzău",
+    "Prime Ministers of Romania",
+    "Romanian lawyers",
+    "Romanian Ministers of Justice",
+    "University of Bucharest alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Cătălin Marian Predoiu (born 27 August 1968, Buzău) is a Romanian lawyer who served as the ad interim Prime Minister of Romania from February 6 to 9 February 2012, following the resignation of Emil Boc.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Buzău"
+                },
+                {
+                  "type": "internal",
+                  "page": "Emil Boc"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Cătălin Marian Predoiu"
+                ]
+              }
+            },
+            {
+              "text": "He had previously been the Minister of Justice of Romania since 29 February 2008.",
+              "links": [
+                {
+                  "text": "Minister of Justice",
+                  "type": "internal",
+                  "page": "Minister of Justice (Romania)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Romanian politician",
+          "template": "short description"
+        },
+        {
+          "year": "1968",
+          "month": "8",
+          "day": "27",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "transcription": "kətəˈlin preˈdoju",
+          "template": "ipa"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Cătălin Predoiu"
+          },
+          "image": {
+            "text": "Cătălin Predoiu 2008.jpg"
+          },
+          "office": {
+            "text": "Prime Minister of Romania\nActing",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Prime Minister of Romania"
+              }
+            ]
+          },
+          "president": {
+            "text": "Traian Băsescu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Traian Băsescu"
+              }
+            ]
+          },
+          "deputy": {
+            "text": "Béla Markó",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Béla Markó"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "6 February 2012"
+          },
+          "term_end": {
+            "text": "9 February 2012"
+          },
+          "predecessor": {
+            "text": "Emil Boc",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Emil Boc"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Mihai Răzvan Ungureanu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mihai Răzvan Ungureanu"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Minister of Justice",
+            "links": [
+              {
+                "text": "Minister of Justice",
+                "type": "internal",
+                "page": "Ministry of Justice (Romania)"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "4 November 2019"
+          },
+          "term_end1": {
+            "text": "23 December 2020"
+          },
+          "primeminister1": {
+            "text": "Ludovic Orban",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ludovic Orban"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Ana Birchall",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ana Birchall"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Stelian Ion",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Stelian Ion"
+              }
+            ]
+          },
+          "primeminister2": {
+            "text": "Călin Popescu-Tăriceanu\nEmil Boc\nMihai Răzvan Ungureanu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Călin Popescu-Tăriceanu"
+              },
+              {
+                "type": "internal",
+                "page": "Emil Boc"
+              },
+              {
+                "type": "internal",
+                "page": "Mihai Răzvan Ungureanu"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "29 February 2008"
+          },
+          "term_end2": {
+            "text": "7 May 2012"
+          },
+          "predecessor2": {
+            "text": "Teodor Meleșcanu (Acting)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Teodor Meleșcanu"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Titus Corlăţean",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Titus Corlăţean"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Minister of Foreign Affairs",
+            "links": [
+              {
+                "text": "Minister of Foreign Affairs",
+                "type": "internal",
+                "page": "Ministry of Foreign Affairs (Romania)"
+              }
+            ]
+          },
+          "primeminister3": {
+            "text": "Emil Boc",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Emil Boc"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "1 October 2009"
+          },
+          "term_end3": {
+            "text": "23 December 2009"
+          },
+          "predecessor3": {
+            "text": "Cristian Diaconescu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cristian Diaconescu"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Teodor Baconschi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Teodor Baconschi"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "August 27, 1968"
+          },
+          "birth_place": {
+            "text": "Buzău, Romania",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Buzău"
+              },
+              {
+                "text": "Romania",
+                "type": "internal",
+                "page": "Socialist Republic of Romania"
+              }
+            ]
+          },
+          "party": {
+            "text": "PNL (2014–present)",
+            "links": [
+              {
+                "text": "PNL",
+                "type": "internal",
+                "page": "National Liberal Party (Romania)"
+              }
+            ]
+          },
+          "otherparty": {
+            "text": "PNL-AT (1991–93)\nPDL (2013–14)",
+            "links": [
+              {
+                "text": "PDL",
+                "type": "internal",
+                "page": "Democratic Liberal Party (Romania)"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Lawyer"
+          },
+          "alma_mater": {
+            "text": "University of Bucharest",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Bucharest"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Romania PM quits as financial crisis topples government",
+          "url": "https://www.telegraph.co.uk/news/worldnews/europe/romania/9063708/Romania-PM-quits-as-financial-crisis-topples-government.html",
+          "journal": "The Telegraph",
+          "access-date": "2012-02-06",
+          "template": "citation",
+          "type": "citation"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Lawyer",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Cătălin Predoiu graduated from the Faculty of Law at the University of Bucharest in 1991.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Bucharest"
+                }
+              ]
+            },
+            {
+              "text": "In 1994 he completed a training program in commercial law at the Caen Bar in France.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Caen"
+                }
+              ]
+            },
+            {
+              "text": "Since 2003 he is a member of the Council of Bucharest Bar Association.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bucharest"
+                },
+                {
+                  "type": "internal",
+                  "page": "Bar Association"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Between 1994 and 2005 he taught commercial law as a lecturer at University of Bucharest.",
+              "links": [
+                {
+                  "text": "commercial law",
+                  "type": "internal",
+                  "page": "commercial law"
+                }
+              ]
+            },
+            {
+              "text": "Predoiu published several articles and studies about commercial law and has received a prize from the Romanian Academy as a co-author of a law treatise.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Romanian Academy"
+                }
+              ]
+            },
+            {
+              "text": "He completed his Ph.D. degree in commercial banks in 2004.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ph.D."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Predoiu was an associate lawyer at the Zamfirescu, Racoți, Predoiu (ZRP) law partnership until 2008 working as a commercial and corporate governance lawyer.",
+              "formatting": {
+                "italic": [
+                  "Zamfirescu, Racoți, Predoiu"
+                ]
+              }
+            },
+            {
+              "text": "His law firm assisted Rompetrol, the company owned by fellow Liberal Dinu Patriciu, as well as the American company Cross Lander during the controversial privatization and bankruptcy of ARO SUV producer.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Rompetrol"
+                },
+                {
+                  "type": "internal",
+                  "page": "Dinu Patriciu"
+                },
+                {
+                  "type": "internal",
+                  "page": "ARO"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Predoiu was a member of the board of directors of the state-owned CEC Bank until March 2008, when he resigned due to incompatibility of office.",
+              "links": [
+                {
+                  "text": "board of directors",
+                  "type": "internal",
+                  "page": "board of directors"
+                },
+                {
+                  "type": "internal",
+                  "page": "CEC Bank"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Politician",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Predoiu became a member in 1991 of the National Liberal Party - Young Wing (PNL-AT; a splinter from the National Liberal Party led by Dinu Patriciu and Călin Popescu-Tăriceanu), however this party was soon disbanded in 1993.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "National Liberal Party - Young Wing"
+                },
+                {
+                  "text": "National Liberal Party",
+                  "type": "internal",
+                  "page": "National Liberal Party (Romania)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Dinu Patriciu"
+                },
+                {
+                  "type": "internal",
+                  "page": "Călin Popescu-Tăriceanu"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On February 29, 2008, in a move that surprised even other leaders of National Liberal Party, Prime-Minister Călin Popescu-Tăriceanu proposed him as Minister of Justice, his candidature being approved by President Traian Băsescu.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Călin Popescu-Tăriceanu"
+                },
+                {
+                  "type": "internal",
+                  "page": "Traian Băsescu"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was a candidate from PNL for the Chamber of Deputies in Buzău, however, he got only 28.9% of the votes, losing to Social Democrat Marian Ghiveciu, who got 46.6%.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Buzău"
+                },
+                {
+                  "type": "internal",
+                  "page": "Marian Ghiveciu"
+                }
+              ]
+            },
+            {
+              "text": "His term as Minister of Justice was extended in the new Emil Boc Cabinet (since 22 December 2008), composed of Social Democratic Party (PSD) and Democratic Liberal Party (PDL) members.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Emil Boc"
+                },
+                {
+                  "text": "Democratic Liberal Party",
+                  "type": "internal",
+                  "page": "Democratic Liberal Party (Romania)"
+                }
+              ]
+            },
+            {
+              "text": "This brought criticism from his party, the National Liberal Party (PNL), which led to Predoiu's self-suspension from it."
+            },
+            {
+              "text": "He argued that he accepted this new nomination only to continue his work at the ministry."
+            },
+            {
+              "text": "He was the only independent minister in the first Boc Cabinet.",
+              "links": [
+                {
+                  "text": "first Boc Cabinet",
+                  "type": "internal",
+                  "page": "Boc I Cabinet"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In the second Boc cabinet, he was one of three independent ministers of that government (together with Mihail Dumitru and Teodor Baconschi) and the only member of the Tăriceanu cabinet still in office.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Mihail Dumitru"
+                },
+                {
+                  "type": "internal",
+                  "page": "Teodor Baconschi"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In December 2009, he was reappointed Minister of Justice, and became the only independent minister, after Dumitru was replaced and Baconschi became a member of PDL."
+            },
+            {
+              "text": "He was replaced in his position on 8 May 2012."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In October 2011, the Ministry of Justice signed a 1.5 million lei contract with RVA Insolvency, a company to which Predoiu's father-in-law was an associate."
+            },
+            {
+              "text": "According to the Ministry, the conflict of interest laws did not apply in this case because the contract was financed by the World Bank, not the government budget.",
+              "links": [
+                {
+                  "text": "conflict of interest",
+                  "type": "internal",
+                  "page": "conflict of interest"
+                },
+                {
+                  "type": "internal",
+                  "page": "World Bank"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2013, Predoiu became a member of the PDL, being named the First Vice President and Shadow Prime Minister of the party."
+            },
+            {
+              "text": "Following the alliance of PDL and PNL, National Liberal presidential candidate Klaus Iohannis expressed his support for Predoiu as prime-minister.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Klaus Iohannis"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2014, following the merger between PDL and PNL, he became First Vice President of PNL until an unification Congress in the summer of 2017."
+            },
+            {
+              "text": "In the Romanian legislative election of 2016, Predoiu won a seat in the Chamber of Deputies in Călărași on PNL's party list.",
+              "links": [
+                {
+                  "text": "Romanian legislative election of 2016",
+                  "type": "internal",
+                  "page": "2016 Romanian legislative election"
+                },
+                {
+                  "type": "internal",
+                  "page": "Călărași"
+                }
+              ]
+            },
+            {
+              "text": "In November 2019, after the ousting of Viorica Dăncilă's government in a no-confidence motion, Predoiu was reappointed Minister of Justice in the cabinet led by PNL leader Ludovic Orban.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Viorica Dăncilă"
+                },
+                {
+                  "text": "no-confidence motion",
+                  "type": "internal",
+                  "page": "no-confidence motion"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ludovic Orban"
+                }
+              ]
+            },
+            {
+              "text": "He served a 1-year term until Orban's resignation after the loss of the 2020 legislative elections and the appointment of Florin Cîțu to make a coalition government with the USR-PLUS and UDMR.",
+              "links": [
+                {
+                  "text": "2020 legislative elections",
+                  "type": "internal",
+                  "page": "2020 Romanian legislative election"
+                },
+                {
+                  "type": "internal",
+                  "page": "Florin Cîțu"
+                },
+                {
+                  "text": "USR-PLUS",
+                  "type": "internal",
+                  "page": "2020 USR-PLUS Alliance"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Electoral history",
+      "depth": 0
+    },
+    {
+      "title": "Mayor of Bucharest",
+      "depth": 1,
+      "tables": [
+        [
+          {
+            "col1": {
+              "text": "Election"
+            },
+            "col2": {
+              "text": "Affiliation"
+            },
+            "col3": {
+              "text": "First round"
+            },
+            "col4": {
+              "text": ""
+            },
+            "col5": {
+              "text": ""
+            },
+            "col6": {
+              "text": "Second round"
+            }
+          },
+          {
+            "col1": {
+              "text": "Election"
+            },
+            "col2": {
+              "text": "Affiliation"
+            },
+            "col3": {
+              "text": "Votes"
+            },
+            "col4": {
+              "text": "Percentage"
+            },
+            "col5": {
+              "text": "Position"
+            },
+            "col6": {
+              "text": "Votes"
+            },
+            "col7": {
+              "text": "Percentage"
+            },
+            "col8": {
+              "text": "Position"
+            }
+          },
+          {
+            "col1": {
+              "text": "2016",
+              "number": 2016,
+              "links": [
+                {
+                  "text": "2016",
+                  "type": "internal",
+                  "page": "2016 Romanian local elections"
+                }
+              ]
+            },
+            "col2": {
+              "text": "PNL"
+            },
+            "col3": {
+              "text": "64,186",
+              "number": 64186
+            },
+            "col4": {
+              "text": ""
+            },
+            "col5": {
+              "text": ""
+            },
+            "col6": {
+              "text": ""
+            },
+            "col7": {
+              "text": ""
+            },
+            "col8": {
+              "text": ""
+            }
+          }
+        ]
+      ],
+      "templates": [
+        {
+          "template": "national liberal party (romania)/meta/color"
+        },
+        {
+          "list": [
+            "11.18"
+          ],
+          "template": "percentage bar"
+        },
+        {
+          "list": [
+            "Gray",
+            "3rd"
+          ],
+          "template": "color box"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Emil Boc",
+          "template": "s-bef"
+        },
+        {
+          "title": "Prime Minister of Romania\nActing",
+          "years": "2012",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Mihai Răzvan Ungureanu",
+          "template": "s-aft"
+        },
+        {
+          "template": "ciucă cabinet"
+        },
+        {
+          "template": "second tăriceanu cabinet"
+        },
+        {
+          "template": "boc cabinet"
+        },
+        {
+          "template": "boc ii cabinet"
+        },
+        {
+          "template": "ungureanu cabinet"
+        },
+        {
+          "template": "ciucă cabinet"
+        },
+        {
+          "template": "supreme council of national defense"
+        },
+        {
+          "template": "romanianforeignministers"
+        },
+        {
+          "template": "romanianprimeministers"
+        },
+        {
+          "title": "Articles and topics related to Cătălin Predoiu",
+          "state": "collapsed",
+          "template": "navboxes"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}

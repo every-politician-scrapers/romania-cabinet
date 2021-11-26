@@ -1,0 +1,221 @@
+{
+  "title": "Florin Roman",
+  "pageID": 69083647,
+  "categories": [
+    "National Liberal Party (Romania) politicians",
+    "Living people",
+    "1974 births",
+    "Members of the Romanian Cabinet"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Florin Claudiu Roman (born 22 April 1974, Alba Iulia) is a Romanian politician, incumbent member of the Romanian Chamber of Deputies since 2016.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Alba Iulia"
+                },
+                {
+                  "text": "Romanian",
+                  "type": "internal",
+                  "page": "Romania"
+                },
+                {
+                  "text": "Chamber of Deputies",
+                  "type": "internal",
+                  "page": "Chamber of Deputies of Romania"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Florin Claudiu Roman"
+                ]
+              }
+            },
+            {
+              "text": "He served from 18 October 2021 to 2 November 2021 as interim President of the Chamber of Deputies, after the resignation of Ludovic Orban on 13 October, and since 25 November 2021 as Minister of Digitalization in the Ciucă Cabinet.",
+              "links": [
+                {
+                  "text": "President of the Chamber of Deputies",
+                  "type": "internal",
+                  "page": "President of the Chamber of Deputies of Romania"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ludovic Orban"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ciucă Cabinet"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Romanian politician",
+          "template": "short description"
+        },
+        {
+          "year": "1974",
+          "month": "4",
+          "day": "22",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Florin Roman"
+          },
+          "office": {
+            "text": "Minister of Digitalization",
+            "links": [
+              {
+                "text": "Minister of Digitalization",
+                "type": "internal",
+                "page": "Ministry of Digitalization (Romania)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "25 November 2021"
+          },
+          "predecessor": {
+            "text": "Barna Tánczos (Acting)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Barna Tánczos"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Acting President of the Chamber of Deputies",
+            "links": [
+              {
+                "text": "President of the Chamber of Deputies",
+                "type": "internal",
+                "page": "President of the Chamber of Deputies of Romania"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "18 October 2021"
+          },
+          "term_end1": {
+            "text": "2 November 2021"
+          },
+          "predecessor1": {
+            "text": "Ludovic Orban",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ludovic Orban"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Sorin Grindeanu (Acting)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sorin Grindeanu"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "April 22, 1974"
+          },
+          "birth_place": {
+            "text": "Alba Iulia, Alba County, Romania",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alba Iulia"
+              },
+              {
+                "type": "internal",
+                "page": "Alba County"
+              },
+              {
+                "text": "Romania",
+                "type": "internal",
+                "page": "Socialist Republic of Romania"
+              }
+            ]
+          },
+          "party": {
+            "text": "National Liberal Party (PNL)",
+            "links": [
+              {
+                "text": "National Liberal Party",
+                "type": "internal",
+                "page": "National Liberal Party (Romania)"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Sinteza activității parlamentare în legislatura 2016-2020",
+          "url": "http://www.cdep.ro/pls/parlam/structura2015.mp?idm=249&leg=2016&cam=2&idl=1",
+          "website": "Chamber of Deputies",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.antena3.ro/emisiuni/news-hour-with-cnn/florin-roman-617247.html",
+          "title": "Florin Roman preia conducerea Camerei Deputaților pentru următoarele două săptămâni",
+          "website": "Antena 3",
+          "lang": "ro",
+          "date": "18 October 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Orban: Mi-am depus demisia de la șefia Camerei Deputaților. Gruparea demolatoare cu sprijinul lui Iohannis calcă în picioare democrația",
+          "url": "https://www.digi24.ro/stiri/actualitate/politica/orban-mi-am-depus-demisia-de-la-sefia-camerei-deputatilor-gruparea-demolatoare-cu-sprijinul-lui-iohannis-calca-in-picioare-democratia-1699603",
+          "website": "Digi24",
+          "date": "13 October 2021",
+          "lang": "ro",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "list": [
+            "30em"
+          ],
+          "template": "reflist"
+        },
+        {
+          "template": "ciucă cabinet"
+        },
+        {
+          "template": "romania-politician-stub"
+        }
+      ]
+    }
+  ]
+}

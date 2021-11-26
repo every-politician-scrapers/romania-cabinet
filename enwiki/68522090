@@ -1,0 +1,260 @@
+{
+  "title": "Dan Vîlceanu",
+  "pageID": 68522090,
+  "categories": [
+    "1979 births",
+    "Living people",
+    "West University of Timișoara alumni",
+    "National Liberal Party (Romania) politicians",
+    "Romanian Ministers of Finance",
+    "21st-century Romanian politicians",
+    "Members of the Chamber of Deputies (Romania)",
+    "People from Gorj County",
+    "Social Democratic Party (Romania) politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Dan Vîlceanu (born February 5, 1979) is a Romanian deputy, elected in 2016.",
+              "links": [
+                {
+                  "text": "Romanian",
+                  "type": "internal",
+                  "page": "Romania"
+                },
+                {
+                  "text": "deputy",
+                  "type": "internal",
+                  "page": "Chamber of Deputies (Romania)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Dan Vîlceanu"
+                ]
+              }
+            },
+            {
+              "text": "On 18 August 2021, he was sworn in as Minister of Finance in the PNL-led Cîțu cabinet.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Minister of Finance"
+                },
+                {
+                  "text": "PNL",
+                  "type": "internal",
+                  "page": "National Liberal Party (Romania)"
+                },
+                {
+                  "text": "Cîțu cabinet",
+                  "type": "internal",
+                  "page": "Cîțu Cabinet"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Between 2006 and 2009 Dan Vîlceanu was the leader of the Gorj branch of Social Democratic Youth (Romania) (Tineretul Social Democrat, TSD), the youth organisation of the Social Democratic Party (PSD) of Romania).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Social Democratic Youth (Romania)"
+                },
+                {
+                  "text": "Social Democratic Party",
+                  "type": "internal",
+                  "page": "Social Democratic Party (Romania)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Romania"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Dan Vîlceanu joined the Democratic Liberal Party (Romania) (Partidul Democrat-Liberal, PDL) and served as General Secretary of PDL Gorj (2011-2012), first deputy chair of PDL Gorj (2012-2013), chair of PDL Gorj (2013-2015) and (after the merger with the National Liberal Party) co-chair/chair of PNL Gorj National Liberal Party (Romania) (Partidul Național-Liberal, PNL) since 2015.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Democratic Liberal Party (Romania)"
+                },
+                {
+                  "text": "merger with the National Liberal Party",
+                  "type": "internal",
+                  "page": "Democratic Liberal Party (Romania)",
+                  "anchor": "Merger with the National Liberal Party"
+                },
+                {
+                  "type": "internal",
+                  "page": "National Liberal Party (Romania)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "August 2021",
+          "template": "one source"
+        },
+        {
+          "description": "Romanian politician",
+          "template": "short description"
+        },
+        {
+          "date": "August 2021",
+          "template": "use mdy dates"
+        },
+        {
+          "date": "August 2021",
+          "template": "use american english"
+        },
+        {
+          "year": "1979",
+          "month": "2",
+          "day": "5",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "office3": {
+            "text": "Minister of Finance"
+          },
+          "term_start3": {
+            "text": "18 August 2021"
+          },
+          "office4": {
+            "text": "Member of the Romanian Chamber of Deputies",
+            "links": [
+              {
+                "text": "Romanian Chamber of Deputies",
+                "type": "internal",
+                "page": "Chamber of Deputies (Romania)"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "21 December 2016"
+          },
+          "birth_date": {
+            "text": "February 5, 1979"
+          },
+          "birth_place": {
+            "text": "Bumbești-Jiu, Gorj County, Romania",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bumbești-Jiu"
+              },
+              {
+                "type": "internal",
+                "page": "Gorj County"
+              },
+              {
+                "type": "internal",
+                "page": "Romania"
+              }
+            ]
+          },
+          "party": {
+            "text": "National Liberal Party (since 2015)\nDemocratic Liberal Party (2009–2015) Social Democratic Party (before 2009)",
+            "links": [
+              {
+                "text": "National Liberal Party",
+                "type": "internal",
+                "page": "National Liberal Party (Romania)"
+              },
+              {
+                "text": "Democratic Liberal Party",
+                "type": "internal",
+                "page": "Democratic Liberal Party (Romania)"
+              },
+              {
+                "text": "Social Democratic Party",
+                "type": "internal",
+                "page": "Social Democratic Party (Romania)"
+              }
+            ]
+          },
+          "education": {
+            "text": "West University of Timișoara",
+            "links": [
+              {
+                "type": "internal",
+                "page": "West University of Timișoara"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "lang": "ro",
+          "url": "https://www.mediafax.ro/politic/cine-este-noul-ministru-al-finantelor-dan-vilceanu-si-a-inceput-cariera-politica-la-psd-20235606",
+          "title": "Cine este noul ministru al Finanțelor. Dan Vîlceanu și-a început cariera politică la PSD.",
+          "author": "Georgiana Oprea",
+          "work": "Mediafax",
+          "date": "18 June 2021",
+          "accessdate": "1 October 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "lang": "ro",
+          "url": "https://adevarul.ro/news/politica/dan-vilceanu-depus-juramantul-palatul-cotroceni-klaus-iohannis-nu-facut-nicio-declaratie-comentat-echipa-orban-gestul-sefului-statului-1_611d19fb5163ec427148c753/index.html",
+          "title": "Dan Vîlceanu a depus jurământul la Palatul Cotroceni. Klaus Iohannis nu a făcut nicio declaraţie. Cum a comentat echipa Orban gestul şefului statului",
+          "author": "Radu Eremia",
+          "work": "Adevărul",
+          "date": "18 August 2021",
+          "accessdate": "1 October 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "lang": "ro",
+          "url": "https://www.hotnews.ro/stiri-esential-24977591-cine-este-dan-vilceanu-propus-citu-sefia-mfp-cariera-politica-inceputa-psd-legaturi-stranse-ministerul-finantelor-afaceri-ale-familiei-firme-stat-din-energie.htm",
+          "title": "Cine este Dan Vîlceanu, propus de Cîțu la șefia MFP: O carieră politică începută la PSD, legături strânse cu Ministerul Finanțelor și afaceri ale familiei cu firme de stat din energie",
+          "work": "Hotnews.ro",
+          "date": "14 August 2021",
+          "accessdate": "3 Nov 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "lang": "ro",
+          "url": "https://www.mediafax.ro/politic/cine-este-noul-ministru-al-finantelor-dan-vilceanu-si-a-inceput-cariera-politica-la-psd-20235606",
+          "title": "Cine este noul ministru al Finanţelor. Dan Vîlceanu şi-a început cariera politică la PSD",
+          "work": "Mediafax.ro",
+          "date": "18 August 2021",
+          "accessdate": "3 Nov 2021",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "ciucă cabinet"
+        }
+      ]
+    }
+  ]
+}

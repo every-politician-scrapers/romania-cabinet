@@ -1,0 +1,983 @@
+{
+  "title": "Nicolae Ciucă",
+  "pageID": 65258264,
+  "categories": [
+    "1967 births",
+    "21st-century Romanian politicians",
+    "Chiefs of the General Staff of Romania",
+    "Living people",
+    "People from Dolj County",
+    "Prime Ministers of Romania",
+    "Romanian Land Forces generals",
+    "Romanian Ministers of Defence",
+    "People of the Iraq War"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Nicolae Ionel Ciucă (born 7 February 1967) is a Romanian politician and retired general of the Romanian Land Forces.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Romanian Land Forces"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Nicolae Ionel Ciucă"
+                ]
+              }
+            },
+            {
+              "text": "He is currently serving as Prime Minister of Romania since 25 November 2021 after receiving a wide parliamentary support.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Prime Minister of Romania"
+                }
+              ]
+            },
+            {
+              "text": "Ciucă has participated in the wars in Afghanistan and Iraq, his performance in the latter receiving praise.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Afghanistan"
+                },
+                {
+                  "type": "internal",
+                  "page": "Iraq"
+                }
+              ]
+            },
+            {
+              "text": "He was the Chief of the Romanian General Staff from 2015 to 2019, and since 4 November 2019, he is the Minister of Defence.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Chief of the Romanian General Staff"
+                },
+                {
+                  "text": "Minister of Defence",
+                  "type": "internal",
+                  "page": "Ministry of National Defence (Romania)"
+                }
+              ]
+            },
+            {
+              "text": "He briefly led as caretaker the government between 7 and 23 December 2020, in the aftermath of Prime Minister Ludovic Orban's resignation.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ludovic Orban"
+                }
+              ]
+            },
+            {
+              "text": "On 21 October 2021, he was appointed by President Klaus Iohannis to form a new government, following the dissolution of the Cîțu Cabinet and rejection of Dacian Cioloș as Prime Minister, but subsequently submitted his term.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Klaus Iohannis"
+                },
+                {
+                  "type": "internal",
+                  "page": "Cîțu Cabinet"
+                },
+                {
+                  "type": "internal",
+                  "page": "Dacian Cioloș"
+                }
+              ]
+            },
+            {
+              "text": "Iohannis nominated him again on 22 November 2021."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Romanian Prime Minister",
+          "template": "short description"
+        },
+        {
+          "date": "October 2020",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1967",
+          "month": "2",
+          "day": "7",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Nicolae Ciucă"
+          },
+          "image": {
+            "text": "Nicolae-Ionel Ciucă 2020-5001 (cropped).jpg"
+          },
+          "order": {
+            "text": "70th",
+            "links": [
+              {
+                "text": "70th",
+                "type": "internal",
+                "page": "List of heads of government of Romania"
+              }
+            ]
+          },
+          "office": {
+            "text": "Prime Minister of Romania"
+          },
+          "president": {
+            "text": "Klaus Iohannis",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Klaus Iohannis"
+              }
+            ]
+          },
+          "deputy": {
+            "text": "Kelemen Hunor Sorin Grindeanu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kelemen Hunor"
+              },
+              {
+                "type": "internal",
+                "page": "Sorin Grindeanu"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "25 November 2021"
+          },
+          "predecessor": {
+            "text": "Florin Cîțu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Florin Cîțu"
+              }
+            ]
+          },
+          "president1": {
+            "text": "Klaus Iohannis",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Klaus Iohannis"
+              }
+            ]
+          },
+          "deputy1": {
+            "text": "Raluca Turcan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Raluca Turcan"
+              }
+            ]
+          },
+          "termlabel1": {
+            "text": "Acting"
+          },
+          "term_start1": {
+            "text": "7 December 2020"
+          },
+          "term_end1": {
+            "text": "23 December 2020"
+          },
+          "predecessor1": {
+            "text": "Ludovic Orban",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ludovic Orban"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Florin Cîțu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Florin Cîțu"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Minister of National Defence",
+            "links": [
+              {
+                "text": "Minister of National Defence",
+                "type": "internal",
+                "page": "Ministry of National Defence (Romania)"
+              }
+            ]
+          },
+          "primeminister2": {
+            "text": "Ludovic Orban Himself Florin Cîțu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ludovic Orban"
+              },
+              {
+                "type": "internal",
+                "page": "Florin Cîțu"
+              }
+            ],
+            "formatting": {
+              "italic": [
+                "Himself"
+              ]
+            }
+          },
+          "term_start2": {
+            "text": "4 November 2019"
+          },
+          "term_end2": {
+            "text": "25 November 2021"
+          },
+          "predecessor2": {
+            "text": "Gabriel-Beniamin Leș",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gabriel-Beniamin Leș"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Vasile Dîncu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Vasile Dîncu"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Senator of Romania",
+            "links": [
+              {
+                "text": "Senator of Romania",
+                "type": "internal",
+                "page": "Senate of Romania"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "21 December 2020"
+          },
+          "constituency3": {
+            "text": "Dolj County",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Dolj County"
+              }
+            ]
+          },
+          "office4": {
+            "text": "Chief of the Romanian General Staff",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chief of the Romanian General Staff"
+              }
+            ]
+          },
+          "president4": {
+            "text": "Klaus Iohannis",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Klaus Iohannis"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "1 January 2015"
+          },
+          "term_end4": {
+            "text": "28 October 2019"
+          },
+          "predecessor4": {
+            "text": "Ștefan Dănilă",
+            "links": [
+              {
+                "text": "Ștefan Dănilă",
+                "type": "internal",
+                "page": "Ștefan Dănilă"
+              }
+            ]
+          },
+          "successor4": {
+            "text": "Daniel Petrescu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Daniel Petrescu"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "February 7, 1967"
+          },
+          "birth_place": {
+            "text": "Plenița, Romania",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Plenița"
+              },
+              {
+                "text": "Romania",
+                "type": "internal",
+                "page": "Socialist Republic of Romania"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Romanian"
+          },
+          "party": {
+            "text": "National Liberal Party (2020–present)",
+            "links": [
+              {
+                "text": "National Liberal Party",
+                "type": "internal",
+                "page": "National Liberal Party (Romania)"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Biography",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "He was born in Plenița, a commune in Dolj County.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Plenița"
+                },
+                {
+                  "type": "internal",
+                  "page": "Dolj County"
+                }
+              ]
+            },
+            {
+              "text": "He graduated from the Military Lyceum \"Tudor Vladimirescu\" in Craiova in 1985 and from the Nicolae Bălcescu Land Forces Academy in Sibiu in 1988.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Craiova"
+                },
+                {
+                  "type": "internal",
+                  "page": "Nicolae Bălcescu Land Forces Academy"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sibiu"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "During his military career, he participated in missions in Afghanistan, Bosnia and Herzegovina, and Iraq.",
+              "links": [
+                {
+                  "text": "missions",
+                  "type": "internal",
+                  "page": "Military mission"
+                },
+                {
+                  "type": "internal",
+                  "page": "Afghanistan"
+                },
+                {
+                  "type": "internal",
+                  "page": "Bosnia and Herzegovina"
+                },
+                {
+                  "type": "internal",
+                  "page": "Iraq"
+                }
+              ]
+            },
+            {
+              "text": "From 2001 to 2004 he was commander of the 26th Infantry Battalion (also known as the Red Scorpions), with which he participated in Operation Enduring Freedom in Afghanistan and Operation Ancient Babylon in Iraq.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Operation Enduring Freedom"
+                },
+                {
+                  "type": "internal",
+                  "page": "Operation Ancient Babylon"
+                }
+              ]
+            },
+            {
+              "text": "In May 2004, at Nasiriyah, Iraq, he led Romanian troops in an armed engagement, reportedly the first battle in which Romanians were \"active combatants\" since World War II.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Nasiriyah"
+                },
+                {
+                  "type": "internal",
+                  "page": "World War II"
+                }
+              ]
+            },
+            {
+              "text": "He was promoted to the rank of General on 25 October 2010."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2015, he replaced Ștefan Dănilă as Chief of the Romanian General Staff.",
+              "links": [
+                {
+                  "text": "Ștefan Dănilă",
+                  "type": "internal",
+                  "page": "Ștefan Dănilă"
+                },
+                {
+                  "type": "internal",
+                  "page": "Chief of the Romanian General Staff"
+                }
+              ]
+            },
+            {
+              "text": "His 4-year post under this office was extended for another year by the Romanian President Klaus Iohannis in 2018.",
+              "links": [
+                {
+                  "text": "Romanian President",
+                  "type": "internal",
+                  "page": "President of Romania"
+                },
+                {
+                  "type": "internal",
+                  "page": "Klaus Iohannis"
+                }
+              ]
+            },
+            {
+              "text": "This caused a conflict between Iohannis, the Prime Minister Viorica Dăncilă, and the then Minister of Defense, Gabriel-Beniamin Leș, who intended to change office.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Viorica Dăncilă"
+                },
+                {
+                  "text": "Minister of Defense",
+                  "type": "internal",
+                  "page": "Ministry of National Defence (Romania)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Gabriel-Beniamin Leș"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Currently, Ciucă is married and has a child."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.hotnews.ro/stiri-defense-23444682-cine-este-nicolae-ciuca-propus-ministrul-apararii-militar-cariera-cunoscut-generalul-desertului-condus-irak-prima-batalie-soldatilor-romani-dupa-doilea-razboi-mondial.htm",
+          "title": "Cine este Nicolae Ciucă, propus ministrul Apărării: militar de carieră, cunoscut ca \"generalul deșertului\", a condus în Irak prima bătalie a soldaților români după al doilea război mondial",
+          "first": "Victor",
+          "last": "Cozmei",
+          "newspaper": "HotNews",
+          "date": "24 October 2019",
+          "language": "ro",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.digi24.ro/stiri/actualitate/klaus-iohannis-a-semnat-decretul-privind-trecerea-in-rezerva-a-lui-nicolae-ciuca-1207962",
+          "title": "Klaus Iohannis a semnat decretul privind trecerea în rezervă a generalului Nicolae Ciucă, propus ministru al Apărării",
+          "newspaper": "Digi24",
+          "date": "28 October 2019",
+          "language": "ro",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.libertatea.ro/stiri/cine-este-nicolae-ciuca-ministrul-apararii-guvernul-orban-2791648",
+          "title": "Cine este Nicolae Ciucă, ministrul Apărării Naţionale. Militarul cu cel mai mare grad din Armată, este generalul român care a condus personal o misiune de luptă, în Irak",
+          "first": "Valentina",
+          "last": "Postelnicu",
+          "newspaper": "Libertatea",
+          "date": "5 November 2019",
+          "language": "ro",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "The National Liberal Party (PNL) proposed Ciucă as Minister of Defense of the First Orban Cabinet.",
+              "links": [
+                {
+                  "text": "National Liberal Party",
+                  "type": "internal",
+                  "page": "National Liberal Party (Romania)"
+                },
+                {
+                  "type": "internal",
+                  "page": "First Orban Cabinet"
+                }
+              ]
+            },
+            {
+              "text": "He was transferred as a reserve on 28 October 2019, being succeeded as Chief of the Romanian General Staff by Daniel Petrescu.",
+              "links": [
+                {
+                  "text": "reserve",
+                  "type": "internal",
+                  "page": "Military reserve"
+                },
+                {
+                  "type": "internal",
+                  "page": "Daniel Petrescu"
+                }
+              ]
+            },
+            {
+              "text": "He became the Minister of Defence of Romania on 4 November 2019."
+            },
+            {
+              "text": "In October 2020, he joined the National Liberal Party to run for the Senate of Romania in the next legislative elections and was elected.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Senate of Romania"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 7 December 2020, following the resignation of Prime Minister Ludovic Orban, he was named the acting Prime Minister by Iohannis.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ludovic Orban"
+                }
+              ]
+            },
+            {
+              "text": "He led as caretaker the government until a new coalition government was formed under Florin Cîțu in 23 December as a consequence of the result of the 2020 Romanian legislative election.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Florin Cîțu"
+                },
+                {
+                  "text": "2020 Romanian legislative election",
+                  "type": "internal",
+                  "page": "2020 Romanian legislative election"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "However, after the Cîțu Cabinet was dissolved through a motion of no confidence on 5 October 2021, Iohannis nominated Ciucă as Prime Minister-designate on 21 October 2021.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Cîțu Cabinet"
+                },
+                {
+                  "text": "motion of no confidence",
+                  "type": "internal",
+                  "page": "motion of no confidence"
+                }
+              ]
+            },
+            {
+              "text": "While the Magyar Democratic Union of Romania (UDMR) quickly agreed to renew a minority government with the PNL, the Social Democratic Party (PSD) offered to support him temporarily during the COVID-19 pandemic in exchange for agreeing to 10 measures.",
+              "links": [
+                {
+                  "text": "COVID-19 pandemic",
+                  "type": "internal",
+                  "page": "COVID-19 pandemic in Romania"
+                }
+              ]
+            },
+            {
+              "text": "He presented his government on 29 October."
+            },
+            {
+              "text": "Having failed to win the support of the PSD or the Union for the Salvation of Romania (USR), he gave up forming a government on 1 November."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Ciucă submitted his term as prime minister on 1 November 2021."
+            },
+            {
+              "text": "Ciucă was nominated again as Prime Minister-designate on 22 November 2021 and was confirmed by the parliament on 25 November after receiving 318 votes in favor."
+            },
+            {
+              "text": "He was sworn in the office hours later."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "Ciucă Cabinet"
+          ],
+          "template": "see also"
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.defense.ro/generalul-locotenent-daniel-petrescu-noul-sef-al-statului-major-al-apararii",
+          "title": "Generalul-locotenent Daniel Petrescu, noul șef al Statului Major al Apărării",
+          "publisher": "Ministry of National Defence",
+          "date": "29 November 2019",
+          "language": "ro",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://a1.ro/news/politic/cine-este-nicolae-ciuca-noul-ministru-al-apararii-nationale-id925852.html",
+          "title": "Cine este Nicolae Ciucă, noul ministru al Apărării Naționale",
+          "first": "Mirabela",
+          "last": "Năstase",
+          "newspaper": "Antena 1",
+          "date": "4 November 2019",
+          "language": "ro",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.digi24.ro/alegeri-parlamentare-2020/ministrul-apararii-nicolae-ciuca-s-a-inscris-in-pnl-si-va-candida-pentru-senat-1386599",
+          "title": "Ministrul apărării, Nicolae Ciucă, s-a înscris în PNL și va candida pentru Senat",
+          "newspaper": "Digi24",
+          "date": "18 October 2020",
+          "language": "ro",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.cdep.ro/pls/parlam/structura2015.mp?idm=28&leg=2020&cam=1",
+          "title": "Nicolae-Ionel CIUCĂ",
+          "website": "Parliament of Romania",
+          "language": "ro",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.digi24.ro/stiri/actualitate/politica/nicolae-ciuca-a-fost-numit-prim-ministru-interimar-1414138",
+          "title": "Nicolae Ciucă a fost numit prim-ministru interimar",
+          "newspaper": "Digi24",
+          "date": "7 December 2020",
+          "language": "ro",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.mediafax.ro/politic/noul-guvern-de-coalitie-condus-de-florin-citu-a-fost-investit-de-parlament-mesaj-scurt-al-lui-iohannis-la-ceremonia-de-investire-live-update-19813312",
+          "title": "Noul Guvern de coaliție condus de Florin Cîțu a fost învestit de Parlament. Mesajul lui Iohannis, la ceremonia de învestire",
+          "newspaper": "Mediafax",
+          "date": "23 December 2020",
+          "language": "ro",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.antena3.ro/politica/guvernul-citu-a-picat-615949.html",
+          "title": "Guvernul Cîțu a picat. Moțiunea de cenzură a trecut cu 281 de voturi",
+          "first": "Georgiana",
+          "last": "Adam",
+          "newspaper": "Antena 3",
+          "date": "5 October 2021",
+          "language": "ro",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.digi24.ro/stiri/actualitate/politica/consultari-iohannis-partide-parlamentare-pentru-o-noua-propunere-de-premier-programul-intalnirilor-de-la-cotroceni-1707821",
+          "title": "Klaus Iohannis: \"Am decis să-l desemnez drept candidat pentru funcția de prim-ministru pe Nicolae Ciucă\"",
+          "first": "Bogdan",
+          "last": "Pacurar",
+          "newspaper": "Digi24",
+          "date": "21 October 2021",
+          "language": "ro",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.agerpres.ro/politica/2021/10/23/psd-ciolacu-a-discutat-telefonic-cu-premierul-desemnat-i-a-cerut-includerea-in-programul-de-guvernare-a-10-masuri-urgente--801861",
+          "title": "PSD: Ciolacu a discutat telefonic cu premierul desemnat; i-a cerut includerea în programul de guvernare a 10 măsuri urgente",
+          "newspaper": "Agerpres",
+          "date": "23 October 2021",
+          "language": "ro",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Nicolae Ciucă va merge în Parlament cu un guvern minoritar PNL-UDMR. Iată lista miniștrilor UPDATE: USR nu votează noul cabinet",
+          "url": "https://www.economica.net/nicolae-ciuca-va-merge-in-parlament-cu-un-guvern-minoritar-pnl-udmr-iata-lista-ministrilor_540583.html",
+          "website": "Economica",
+          "date": "29 October 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2021-11-25",
+          "title": "Romania's crisis continues as latest PM-designate throws in the towel",
+          "url": "https://www.euronews.com/2021/11/02/romania-s-crisis-continues-as-latest-pm-designate-throws-in-the-towel",
+          "access-date": "2021-11-25",
+          "website": "Euronews",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Ciucă: Am depus mandatul de premier desemnat. Biroul Executiv a cerut. Cîțu: Propunerea de premier va fi decizia partidului",
+          "url": "https://www.digi24.ro/stiri/actualitate/politica/surse-sedinta-de-urgenta-la-pnl-nicolae-ciuca-si-ar-putea-depune-mandatul-1720821",
+          "website": "Digi24",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2021-11-22",
+          "title": "BREAKING Iohannis: Îl desemnez pe Nicolae Ciucă pentru a forma o echipă guvernamentală. S-a format o majoritate solidă PNL, PSD, UDMR și grupul minorităților / Ciucă: Sperăm ca de joi să ne apucăm serios de treabă",
+          "url": "https://www.g4media.ro/live-iohannis-il-desemnez-pe-domnul-nicolae-ciuca-pentru-a-forma-o-echipa-guvernamentala-s-a-format-o-majoritate-solida-din-care-fac-parte-pnl-psd-udmr-si-grupul-minoritatilor.html",
+          "access-date": "2021-11-22",
+          "website": "G4Media",
+          "language": "ro",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2021-11-25",
+          "title": "Romanian parliament elects Nicolae Ciucă as prime minister",
+          "url": "https://www.politico.eu/article/nicolae-ciuca-romania-prime-minister-national-liberal-party-social-democratic-party/",
+          "access-date": "2021-11-25",
+          "first": "Matei",
+          "last": "Rosca",
+          "website": "Politico",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2021-11-25",
+          "title": "Romanian President Swears In New Government, Declares 'Political Crisis Over'",
+          "url": "https://www.rferl.org/a/romania-coalition-parliament-approved/31578618.html",
+          "access-date": "2021-11-25",
+          "website": "Radio Free Europe/Radio Liberty",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "See also",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Orban I Cabinet",
+            "links": [
+              {
+                "text": "Orban I Cabinet",
+                "type": "internal",
+                "page": "First Orban Cabinet"
+              }
+            ]
+          },
+          {
+            "text": "Orban II Cabinet",
+            "links": [
+              {
+                "text": "Orban II Cabinet",
+                "type": "internal",
+                "page": "Second Orban Cabinet"
+              }
+            ]
+          },
+          {
+            "text": "Cîțu Cabinet",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cîțu Cabinet"
+              }
+            ]
+          },
+          {
+            "text": "Ciucă Cabinet",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ciucă Cabinet"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "2"
+          ],
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-mil"
+        },
+        {
+          "before": "Ștefan Dănilă",
+          "template": "s-bef"
+        },
+        {
+          "title": "Chief of the Romanian General Staff",
+          "years": "2015–2019",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Daniel Petrescu",
+          "template": "s-aft"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Gabriel-Beniamin Leș",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister of National Defence",
+          "years": "2019–2021",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Vasile Dîncu",
+          "template": "s-aft"
+        },
+        {
+          "before": "Ludovic Orban",
+          "template": "s-bef"
+        },
+        {
+          "title": "Prime Minister of Romania Acting",
+          "years": "2020",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Florin Cîțu",
+          "template": "s-aft"
+        },
+        {
+          "before": "Florin Cîțu",
+          "template": "s-bef"
+        },
+        {
+          "title": "Prime Minister of Romania",
+          "years": "2021–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "prime ministers of romania"
+        },
+        {
+          "template": "defence ministers of romania"
+        },
+        {
+          "template": "smg chiefs"
+        },
+        {
+          "template": "supreme council of national defense"
+        },
+        {
+          "template": "ciucă cabinet"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}
