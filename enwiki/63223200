@@ -44,7 +44,7 @@
               ]
             },
             {
-              "text": "After a motion of no-confidence ended his premiership, Cîțu was voted President of the Senate of Romania by the new PSD-PNL coalition in Parliament.",
+              "text": "After a motion of no-confidence ended his premiership, Cîțu was voted President of the Senate of Romania by the new PSD-PNL-UDMR coalition in Parliament.",
               "links": [
                 {
                   "type": "internal",
@@ -1517,6 +1517,9 @@
         },
         {
           "template": "authority control"
+        },
+        {
+          "template": "president of the senate of romania"
         },
         {
           "template": "prime ministers of romania"

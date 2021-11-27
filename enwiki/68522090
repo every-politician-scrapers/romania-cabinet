@@ -10,7 +10,8 @@
     "21st-century Romanian politicians",
     "Members of the Chamber of Deputies (Romania)",
     "People from Gorj County",
-    "Social Democratic Party (Romania) politicians"
+    "Social Democratic Party (Romania) politicians",
+    "Members of the Romanian Cabinet"
   ],
   "sections": [
     {
@@ -137,6 +138,26 @@
           },
           "term_start3": {
             "text": "18 August 2021"
+          },
+          "term_end3": {
+            "text": "25 November 2021"
+          },
+          "predecessor3": {
+            "text": "Florin Cîțu (ad interim)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Florin Cîțu"
+              }
+            ],
+            "formatting": {
+              "italic": [
+                "ad interim"
+              ]
+            }
+          },
+          "successor3": {
+            "text": "Adrian Câciu"
           },
           "office4": {
             "text": "Member of the Romanian Chamber of Deputies",

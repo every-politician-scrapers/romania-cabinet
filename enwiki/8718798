@@ -99,6 +99,19 @@
                   "page": "Senate of Romania"
                 }
               ]
+            },
+            {
+              "text": "Since December 2020 he was elected once again as a member of the Senate of Romania and on 25 November 2021 he was appointed as Minister of National Defence in the Ciucă Cabinet.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Senate of Romania"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ciucă Cabinet"
+                }
+              ]
             }
           ]
         },
@@ -198,6 +211,37 @@
         },
         {
           "office": {
+            "text": "Minister of National Defence",
+            "links": [
+              {
+                "text": "Minister of National Defence",
+                "type": "internal",
+                "page": "Ministry of National Defence (Romania)"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Nicolae Ciucă",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nicolae Ciucă"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "25 November 2021"
+          },
+          "predecessor": {
+            "text": "Nicolae Ciucă",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nicolae Ciucă"
+              }
+            ]
+          },
+          "office1": {
             "text": "Deputy Prime Minister of Romania",
             "links": [
               {
@@ -206,7 +250,7 @@
               }
             ]
           },
-          "primeminister": {
+          "primeminister1": {
             "text": "Dacian Cioloș",
             "links": [
               {
@@ -215,7 +259,7 @@
               }
             ]
           },
-          "president": {
+          "president1": {
             "text": "Klaus Iohannis",
             "links": [
               {
@@ -224,33 +268,6 @@
               }
             ]
           },
-          "term_start": {
-            "text": "17 November 2015"
-          },
-          "term_end": {
-            "text": "4 January 2017"
-          },
-          "predecessor": {
-            "text": "Gabriel Oprea",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Gabriel Oprea"
-              }
-            ]
-          },
-          "successor": {
-            "text": "Sevil Shhaideh",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sevil Shhaideh"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Minister of Regional Development and Public Administration"
-          },
           "term_start1": {
             "text": "17 November 2015"
           },
@@ -258,11 +275,11 @@
             "text": "4 January 2017"
           },
           "predecessor1": {
-            "text": "Sevil Shhaideh",
+            "text": "Gabriel Oprea",
             "links": [
               {
                 "type": "internal",
-                "page": "Sevil Shhaideh"
+                "page": "Gabriel Oprea"
               }
             ]
           },
@@ -276,6 +293,33 @@
             ]
           },
           "office2": {
+            "text": "Minister of Regional Development and Public Administration"
+          },
+          "term_start2": {
+            "text": "17 November 2015"
+          },
+          "term_end2": {
+            "text": "4 January 2017"
+          },
+          "predecessor2": {
+            "text": "Sevil Shhaideh",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sevil Shhaideh"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Sevil Shhaideh",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sevil Shhaideh"
+              }
+            ]
+          },
+          "office3": {
             "text": "Member of the European Parliament for Romania",
             "links": [
               {
@@ -289,13 +333,13 @@
               }
             ]
           },
-          "term_start2": {
+          "term_start3": {
             "text": "1 January 2007"
           },
-          "term_end2": {
+          "term_end3": {
             "text": "13 May 2007"
           },
-          "office3": {
+          "office4": {
             "text": "Senator",
             "links": [
               {
@@ -305,20 +349,23 @@
               }
             ]
           },
-          "term_start3": {
+          "term_start4": {
+            "text": "21 December 2020"
+          },
+          "term_start5": {
             "text": "14 February 2004"
           },
-          "term_end3": {
+          "term_end5": {
             "text": "20 December 2008"
           },
           "name": {
             "text": "Vasile Dîncu"
           },
           "image": {
-            "text": "Vasile Dâncu.jpeg"
+            "text": "Vasile Dîncu portrait.jpg"
           },
           "caption": {
-            "text": "Sketch portrait of Vasile Dîncu (November 2015)"
+            "text": "Official portrait, 2020"
           },
           "birth_date": {
             "text": "November 25, 1961"
@@ -369,7 +416,18 @@
       "depth": 0,
       "paragraphs": [
         {
-          "sentences": []
+          "sentences": [
+            {
+              "text": "Senate of Romania - Vasile Dîncu 2020",
+              "links": [
+                {
+                  "text": "Senate of Romania - Vasile Dîncu 2020",
+                  "type": "external",
+                  "site": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=722cd7d1-3889-446e-a8eb-68e8063722a3"
+                }
+              ]
+            }
+          ]
         }
       ],
       "templates": [

@@ -137,12 +137,33 @@
             ]
           },
           "term_start1": {
-            "text": "4 November 2019"
-          },
-          "term_end1": {
-            "text": "23 December 2020"
+            "text": "25 November 2021"
           },
           "primeminister1": {
+            "text": "Nicolae Ciucă",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nicolae Ciucă"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Lucian Bode (Acting)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lucian Bode"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "4 November 2019"
+          },
+          "term_end2": {
+            "text": "23 December 2020"
+          },
+          "primeminister2": {
             "text": "Ludovic Orban",
             "links": [
               {
@@ -151,7 +172,7 @@
               }
             ]
           },
-          "predecessor1": {
+          "predecessor2": {
             "text": "Ana Birchall",
             "links": [
               {
@@ -160,7 +181,7 @@
               }
             ]
           },
-          "successor1": {
+          "successor2": {
             "text": "Stelian Ion",
             "links": [
               {
@@ -169,7 +190,7 @@
               }
             ]
           },
-          "primeminister2": {
+          "primeminister3": {
             "text": "Călin Popescu-Tăriceanu\nEmil Boc\nMihai Răzvan Ungureanu",
             "links": [
               {
@@ -186,13 +207,13 @@
               }
             ]
           },
-          "term_start2": {
+          "term_start3": {
             "text": "29 February 2008"
           },
-          "term_end2": {
+          "term_end3": {
             "text": "7 May 2012"
           },
-          "predecessor2": {
+          "predecessor3": {
             "text": "Teodor Meleșcanu (Acting)",
             "links": [
               {
@@ -201,7 +222,7 @@
               }
             ]
           },
-          "successor2": {
+          "successor3": {
             "text": "Titus Corlăţean",
             "links": [
               {
@@ -210,7 +231,7 @@
               }
             ]
           },
-          "office3": {
+          "office4": {
             "text": "Minister of Foreign Affairs",
             "links": [
               {
@@ -220,7 +241,7 @@
               }
             ]
           },
-          "primeminister3": {
+          "primeminister4": {
             "text": "Emil Boc",
             "links": [
               {
@@ -229,13 +250,13 @@
               }
             ]
           },
-          "term_start3": {
+          "term_start4": {
             "text": "1 October 2009"
           },
-          "term_end3": {
+          "term_end4": {
             "text": "23 December 2009"
           },
-          "predecessor3": {
+          "predecessor4": {
             "text": "Cristian Diaconescu",
             "links": [
               {
@@ -244,7 +265,7 @@
               }
             ]
           },
-          "successor3": {
+          "successor4": {
             "text": "Teodor Baconschi",
             "links": [
               {
