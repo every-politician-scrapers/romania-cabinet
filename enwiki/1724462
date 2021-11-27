@@ -272,11 +272,15 @@
             "text": "President of Romania"
           },
           "primeminister": {
-            "text": "Florin Cîțu",
+            "text": "Florin Cîțu\nNicolae Ciucă",
             "links": [
               {
                 "type": "internal",
                 "page": "Florin Cîțu"
+              },
+              {
+                "type": "internal",
+                "page": "Nicolae Ciucă"
               }
             ]
           },
@@ -1000,6 +1004,13 @@
           "url": "https://wikipedia.org/wiki/Special:Redirect/file/Klausjohannis2005.jpg",
           "caption": "Iohannis as Mayor of Sibiu (Hermannstadt) in May 2005.",
           "links": []
+        }
+      ],
+      "templates": [
+        {
+          "text": "Otto Helmut Mayerhoffer",
+          "lan1": "ro",
+          "template": "ill"
         }
       ],
       "references": [

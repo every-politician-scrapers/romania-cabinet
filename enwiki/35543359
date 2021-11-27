@@ -82,6 +82,16 @@
           "day": "20",
           "df": "y",
           "template": "birth date and age"
+        },
+        {
+          "text": "Daniel Barsky",
+          "lan1": "de",
+          "template": "ill"
+        },
+        {
+          "text": "Școala Normală Superioară București",
+          "lan1": "ro",
+          "template": "ill"
         }
       ],
       "infoboxes": [
@@ -469,6 +479,16 @@
         }
       ],
       "templates": [
+        {
+          "text": "Daniel Barsky",
+          "lan1": "de",
+          "template": "ill"
+        },
+        {
+          "text": "Școala Normală Superioară București",
+          "lan1": "ro",
+          "template": "ill"
+        },
         {
           "list": [
             "2011"

@@ -3,14 +3,14 @@
   "pageID": 65258264,
   "categories": [
     "1967 births",
-    "21st-century Romanian politicians",
-    "Chiefs of the General Staff of Romania",
     "Living people",
     "People from Dolj County",
-    "Prime Ministers of Romania",
     "Romanian Land Forces generals",
+    "People of the Iraq War",
+    "Chiefs of the General Staff of Romania",
+    "21st-century Romanian politicians",
     "Romanian Ministers of Defence",
-    "People of the Iraq War"
+    "Prime Ministers of Romania"
   ],
   "sections": [
     {
@@ -34,7 +34,7 @@
               }
             },
             {
-              "text": "He is currently serving as Prime Minister of Romania since 25 November 2021 after receiving a wide parliamentary support.",
+              "text": "He is currently serving as Prime Minister of Romania since 25 November 2021 after receiving widespread parliamentary support.",
               "links": [
                 {
                   "type": "internal",
@@ -43,7 +43,7 @@
               ]
             },
             {
-              "text": "Ciucă has participated in the wars in Afghanistan and Iraq, his performance in the latter receiving praise.",
+              "text": "Ciucă has participated in the invasions of Afghanistan and Iraq.",
               "links": [
                 {
                   "type": "internal",
@@ -86,6 +86,11 @@
                   "page": "Klaus Iohannis"
                 },
                 {
+                  "text": "a new government",
+                  "type": "internal",
+                  "page": "Ciucă Cabinet"
+                },
+                {
                   "type": "internal",
                   "page": "Cîțu Cabinet"
                 },
@@ -107,8 +112,18 @@
           "template": "short description"
         },
         {
-          "date": "October 2020",
+          "date": "November 2021",
           "template": "use dmy dates"
+        },
+        {
+          "text": "Gabriel-Beniamin Leș",
+          "lan1": "ro",
+          "template": "ill"
+        },
+        {
+          "text": "Ștefan Dănilă",
+          "lan1": "ro",
+          "template": "ill"
         },
         {
           "year": "1967",
@@ -116,6 +131,10 @@
           "day": "7",
           "df": "y",
           "template": "birth date and age"
+        },
+        {
+          "transcription": "nikoˈla.e ˈt͡ʃʲukə",
+          "template": "ipa"
         }
       ],
       "infoboxes": [
@@ -124,7 +143,7 @@
             "text": "Nicolae Ciucă"
           },
           "image": {
-            "text": "Nicolae-Ionel Ciucă 2020-5001 (cropped).jpg"
+            "text": "Nicolae Ciuca 2019 (cropped).jpg"
           },
           "order": {
             "text": "70th",
@@ -149,11 +168,11 @@
             ]
           },
           "deputy": {
-            "text": "Kelemen Hunor Sorin Grindeanu",
+            "text": "Hunor Kelemen Sorin Grindeanu",
             "links": [
               {
                 "type": "internal",
-                "page": "Kelemen Hunor"
+                "page": "Hunor Kelemen"
               },
               {
                 "type": "internal",
@@ -253,13 +272,7 @@
             "text": "25 November 2021"
           },
           "predecessor2": {
-            "text": "Gabriel-Beniamin Leș",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Gabriel-Beniamin Leș"
-              }
-            ]
+            "text": "Gabriel-Beniamin Leș"
           },
           "successor2": {
             "text": "Vasile Dîncu",
@@ -317,14 +330,7 @@
             "text": "28 October 2019"
           },
           "predecessor4": {
-            "text": "Ștefan Dănilă",
-            "links": [
-              {
-                "text": "Ștefan Dănilă",
-                "type": "internal",
-                "page": "Ștefan Dănilă"
-              }
-            ]
+            "text": "Ștefan Dănilă"
           },
           "successor4": {
             "text": "Daniel Petrescu",
@@ -339,11 +345,15 @@
             "text": "February 7, 1967"
           },
           "birth_place": {
-            "text": "Plenița, Romania",
+            "text": "Plenița, Dolj County, Romania",
             "links": [
               {
                 "type": "internal",
                 "page": "Plenița"
+              },
+              {
+                "type": "internal",
+                "page": "Dolj County"
               },
               {
                 "text": "Romania",
@@ -364,12 +374,57 @@
                 "page": "National Liberal Party (Romania)"
               }
             ]
+          },
+          "branch": {
+            "text": "Romanian Land Forces",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Romanian Land Forces"
+              }
+            ]
+          },
+          "serviceyears": {
+            "text": "1985–2019"
+          },
+          "rank": {
+            "text": "Romania-Army-OF-9.svg General",
+            "links": [
+              {
+                "text": "General",
+                "type": "internal",
+                "page": "Romanian_Armed_Forces_ranks_and_insignia"
+              }
+            ]
+          },
+          "commands": {
+            "text": "26th Infantry Battalion \"Red Scorpions\" Chief of the Romanian General Staff",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chief of the Romanian General Staff"
+              }
+            ]
+          },
+          "battles": {
+            "text": "War in Afghanistan Iraq War",
+            "links": [
+              {
+                "text": "War in Afghanistan",
+                "type": "internal",
+                "page": "War in Afghanistan (2001–2021)"
+              },
+              {
+                "type": "internal",
+                "page": "Iraq War"
+              }
+            ]
           }
         }
       ]
     },
     {
-      "title": "Biography",
+      "title": "Early life and military career",
       "depth": 0,
       "paragraphs": [
         {
@@ -451,6 +506,11 @@
                   "page": "Nasiriyah"
                 },
                 {
+                  "text": "Romanian troops",
+                  "type": "internal",
+                  "page": "Romanian Land Forces"
+                },
+                {
                   "type": "internal",
                   "page": "World War II"
                 }
@@ -466,11 +526,6 @@
             {
               "text": "In 2015, he replaced Ștefan Dănilă as Chief of the Romanian General Staff.",
               "links": [
-                {
-                  "text": "Ștefan Dănilă",
-                  "type": "internal",
-                  "page": "Ștefan Dănilă"
-                },
                 {
                   "type": "internal",
                   "page": "Chief of the Romanian General Staff"
@@ -502,32 +557,33 @@
                   "text": "Minister of Defense",
                   "type": "internal",
                   "page": "Ministry of National Defence (Romania)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Gabriel-Beniamin Leș"
                 }
               ]
             }
           ]
+        }
+      ],
+      "templates": [
+        {
+          "text": "Ștefan Dănilă",
+          "lan1": "ro",
+          "template": "ill"
         },
         {
-          "sentences": [
-            {
-              "text": "Currently, Ciucă is married and has a child."
-            }
-          ]
+          "text": "Gabriel-Beniamin Leș",
+          "lan1": "ro",
+          "template": "ill"
         }
       ],
       "references": [
         {
-          "url": "https://www.hotnews.ro/stiri-defense-23444682-cine-este-nicolae-ciuca-propus-ministrul-apararii-militar-cariera-cunoscut-generalul-desertului-condus-irak-prima-batalie-soldatilor-romani-dupa-doilea-razboi-mondial.htm",
-          "title": "Cine este Nicolae Ciucă, propus ministrul Apărării: militar de carieră, cunoscut ca \"generalul deșertului\", a condus în Irak prima bătalie a soldaților români după al doilea război mondial",
-          "first": "Victor",
           "last": "Cozmei",
-          "newspaper": "HotNews",
+          "first": "Victor",
           "date": "24 October 2019",
+          "title": "Cine este Nicolae Ciucă, propus ministrul Apărării: militar de carieră, cunoscut ca \"generalul deșertului\", a condus în Irak prima bătalie a soldaților români după al doilea război mondial",
           "language": "ro",
+          "newspaper": "HotNews",
+          "url": "https://www.hotnews.ro/stiri-defense-23444682-cine-este-nicolae-ciuca-propus-ministrul-apararii-militar-cariera-cunoscut-generalul-desertului-condus-irak-prima-batalie-soldatilor-romani-dupa-doilea-razboi-mondial.htm",
           "template": "citation",
           "type": "news"
         },
@@ -555,7 +611,7 @@
     },
     {
       "title": "Political career",
-      "depth": 1,
+      "depth": 0,
       "paragraphs": [
         {
           "sentences": [
@@ -716,8 +772,9 @@
         },
         {
           "url": "http://www.cdep.ro/pls/parlam/structura2015.mp?idm=28&leg=2020&cam=1",
-          "title": "Nicolae-Ionel CIUCĂ",
-          "website": "Parliament of Romania",
+          "title": "Nicolae-Ionel Ciucă",
+          "website": "www.cdep.ro",
+          "publisher": "Parliament of Romania",
           "language": "ro",
           "template": "citation",
           "type": "web"
@@ -755,7 +812,7 @@
           "url": "https://www.digi24.ro/stiri/actualitate/politica/consultari-iohannis-partide-parlamentare-pentru-o-noua-propunere-de-premier-programul-intalnirilor-de-la-cotroceni-1707821",
           "title": "Klaus Iohannis: \"Am decis să-l desemnez drept candidat pentru funcția de prim-ministru pe Nicolae Ciucă\"",
           "first": "Bogdan",
-          "last": "Pacurar",
+          "last": "Păcurar",
           "newspaper": "Digi24",
           "date": "21 October 2021",
           "language": "ro",
@@ -765,14 +822,14 @@
         {
           "url": "https://www.agerpres.ro/politica/2021/10/23/psd-ciolacu-a-discutat-telefonic-cu-premierul-desemnat-i-a-cerut-includerea-in-programul-de-guvernare-a-10-masuri-urgente--801861",
           "title": "PSD: Ciolacu a discutat telefonic cu premierul desemnat; i-a cerut includerea în programul de guvernare a 10 măsuri urgente",
-          "newspaper": "Agerpres",
+          "publisher": "Agerpres",
           "date": "23 October 2021",
           "language": "ro",
           "template": "citation",
           "type": "news"
         },
         {
-          "title": "Nicolae Ciucă va merge în Parlament cu un guvern minoritar PNL-UDMR. Iată lista miniștrilor UPDATE: USR nu votează noul cabinet",
+          "title": "Nicolae Ciucă va merge în Parlament cu un guvern minoritar PNL-UDMR. Iată lista miniștrilor: USR nu votează noul cabinet",
           "url": "https://www.economica.net/nicolae-ciuca-va-merge-in-parlament-cu-un-guvern-minoritar-pnl-udmr-iata-lista-ministrilor_540583.html",
           "website": "Economica",
           "date": "29 October 2021",
@@ -780,11 +837,11 @@
           "type": "web"
         },
         {
-          "date": "2021-11-25",
+          "date": "25 November 2021",
           "title": "Romania's crisis continues as latest PM-designate throws in the towel",
           "url": "https://www.euronews.com/2021/11/02/romania-s-crisis-continues-as-latest-pm-designate-throws-in-the-towel",
-          "access-date": "2021-11-25",
-          "website": "Euronews",
+          "access-date": "25 November 2021",
+          "newspaper": "Euronews",
           "template": "citation",
           "type": "web"
         },
@@ -796,20 +853,20 @@
           "type": "web"
         },
         {
-          "date": "2021-11-22",
-          "title": "BREAKING Iohannis: Îl desemnez pe Nicolae Ciucă pentru a forma o echipă guvernamentală. S-a format o majoritate solidă PNL, PSD, UDMR și grupul minorităților / Ciucă: Sperăm ca de joi să ne apucăm serios de treabă",
+          "date": "22 November 2021",
+          "title": "Iohannis: Îl desemnez pe Nicolae Ciucă pentru a forma o echipă guvernamentală. S-a format o majoritate solidă PNL, PSD, UDMR și grupul minorităților / Ciucă: Sperăm ca de joi să ne apucăm serios de treabă",
           "url": "https://www.g4media.ro/live-iohannis-il-desemnez-pe-domnul-nicolae-ciuca-pentru-a-forma-o-echipa-guvernamentala-s-a-format-o-majoritate-solida-din-care-fac-parte-pnl-psd-udmr-si-grupul-minoritatilor.html",
-          "access-date": "2021-11-22",
-          "website": "G4Media",
+          "access-date": "22 November 2021",
+          "publisher": "G4Media",
           "language": "ro",
           "template": "citation",
           "type": "web"
         },
         {
-          "date": "2021-11-25",
+          "date": "25 November 2021",
           "title": "Romanian parliament elects Nicolae Ciucă as prime minister",
           "url": "https://www.politico.eu/article/nicolae-ciuca-romania-prime-minister-national-liberal-party-social-democratic-party/",
-          "access-date": "2021-11-25",
+          "access-date": "25 November 2021",
           "first": "Matei",
           "last": "Rosca",
           "website": "Politico",
@@ -817,13 +874,26 @@
           "type": "web"
         },
         {
-          "date": "2021-11-25",
+          "date": "25 November 2021",
           "title": "Romanian President Swears In New Government, Declares 'Political Crisis Over'",
           "url": "https://www.rferl.org/a/romania-coalition-parliament-approved/31578618.html",
-          "access-date": "2021-11-25",
-          "website": "Radio Free Europe/Radio Liberty",
+          "access-date": "25 November 2021",
+          "publisher": "Radio Free Europe/Radio Liberty",
           "template": "citation",
           "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Currently, Ciucă is married and has a child."
+            }
+          ]
         }
       ]
     },
