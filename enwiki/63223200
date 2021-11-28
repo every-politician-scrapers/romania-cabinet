@@ -1457,6 +1457,9 @@
           "template": "reflist"
         },
         {
+          "template": "-"
+        },
+        {
           "template": "s-start"
         },
         {
@@ -1516,9 +1519,6 @@
           "template": "s-inc"
         },
         {
-          "template": "authority control"
-        },
-        {
           "template": "president of the senate of romania"
         },
         {
@@ -1526,6 +1526,9 @@
         },
         {
           "template": "pnlheads"
+        },
+        {
+          "template": "authority control"
         }
       ]
     }

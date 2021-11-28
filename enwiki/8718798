@@ -8,7 +8,9 @@
     "Social Democratic Party (Romania) politicians",
     "Social Democratic Party (Romania) MEPs",
     "MEPs for Romania 2007",
-    "Romanian Ministers of Defence"
+    "Romanian Ministers of Defence",
+    "Babeș-Bolyai University alumni",
+    "University of Bucharest faculty"
   ],
   "sections": [
     {
@@ -18,7 +20,44 @@
         {
           "sentences": [
             {
-              "text": "Vasile Sebastian Dîncu (born 25 November 1961 in Năsăud, Bistrița-Năsăud County, Romania) is a Romanian politician who served as Deputy Prime Minister and Minister of Regional Development and Public Administration in the technocratic cabinet of former Prime Minister Dacian Cioloș between late 2015 and early 2017.",
+              "text": "Vasile Sebastian Dîncu (born 25 November 1961) is a Romanian politician who served as Deputy Prime Minister in the Cioloș Cabinet and currently serves as Minister of National Defence in the Ciucă Cabinet.",
+              "links": [
+                {
+                  "text": "Romanian",
+                  "type": "internal",
+                  "page": "Romania"
+                },
+                {
+                  "text": "Deputy Prime Minister",
+                  "type": "internal",
+                  "page": "Deputy Prime Minister of Romania"
+                },
+                {
+                  "type": "internal",
+                  "page": "Cioloș Cabinet"
+                },
+                {
+                  "text": "Minister of National Defence",
+                  "type": "internal",
+                  "page": "Ministry of National Defence (Romania)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ciucă Cabinet"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Vasile Sebastian Dîncu"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was born in Năsăud, a town now in Bistrița-Năsăud County.",
               "links": [
                 {
                   "type": "internal",
@@ -27,17 +66,48 @@
                 {
                   "type": "internal",
                   "page": "Bistrița-Năsăud County"
+                }
+              ]
+            },
+            {
+              "text": "Dîncu is a member of the Social Democratic Party (PSD) and the Party of European Socialists (PES).",
+              "links": [
+                {
+                  "text": "Social Democratic Party",
+                  "type": "internal",
+                  "page": "Social Democratic Party (Romania)"
                 },
                 {
-                  "text": "Romania",
                   "type": "internal",
-                  "page": "Socialist Republic of Romania"
+                  "page": "Party of European Socialists"
+                }
+              ]
+            },
+            {
+              "text": "He was a Member of the European Parliament in 2007 with the accession of Romania to the European Union, and a member of the Senate of Romania.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Member of the European Parliament"
                 },
                 {
-                  "text": "Deputy Prime Minister",
+                  "text": "accession of Romania to the European Union",
                   "type": "internal",
-                  "page": "Deputy Prime Minister of Romania"
+                  "page": "accession of Romania to the European Union"
                 },
+                {
+                  "type": "internal",
+                  "page": "Senate of Romania"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Between late 2015 and early 2017 he served as Deputy Prime Minister and Minister of Regional Development and Public Administration in the technocratic cabinet of former Prime Minster of Romania Dacian Cioloș.",
+              "links": [
                 {
                   "text": "Minister of Regional Development and Public Administration",
                   "type": "internal",
@@ -54,51 +124,18 @@
                   "page": "Cioloș Cabinet"
                 },
                 {
+                  "text": "Prime Minster of Romania",
                   "type": "internal",
-                  "page": "Dacian Cioloș"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Vasile Sebastian Dîncu"
-                ]
-              }
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Although the Cioloș cabinet was non-partisan and technocratic, at that time he was (and still is) a member of the Social Democratic Party (PSD) and the Party of European Socialists (PES).",
-              "links": [
-                {
-                  "text": "Social Democratic Party",
-                  "type": "internal",
-                  "page": "Social Democratic Party (Romania)"
+                  "page": "Prime Minister"
                 },
                 {
                   "type": "internal",
-                  "page": "Party of European Socialists"
+                  "page": "Dacian Cioloș"
                 }
               ]
             },
             {
-              "text": "Additionally, he was also a Member of the European Parliament in 2007 with the accession of Romania to the European Union and a member of the Senate of Romania.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Member of the European Parliament"
-                },
-                {
-                  "text": "accession of Romania to the European Union",
-                  "type": "internal",
-                  "page": "accession of Romania to the European Union"
-                },
-                {
-                  "type": "internal",
-                  "page": "Senate of Romania"
-                }
-              ]
+              "text": "Although the Cioloș cabinet was non-partisan and technocratic, at that time he was (and still is) a member of the PSD."
             },
             {
               "text": "Since December 2020 he was elected once again as a member of the Senate of Romania and on 25 November 2021 he was appointed as Minister of National Defence in the Ciucă Cabinet.",
@@ -118,10 +155,10 @@
         {
           "sentences": [
             {
-              "text": "In his party, he has been associated with the so-called Cluj Group, who are in favour of reforms in the Social Democratic Party (PSD)."
+              "text": "In his party, he has been associated with the so-called Cluj Group, who are in favour of reforms in the PSD."
             },
             {
-              "text": "The Cluj Group was also strongly opposed to the efforts of several former PSD leaderships which were aimed at impeaching the Romanian President (be it former state president Traian Băsescu or current state president Klaus Iohannis).",
+              "text": "The Cluj Group was also strongly opposed to the efforts of several former PSD leaderships which were aimed at impeaching the Romanian President (be it former President Traian Băsescu or current President Klaus Iohannis).",
               "links": [
                 {
                   "type": "internal",
@@ -187,7 +224,7 @@
             ]
           },
           "workplaces": {
-            "text": "University of Bucharest (UB), Babeș-Bolyai University (UBB)",
+            "text": "University of Bucharest Babeș-Bolyai University",
             "links": [
               {
                 "type": "internal",
@@ -200,7 +237,7 @@
             ]
           },
           "alma_mater": {
-            "text": "Babeș-Bolyai University (UBB)",
+            "text": "Babeș-Bolyai University",
             "links": [
               {
                 "type": "internal",
