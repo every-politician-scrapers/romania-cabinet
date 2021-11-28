@@ -349,7 +349,13 @@
             "text": "25 November 2021"
           },
           "predecessor3": {
-            "text": "Dan Vîlceanu (Acting)"
+            "text": "Dan Vîlceanu (Acting)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Dan Vîlceanu"
+              }
+            ]
           },
           "office4": {
             "text": "Minister of Communications"

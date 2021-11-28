@@ -17,7 +17,7 @@
         {
           "sentences": [
             {
-              "text": "Barna Tánczos (born 1976) is a Romanian politician who has been serving as Minister of Environment, Water and Forests in the Cîțu Cabinet and Ciucă Cabinet since 23 December 2020.",
+              "text": "Barna Tánczos (born 25 May 1976) is a Romanian politician who has been serving as Minister of Environment, Water and Forests in the Cîțu Cabinet and Ciucă Cabinet since 23 December 2020.",
               "links": [
                 {
                   "text": "Romanian",
@@ -51,6 +51,23 @@
           "topic": "gov",
           "date": "January 2021",
           "template": "expand romanian"
+        },
+        {
+          "date": "November 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "list": [
+            "Tánczos Barna"
+          ],
+          "template": "hungarian name"
+        },
+        {
+          "year": "1976",
+          "month": "5",
+          "day": "25",
+          "df": "y",
+          "template": "birth date and age"
         }
       ],
       "infoboxes": [
@@ -83,6 +100,32 @@
               {
                 "type": "internal",
                 "page": "Mircea Fechet"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "May 25, 1976"
+          },
+          "birth_place": {
+            "text": "Miercurea Ciuc, Romania",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Miercurea Ciuc"
+              },
+              {
+                "text": "Romania",
+                "type": "internal",
+                "page": "Socialist Republic of Romania"
+              }
+            ]
+          },
+          "party": {
+            "text": "Democratic Alliance of Hungarians in Romania",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Democratic Alliance of Hungarians in Romania"
               }
             ]
           }

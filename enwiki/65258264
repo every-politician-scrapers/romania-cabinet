@@ -10,7 +10,11 @@
     "Chiefs of the General Staff of Romania",
     "21st-century Romanian politicians",
     "Romanian Ministers of Defence",
-    "Prime Ministers of Romania"
+    "Prime Ministers of Romania",
+    "Recipients of the Legion of Merit",
+    "Commanders of the National Order of Merit (France)",
+    "Officers of the Order of the Star of Romania",
+    "Recipients of the National Order of Merit (Romania)"
   ],
   "sections": [
     {
@@ -41,17 +45,23 @@
                   "page": "Prime Minister of Romania"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "sentences": [
             {
-              "text": "Ciucă has participated in the invasions of Afghanistan and Iraq.",
+              "text": "Ciucă has participated in the wars in Afghanistan and Iraq.",
               "links": [
                 {
+                  "text": "Afghanistan",
                   "type": "internal",
-                  "page": "Afghanistan"
+                  "page": "War in Afghanistan (2001–2021)"
                 },
                 {
+                  "text": "Iraq",
                   "type": "internal",
-                  "page": "Iraq"
+                  "page": "Iraq War"
                 }
               ]
             },
@@ -108,7 +118,7 @@
       ],
       "templates": [
         {
-          "description": "Romanian Prime Minister",
+          "description": "70th Prime Minister of Romania",
           "template": "short description"
         },
         {
@@ -417,6 +427,27 @@
               {
                 "type": "internal",
                 "page": "Iraq War"
+              }
+            ]
+          },
+          "awards": {
+            "text": "Ordre national du Mérite, Commander rank National Order of Merit (Romania), Commander rank Order of the Star of Romania, Officer rank Legion of Merit",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ordre national du Mérite"
+              },
+              {
+                "type": "internal",
+                "page": "National Order of Merit (Romania)"
+              },
+              {
+                "type": "internal",
+                "page": "Order of the Star of Romania"
+              },
+              {
+                "type": "internal",
+                "page": "Legion of Merit"
               }
             ]
           }
@@ -764,7 +795,7 @@
         {
           "url": "https://www.digi24.ro/alegeri-parlamentare-2020/ministrul-apararii-nicolae-ciuca-s-a-inscris-in-pnl-si-va-candida-pentru-senat-1386599",
           "title": "Ministrul apărării, Nicolae Ciucă, s-a înscris în PNL și va candida pentru Senat",
-          "newspaper": "Digi24",
+          "publisher": "Digi24",
           "date": "18 October 2020",
           "language": "ro",
           "template": "citation",
@@ -782,7 +813,7 @@
         {
           "url": "https://www.digi24.ro/stiri/actualitate/politica/nicolae-ciuca-a-fost-numit-prim-ministru-interimar-1414138",
           "title": "Nicolae Ciucă a fost numit prim-ministru interimar",
-          "newspaper": "Digi24",
+          "publisher": "Digi24",
           "date": "7 December 2020",
           "language": "ro",
           "template": "citation",
@@ -848,7 +879,9 @@
         {
           "title": "Ciucă: Am depus mandatul de premier desemnat. Biroul Executiv a cerut. Cîțu: Propunerea de premier va fi decizia partidului",
           "url": "https://www.digi24.ro/stiri/actualitate/politica/surse-sedinta-de-urgenta-la-pnl-nicolae-ciuca-si-ar-putea-depune-mandatul-1720821",
-          "website": "Digi24",
+          "language": "Romanian",
+          "publisher": "Digi24",
+          "date": "1 November 2021",
           "template": "citation",
           "type": "web"
         },
@@ -857,7 +890,7 @@
           "title": "Iohannis: Îl desemnez pe Nicolae Ciucă pentru a forma o echipă guvernamentală. S-a format o majoritate solidă PNL, PSD, UDMR și grupul minorităților / Ciucă: Sperăm ca de joi să ne apucăm serios de treabă",
           "url": "https://www.g4media.ro/live-iohannis-il-desemnez-pe-domnul-nicolae-ciuca-pentru-a-forma-o-echipa-guvernamentala-s-a-format-o-majoritate-solida-din-care-fac-parte-pnl-psd-udmr-si-grupul-minoritatilor.html",
           "access-date": "22 November 2021",
-          "publisher": "G4Media",
+          "publisher": "G4 Media",
           "language": "ro",
           "template": "citation",
           "type": "web"
@@ -868,7 +901,7 @@
           "url": "https://www.politico.eu/article/nicolae-ciuca-romania-prime-minister-national-liberal-party-social-democratic-party/",
           "access-date": "25 November 2021",
           "first": "Matei",
-          "last": "Rosca",
+          "last": "Roșca",
           "website": "Politico",
           "template": "citation",
           "type": "web"
@@ -879,6 +912,95 @@
           "url": "https://www.rferl.org/a/romania-coalition-parliament-approved/31578618.html",
           "access-date": "25 November 2021",
           "publisher": "Radio Free Europe/Radio Liberty",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Awards",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Ciucă is the recipient of the Ordre national du Mérite of the French Republic, Commander rank, and of the National Order of Merit of Romania, Commander rank.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ordre national du Mérite"
+                },
+                {
+                  "text": "National Order of Merit",
+                  "type": "internal",
+                  "page": "National Order of Merit (Romania)"
+                }
+              ]
+            },
+            {
+              "text": "In 2019 he was awarded the Order of the Star of Romania, Officer rank.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Order of the Star of Romania"
+                }
+              ]
+            },
+            {
+              "text": "In 2020 he was awarded the Legion of Merit by U.S. Ambassador Adrian Zuckerman.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Legion of Merit"
+                },
+                {
+                  "text": "Adrian Zuckerman",
+                  "type": "internal",
+                  "page": "Adrian Zuckerman (attorney)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.europafm.ro/cine-este-nicolae-ciuca-premierul-interimar-a-primit-ordinului-national-de-merit-al-republicii-franceze/",
+          "title": "Cine este Nicolae Ciucă, premierul interimar. A primit Ordinul Național de Merit al Republicii Franceze",
+          "publisher": "EuropaFM",
+          "lang": "ro",
+          "date": "8 December 2020",
+          "access-date": "27 November 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.agerpres.ro/documentare/2021/10/30/nicolae-ciuca-prim-ministru-desemnat-fisa-biografica--805952",
+          "title": "Nicolae Ciucă, prim-ministru desemnat (fișă biografică)",
+          "publisher": "Agerpres",
+          "lang": "ro",
+          "date": "30 October 2021",
+          "access-date": "27 November 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.juridice.ro/666366/ordinul-national-steaua-romaniei-a-fost-conferit-directorului-sri-si-ministrului-apararii-nationale.html",
+          "title": "Ordinul Național Steaua României a fost conferit directorului SRI și ministrului apărării naționale",
+          "lang": "ro",
+          "website": "www.juridice.ro",
+          "date": "29 November 2019",
+          "access-date": "27 November 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://ro.usembassy.gov/ambassador-zuckerman-at-the-awarding-of-legion-of-merit-to-acting-prime-minister-nicolae-ciuca/",
+          "title": "Ambassador Adrian Zuckerman at the Awarding of Legion of Merit to Acting Prime Minister Nicolae Ionel Ciuca",
+          "publisher": "U.S. Embassy in Romania",
+          "website": "ro.usembassy.gov",
+          "date": "15 December 2020",
+          "access-date": "27 November 2021",
           "template": "citation",
           "type": "web"
         }
@@ -964,10 +1086,10 @@
       ],
       "templates": [
         {
-          "list": [
-            "2"
-          ],
           "template": "reflist"
+        },
+        {
+          "template": "-"
         },
         {
           "template": "s-start"
@@ -1009,7 +1131,7 @@
           "template": "s-bef"
         },
         {
-          "title": "Prime Minister of Romania Acting",
+          "title": "Prime Minister of Romania\nActing",
           "years": "2020",
           "template": "s-ttl"
         },

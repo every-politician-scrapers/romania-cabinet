@@ -102,6 +102,12 @@
           "template": "use dmy dates"
         },
         {
+          "list": [
+            "Novák Károly Eduárd"
+          ],
+          "template": "hungarian name"
+        },
+        {
           "year": "1976",
           "month": "7",
           "day": "28",
@@ -240,8 +246,9 @@
                 "page": "Miercurea Ciuc"
               },
               {
+                "text": "Romania",
                 "type": "internal",
-                "page": "Romania"
+                "page": "Socialist Republic of Romania"
               }
             ]
           },

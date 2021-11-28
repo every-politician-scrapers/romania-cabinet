@@ -21,7 +21,7 @@
         {
           "sentences": [
             {
-              "text": "Attila-Zoltán Cseke (born June 9, 1973) is a Romanian lawyer and politician.",
+              "text": "Attila-Zoltán Cseke (born 9 June 1973) is a Romanian lawyer and politician.",
               "links": [
                 {
                   "text": "Romanian",
@@ -99,10 +99,14 @@
           "template": "short description"
         },
         {
+          "date": "November 2021",
+          "template": "use dmy dates"
+        },
+        {
           "list": [
-            "Cseke Attila"
+            "Cseke Attila Zoltán"
           ],
-          "template": "eastern name order"
+          "template": "hungarian name"
         }
       ]
     },
