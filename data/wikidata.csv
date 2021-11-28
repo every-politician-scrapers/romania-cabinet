@@ -1,7 +1,7 @@
 wdid,name,wdLabel,gender,dob,dobPrecision,source,sourceDate,pid,position,psid
 Q104598889,Adrian-Ionuț CHESNOIU,Adrian-Ionuț Chesnoiu,male,1982-05-12,11,https://www.gov.ro/en/government/the-cabinet-of-ministers,2021-11-26,Q21503604,Minister of Agriculture and Rural Development,Q104598889-d0597eea-4b0b-1598-a95e-f4c0aaa7a793
 Q109700122,Florin Marian SPĂTARU,Florin Spătaru,male,1969-12-22,11,https://www.gov.ro/en/government/the-cabinet-of-ministers,2021-11-26,Q109743596,Minister of Economy,Q109700122-909456af-4ec4-cae7-0244-00b266f51659
-Q109700361,Adrian CÂCIU,Adrian Câciu,male,,,https://www.gov.ro/en/government/the-cabinet-of-ministers,2021-11-26,Q21504216,Minister of Finance,Q109700361-16282e99-4b88-80cc-595c-cf83b6afaaba
+Q109746326,Adrian CÂCIU,Adrian Câciu (economist),male,1974-02-20,11,https://www.gov.ro/en/government/the-cabinet-of-ministers,2021-11-26,Q21504216,Minister of Finance,Q109746326-b1fceb84-4659-60b0-fd00-23251300661a
 Q1151156,Marian-Cătălin PREDOIU,Cătălin Predoiu,male,1968-08-27,11,https://www.gov.ro/en/government/the-cabinet-of-ministers,2021-11-26,Q21159939,Minister of Justice,Q1151156-7679940e-40f5-e741-33ba-7d66d035a1e1
 Q16593781,Gabriela FIREA,Gabriela Firea,female,1972-07-13,11,https://www.gov.ro/en/government/the-cabinet-of-ministers,2021-11-26,Q109743599,"Minister of Family, Youth and Equal Opportunities",Q16593781-1F1B86E4-EB11-4FBB-A235-D4D5049852B9
 Q18537583,Bogdan Lucian AURESCU,Bogdan Aurescu,male,1973-09-09,11,https://www.gov.ro/en/government/the-cabinet-of-ministers,2021-11-26,Q21503673,Minister of Foreign Affairs,Q18537583-0b6714c5-4c6f-4f3e-c905-8316be0638dc
@@ -17,7 +17,7 @@ Q28113715,Virgil-Daniel POPESCU,Virgil-Daniel Popescu,male,1968-04-25,11,https:/
 Q28113961,Constantin-Daniel CADARIU,Constantin-Daniel Cadariu,male,1967-12-16,11,https://www.gov.ro/en/government/the-cabinet-of-ministers,2021-11-26,Q109743597,Minister of Entrepreneurship and Tourism,Q28113961-40e9f65a-4022-9ee7-8dad-b04825647299
 Q28950289,Nicolae-Ionel CIUCĂ,Nicolae Ciucă,male,1967-02-07,11,https://www.gov.ro/en/government/the-cabinet-of-ministers,2021-11-26,Q15304810,Prime Minister,Q28950289-2de175be-4c29-03f1-c285-46c105c6cfce
 Q3265173,Lucian Nicolae BODE,Lucian Bode,male,1974-10-27,11,https://www.gov.ro/en/government/the-cabinet-of-ministers,2021-11-26,Q21504201,Minister of Internal Affairs,Q3265173-2e373321-468c-277d-827a-9036e2468fc7
-Q347209,Vasile Sebastian DÎNCU,Vasile Dîncu,male,1961-11-25,11,https://www.gov.ro/en/government/the-cabinet-of-ministers,2021-11-26,Q21504197,Minister of National Defence,Q347209-9d1b8657-4b80-f8cb-8277-273846902106
+Q347209,Vasile DÎNCU,Vasile Dîncu,male,1961-11-25,11,https://www.gov.ro/en/government/the-cabinet-of-ministers,2021-11-27,Q21504197,Minister of National Defence,Q347209-9d1b8657-4b80-f8cb-8277-273846902106
 Q747255,Attila-Zoltán CSEKE,Attila Cseke,male,1973-06-09,11,https://www.gov.ro/en/government/the-cabinet-of-ministers,2021-11-26,Q21503762,"Minister for Development, Public Works and Administration",Q747255-80bf21ae-4be3-f9ab-5d24-177a4600a3fa
 Q88007402,Alexandru RAFILA,Alexandru Rafila,male,1961-12-27,11,https://www.gov.ro/en/government/the-cabinet-of-ministers,2021-11-26,Q20885066,Minister of Health,Q88007402-689cb754-46c2-ef32-58cd-80eae463d4cd
 Q923357,Hunor KELEMEN,Hunor Kelemen,male,1967-10-18,11,https://www.gov.ro/en/government/the-cabinet-of-ministers,2021-11-26,Q81292982,Vice Prime Minister,Q923357-e6380b28-4f56-41fd-fafe-c0cdfd281aff
