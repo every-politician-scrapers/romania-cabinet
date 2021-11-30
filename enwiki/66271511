@@ -432,27 +432,6 @@
           "type": "news"
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "authority control"
-        },
-        {
-          "template": "interior ministers of romania"
-        },
-        {
-          "template": "ciucă cabinet"
-        },
-        {
-          "template": "romania-politician-stub"
-        }
-      ]
     }
   ]
 }

@@ -156,42 +156,6 @@
           "type": "news"
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "s-start"
-        },
-        {
-          "template": "s-off"
-        },
-        {
-          "before": "Mircea Fechet",
-          "template": "s-bef"
-        },
-        {
-          "title": "Minister of Environment, Water and Forests",
-          "years": "2020–present",
-          "template": "s-ttl"
-        },
-        {
-          "template": "s-inc"
-        },
-        {
-          "template": "ciucă cabinet"
-        },
-        {
-          "template": "authority control"
-        },
-        {
-          "template": "romania-politician-stub"
-        }
-      ]
     }
   ]
 }

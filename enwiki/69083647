@@ -198,24 +198,6 @@
           "inline": {}
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "list": [
-            "30em"
-          ],
-          "template": "reflist"
-        },
-        {
-          "template": "ciucă cabinet"
-        },
-        {
-          "template": "romania-politician-stub"
-        }
-      ]
     }
   ]
 }

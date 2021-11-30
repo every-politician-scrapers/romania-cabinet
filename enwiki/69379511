@@ -1,0 +1,147 @@
+{
+  "title": "Alexandru Rafila",
+  "pageID": 69379511,
+  "categories": [
+    "Social Democratic Party (Romania) politicians",
+    "Romanian bacteriologists",
+    "Carol Davila University of Medicine and Pharmacy faculty",
+    "People from Bucharest",
+    "1961 births",
+    "Living people",
+    "Romanian Ministers of Health"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Alexandru Rafila (born 27 December 1961, Bucharest, Romania) is a Romanian doctor and politician who serves since 25 November 2021 as Minister of Health of Romania in the Ciucă Cabinet.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bucharest"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ciucă Cabinet"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Alexandru Rafila"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Romanian politician",
+          "template": "short description"
+        },
+        {
+          "langcode": "it",
+          "otherarticle": "Alexandru Rafila",
+          "date": "November 2021",
+          "template": "expand language"
+        },
+        {
+          "year": "1961",
+          "month": "12",
+          "day": "27",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Alexandru Rafila"
+          },
+          "office": {
+            "text": "Minister of Health",
+            "links": [
+              {
+                "text": "Minister of Health",
+                "type": "internal",
+                "page": "Ministry of Health (Romania)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "25 November 2021"
+          },
+          "predecessor": {
+            "text": "Attila Cseke (Acting)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Attila Cseke"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Member of the Chamber of Deputies",
+            "links": [
+              {
+                "text": "Chamber of Deputies",
+                "type": "internal",
+                "page": "Chamber of Deputies of Romania"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "21 December 2020"
+          },
+          "constituency1": {
+            "text": "Bucharest",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bucharest"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "December 27, 1961"
+          },
+          "birth_place": {
+            "text": "Bucharest, Romanian People's Republic",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bucharest"
+              },
+              {
+                "type": "internal",
+                "page": "Romanian People's Republic"
+              }
+            ]
+          },
+          "party": {
+            "text": "Social Democratic Party (PSD)",
+            "links": [
+              {
+                "text": "Social Democratic Party",
+                "type": "internal",
+                "page": "Social Democratic Party (Romania)"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Carol Davila University of Medicine and Pharmacy (1987)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Carol Davila University of Medicine and Pharmacy"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

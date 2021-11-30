@@ -10,7 +10,9 @@
     "MEPs for Romania 2007",
     "Romanian Ministers of Defence",
     "Babeș-Bolyai University alumni",
-    "University of Bucharest faculty"
+    "University of Bucharest faculty",
+    "Romanian sociologists",
+    "Romanian writers"
   ],
   "sections": [
     {
@@ -20,7 +22,7 @@
         {
           "sentences": [
             {
-              "text": "Vasile Sebastian Dîncu (born 25 November 1961) is a Romanian politician who served as Deputy Prime Minister in the Cioloș Cabinet and currently serves as Minister of National Defence in the Ciucă Cabinet.",
+              "text": "Vasile Sebastian Dîncu (born 25 November 1961) is a Romanian politician, sociologist, professor and writer who served as Deputy Prime Minister in the Cioloș Cabinet and currently serves as Minister of National Defence in the Ciucă Cabinet.",
               "links": [
                 {
                   "text": "Romanian",
@@ -53,124 +55,6 @@
               }
             }
           ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "He was born in Năsăud, a town now in Bistrița-Năsăud County.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Năsăud"
-                },
-                {
-                  "type": "internal",
-                  "page": "Bistrița-Năsăud County"
-                }
-              ]
-            },
-            {
-              "text": "Dîncu is a member of the Social Democratic Party (PSD) and the Party of European Socialists (PES).",
-              "links": [
-                {
-                  "text": "Social Democratic Party",
-                  "type": "internal",
-                  "page": "Social Democratic Party (Romania)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Party of European Socialists"
-                }
-              ]
-            },
-            {
-              "text": "He was a Member of the European Parliament in 2007 with the accession of Romania to the European Union, and a member of the Senate of Romania.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Member of the European Parliament"
-                },
-                {
-                  "text": "accession of Romania to the European Union",
-                  "type": "internal",
-                  "page": "accession of Romania to the European Union"
-                },
-                {
-                  "type": "internal",
-                  "page": "Senate of Romania"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Between late 2015 and early 2017 he served as Deputy Prime Minister and Minister of Regional Development and Public Administration in the technocratic cabinet of former Prime Minster of Romania Dacian Cioloș.",
-              "links": [
-                {
-                  "text": "Minister of Regional Development and Public Administration",
-                  "type": "internal",
-                  "page": "Minister of Regional Development and Public Administration (Romania)"
-                },
-                {
-                  "text": "technocratic",
-                  "type": "internal",
-                  "page": "technocracy"
-                },
-                {
-                  "text": "cabinet",
-                  "type": "internal",
-                  "page": "Cioloș Cabinet"
-                },
-                {
-                  "text": "Prime Minster of Romania",
-                  "type": "internal",
-                  "page": "Prime Minister"
-                },
-                {
-                  "type": "internal",
-                  "page": "Dacian Cioloș"
-                }
-              ]
-            },
-            {
-              "text": "Although the Cioloș cabinet was non-partisan and technocratic, at that time he was (and still is) a member of the PSD."
-            },
-            {
-              "text": "Since December 2020 he was elected once again as a member of the Senate of Romania and on 25 November 2021 he was appointed as Minister of National Defence in the Ciucă Cabinet.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Senate of Romania"
-                },
-                {
-                  "type": "internal",
-                  "page": "Ciucă Cabinet"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "In his party, he has been associated with the so-called Cluj Group, who are in favour of reforms in the PSD."
-            },
-            {
-              "text": "The Cluj Group was also strongly opposed to the efforts of several former PSD leaderships which were aimed at impeaching the Romanian President (be it former President Traian Băsescu or current President Klaus Iohannis).",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Traian Băsescu"
-                },
-                {
-                  "type": "internal",
-                  "page": "Klaus Iohannis"
-                }
-              ]
-            }
-          ]
         }
       ],
       "templates": [
@@ -179,8 +63,8 @@
           "template": "short description"
         },
         {
-          "date": "October 2021",
-          "template": "blp unsourced"
+          "date": "November 2021",
+          "template": "use dmy dates"
         },
         {
           "year": "1961",
@@ -198,6 +82,9 @@
         {
           "embed": {
             "text": "yes"
+          },
+          "nationality": {
+            "text": "Romanian"
           },
           "fields": {
             "text": "Politics, sociology, history, and pedagogy",
@@ -446,61 +333,6 @@
             ]
           }
         }
-      ]
-    },
-    {
-      "title": "External links",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Senate of Romania - Vasile Dîncu 2020",
-              "links": [
-                {
-                  "text": "Senate of Romania - Vasile Dîncu 2020",
-                  "type": "external",
-                  "site": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=722cd7d1-3889-446e-a8eb-68e8063722a3"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "template": "ciucă cabinet"
-        },
-        {
-          "template": "authority control"
-        },
-        {
-          "template": "romania-mep-stub"
-        }
-      ],
-      "lists": [
-        [
-          {
-            "text": "European Parliament profile",
-            "links": [
-              {
-                "text": "European Parliament profile",
-                "type": "external",
-                "site": "http://www.europarl.europa.eu/members/public/yourMep/view.do;?id=33998"
-              }
-            ]
-          },
-          {
-            "text": "European Parliament official photo",
-            "links": [
-              {
-                "text": "European Parliament official photo",
-                "type": "external",
-                "site": "http://www.europarl.europa.eu/mepphoto/33998.jpg"
-              }
-            ]
-          }
-        ]
       ]
     }
   ]

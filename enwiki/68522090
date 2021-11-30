@@ -86,9 +86,10 @@
         {
           "sentences": [
             {
-              "text": "Dan Vîlceanu joined the Democratic Liberal Party (Romania) (Partidul Democrat-Liberal, PDL) and served as General Secretary of PDL Gorj (2011-2012), first deputy chair of PDL Gorj (2012-2013), chair of PDL Gorj (2013-2015) and (after the merger with the National Liberal Party) co-chair/chair of PNL Gorj National Liberal Party (Romania) (Partidul Național-Liberal, PNL) since 2015.",
+              "text": "Dan Vîlceanu joined the Democratic Liberal Party (Partidul Democrat-Liberal, PDL) and served as General Secretary of PDL Gorj (2011–2012), first deputy chairman of PDL Gorj (2012–2013), chairman of PDL Gorj (2013–2015) and (after the merger with the National Liberal Party) co-chairman/chairman of PNL Gorj National Liberal Party (Romania) (Partidul Național Liberal, PNL) respectively since 2015.",
               "links": [
                 {
+                  "text": "Democratic Liberal Party",
                   "type": "internal",
                   "page": "Democratic Liberal Party (Romania)"
                 },
@@ -265,15 +266,6 @@
           "accessdate": "3 Nov 2021",
           "template": "citation",
           "type": "web"
-        }
-      ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "ciucă cabinet"
         }
       ]
     }
