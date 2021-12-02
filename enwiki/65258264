@@ -126,6 +126,16 @@
           "template": "use dmy dates"
         },
         {
+          "text": "Gabriel-Beniamin Leș",
+          "lan1": "ro",
+          "template": "ill"
+        },
+        {
+          "text": "Ștefan Dănilă",
+          "lan1": "ro",
+          "template": "ill"
+        },
+        {
           "year": "1967",
           "month": "2",
           "day": "7",
@@ -163,7 +173,7 @@
       "infoboxes": [
         {
           "image": {
-            "text": "Nicolae Ciuca 2019 (cropped).jpg"
+            "text": "NicolaeCiuca 2019 (cropped).jpg"
           },
           "order": {
             "text": "70th",
