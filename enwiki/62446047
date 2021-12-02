@@ -114,11 +114,7 @@
             },
             {
               "text": "Other parties opposed to the PSD formed a new coalition on 23 December and formed the new government, thus pushing Ciolacu's PSD in opposition."
-            }
-          ]
-        },
-        {
-          "sentences": [
+            },
             {
               "text": "However, in 2021, following the political crisis that led to the collapse of the Cîțu Cabinet, he managed to bring the PSD back to the government, forming a cabinet with its former rival, the National Liberal Party, thus forming the pro-presidential National Coalition for Romania.",
               "links": [
@@ -149,6 +145,25 @@
                 {
                   "type": "internal",
                   "page": "National Coalition for Romania"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He has been described as adhering to the ideology of left-wing nationalism and social conservatism.",
+              "links": [
+                {
+                  "text": "left-wing nationalism",
+                  "type": "internal",
+                  "page": "left-wing nationalism"
+                },
+                {
+                  "text": "social conservatism",
+                  "type": "internal",
+                  "page": "social conservatism"
                 }
               ]
             }
@@ -201,9 +216,6 @@
           },
           "term_start": {
             "text": "23 November 2021"
-          },
-          "[object Object]": {
-            "text": "successor"
           },
           "predecessor": {
             "text": "Sorin Grindeanu (Acting)",
@@ -393,6 +405,24 @@
           "website": "G4Media.ro",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
         },
         {
           "template": "citation",

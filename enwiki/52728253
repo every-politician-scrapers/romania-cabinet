@@ -54,7 +54,7 @@
               ]
             },
             {
-              "text": "He is Deputy Prime Minister of Romania since 25 November 2021 in Ciucă Cabinet",
+              "text": "He currently serves as Deputy Prime Minister of Romania since 25 November 2021 as a part of the Ciucă Cabinet, along with Hunor Kelemen.",
               "links": [
                 {
                   "type": "internal",
@@ -63,6 +63,10 @@
                 {
                   "type": "internal",
                   "page": "Ciucă Cabinet"
+                },
+                {
+                  "type": "internal",
+                  "page": "Hunor Kelemen"
                 }
               ]
             }
