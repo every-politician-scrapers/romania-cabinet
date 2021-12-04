@@ -11,7 +11,7 @@ class MemberList
     end
 
     field :position do
-      noko.css('p').text.tidy.split(/, (?=Minister)/)
+      noko.css('p').text.tidy.split(/, (?=Minister)/i)
     end
   end
 
