@@ -58,6 +58,10 @@
       ],
       "templates": [
         {
+          "description": "Governor of the National Bank of Romania",
+          "template": "short description"
+        },
+        {
           "year": "1949",
           "month": "8",
           "day": "1",
