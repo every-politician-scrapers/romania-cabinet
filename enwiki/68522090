@@ -158,7 +158,13 @@
             }
           },
           "successor3": {
-            "text": "Adrian Câciu"
+            "text": "Adrian Câciu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Adrian Câciu"
+              }
+            ]
           },
           "office4": {
             "text": "Member of the Romanian Chamber of Deputies",
