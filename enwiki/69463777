@@ -1,0 +1,160 @@
+{
+  "title": "Adrian-Ionuț Chesnoiu",
+  "pageID": 69463777,
+  "categories": [
+    "1982 births",
+    "Living people",
+    "Social Democratic Party (Romania) politicians",
+    "Romanian Ministers of Agriculture"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Adrian-Ionuț Chesnoiu (born May 12, 1982, Coteana, Olt, Romania) is a Romanian deputy, elected in 2020 from Social Democratic Party.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Coteana"
+                },
+                {
+                  "text": "Olt",
+                  "type": "internal",
+                  "page": "Olt County"
+                },
+                {
+                  "type": "internal",
+                  "page": "Romania"
+                },
+                {
+                  "text": "Social Democratic Party",
+                  "type": "internal",
+                  "page": "Social Democratic Party (Romania)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Adrian-Ionuț Chesnoiu"
+                ]
+              }
+            },
+            {
+              "text": "Starting with November 25, he became the Minister of Agriculture and Rural Development in the government of Nicolae Ciucă.",
+              "links": [
+                {
+                  "text": "government of Nicolae Ciucă",
+                  "type": "internal",
+                  "page": "Ciucă Cabinet"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Romanian politician",
+          "template": "short description"
+        },
+        {
+          "date": "December 2021",
+          "template": "linkrot"
+        },
+        {
+          "date": "December 2021",
+          "template": "use mdy dates"
+        },
+        {
+          "date": "December 2021",
+          "template": "use american english"
+        },
+        {
+          "year": "1982",
+          "month": "5",
+          "day": "12",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "office3": {
+            "text": "Minister of Agriculture and Rural Development"
+          },
+          "term_start3": {
+            "text": "November 25, 2021"
+          },
+          "predecessor3": {
+            "text": "Nechita-Adrian Oros",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nechita-Adrian Oros"
+              }
+            ]
+          },
+          "office4": {
+            "text": "Member of the\nRomanian Chamber of Deputies\nfrom Olt",
+            "links": [
+              {
+                "text": "Romanian Chamber of Deputies",
+                "type": "internal",
+                "page": "Chamber of Deputies (Romania)"
+              },
+              {
+                "text": "Olt",
+                "type": "internal",
+                "page": "Olt County"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "December 21, 2021"
+          },
+          "birth_date": {
+            "text": "May 12, 1982"
+          },
+          "birth_place": {
+            "text": "Coteana, Olt, Romania",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Coteana"
+              },
+              {
+                "text": "Olt",
+                "type": "internal",
+                "page": "Olt County"
+              },
+              {
+                "type": "internal",
+                "page": "Romania"
+              }
+            ]
+          },
+          "party": {
+            "text": "Social Democratic Party",
+            "links": [
+              {
+                "text": "Social Democratic Party",
+                "type": "internal",
+                "page": "Social Democratic Party (Romania)"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    }
+  ]
+}

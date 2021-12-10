@@ -1,0 +1,119 @@
+{
+  "title": "Florin Spătaru",
+  "pageID": 69463918,
+  "categories": [
+    "Social Democratic Party (Romania) politicians",
+    "Romanian engineers",
+    "Romanian Ministers of Economy",
+    "1969 births",
+    "Living people"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Florin Spătaru (born December 22, 1969, Galați, Romania) is a Romanian politician who held the position of Minister of Economy in the Government of Nicolae Ciucă, a member of the Social Democratic Party.",
+              "links": [
+                {
+                  "text": "Galați",
+                  "type": "internal",
+                  "page": "Galați County"
+                },
+                {
+                  "type": "internal",
+                  "page": "Romania"
+                },
+                {
+                  "text": "Government of Nicolae Ciucă",
+                  "type": "internal",
+                  "page": "Ciucă Cabinet"
+                },
+                {
+                  "text": "Social Democratic Party",
+                  "type": "internal",
+                  "page": "Social Democratic Party (Romania)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Florin Spătaru"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Romanian politician",
+          "template": "short description"
+        },
+        {
+          "date": "December 2021",
+          "template": "use mdy dates"
+        },
+        {
+          "date": "December 2021",
+          "template": "use american english"
+        },
+        {
+          "year": "1969",
+          "month": "12",
+          "day": "22",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "office3": {
+            "text": "Minister of Economy"
+          },
+          "term_start3": {
+            "text": "November 25, 2021"
+          },
+          "birth_date": {
+            "text": "December 22, 1969"
+          },
+          "birth_place": {
+            "text": "Galați, Romania",
+            "links": [
+              {
+                "text": "Galați",
+                "type": "internal",
+                "page": "Galați County"
+              },
+              {
+                "type": "internal",
+                "page": "Romania"
+              }
+            ]
+          },
+          "party": {
+            "text": "Social Democratic Party",
+            "links": [
+              {
+                "text": "Social Democratic Party",
+                "type": "internal",
+                "page": "Social Democratic Party (Romania)"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.agerpres.ro/documentare/2021/11/23/florin-spataru-propus-ministru-al-economiei-fisa-biografica--819760",
+          "title": "Florin Spătaru, propus ministru al Economiei (fişă biografică) &#124; AGERPRES • Actualizează lumea",
+          "publisher": "Agerpres.ro",
+          "accessdate": "2021-12-08",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}
