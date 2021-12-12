@@ -15,11 +15,20 @@
         {
           "sentences": [
             {
-              "text": "Florin Claudiu Roman (born 22 April 1974, Alba Iulia) is a Romanian politician, incumbent member of the Romanian Chamber of Deputies since 2016.",
+              "text": "Florin Claudiu Roman (born 22 April 1974, Alba Iulia, Alba County, Romania) is a Romanian politician, incumbent member of the Romanian Chamber of Deputies since 2016.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Alba Iulia"
+                },
+                {
+                  "type": "internal",
+                  "page": "Alba County"
+                },
+                {
+                  "text": "Romania",
+                  "type": "internal",
+                  "page": "Socialist Republic of Romania"
                 },
                 {
                   "text": "Romanian",
