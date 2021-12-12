@@ -94,6 +94,12 @@
       ],
       "infoboxes": [
         {
+          "image": {
+            "text": "Marius Constantin Budai 2020.jpg"
+          },
+          "caption": {
+            "text": "Marius-Constantin Budăi in 2020"
+          },
           "office3": {
             "text": "Minister of Labor and Social Protection",
             "links": [
@@ -141,22 +147,26 @@
             ]
           },
           "office5": {
-            "text": "Member of the\nRomanian Chamber of Deputies\nfrom Botoșani",
+            "text": "Member of the\nRomanian Chamber of Deputies",
             "links": [
               {
                 "text": "Romanian Chamber of Deputies",
                 "type": "internal",
                 "page": "Chamber of Deputies (Romania)"
-              },
-              {
-                "text": "Botoșani",
-                "type": "internal",
-                "page": "Botoșani County"
               }
             ]
           },
           "term_start5": {
             "text": "December 20, 2016"
+          },
+          "constituency5": {
+            "text": "Botoșani County",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Botoșani County"
+              }
+            ]
           },
           "birth_date": {
             "text": "May 1, 1972"
@@ -174,8 +184,9 @@
                 "page": "Botoșani County"
               },
               {
+                "text": "Romania",
                 "type": "internal",
-                "page": "Romania"
+                "page": "Socialist Republic of Romania"
               }
             ]
           },

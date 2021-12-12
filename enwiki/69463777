@@ -97,22 +97,26 @@
             ]
           },
           "office4": {
-            "text": "Member of the\nRomanian Chamber of Deputies\nfrom Olt",
+            "text": "Member of the\nRomanian Chamber of Deputies",
             "links": [
               {
                 "text": "Romanian Chamber of Deputies",
                 "type": "internal",
                 "page": "Chamber of Deputies (Romania)"
-              },
-              {
-                "text": "Olt",
-                "type": "internal",
-                "page": "Olt County"
               }
             ]
           },
           "term_start4": {
             "text": "December 21, 2021"
+          },
+          "constituency4": {
+            "text": "Olt County",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Olt County"
+              }
+            ]
           },
           "birth_date": {
             "text": "May 12, 1982"
