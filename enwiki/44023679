@@ -83,12 +83,12 @@
       ],
       "templates": [
         {
-          "date": "January 2021",
-          "template": "use dmy dates"
-        },
-        {
           "description": "Romanian journalist and politician",
           "template": "short description"
+        },
+        {
+          "date": "January 2021",
+          "template": "use dmy dates"
         },
         {
           "year": "1972",
