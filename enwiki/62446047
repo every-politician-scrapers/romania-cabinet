@@ -407,40 +407,45 @@
           "type": "web"
         },
         {
+          "url": "https://www.g4media.ro/presa-elvetiana-despre-guvernul-psd-pnl-udmr-coalitia-dusmanilor-si-sfarsitul-unei-sperante-este-vorba-doar-de-a-nu-pierde-accesul-la-putere-si-bani.html",
+          "title": "Presa elvețiană, despre guvernul PSD PNL UDMR: Coaliția dușmanilor și sfârșitul unei speranțe / Este vorba doar de a nu pierde accesul la putere și bani",
+          "date": "27 November 2021",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         },
         {
+          "url": "https://www.mediafax.ro/editorialistii/ion-cristoiu-alianta-pnl-psd-e-victoria-lui-klaus-iohannis-poate-cea-mai-mare-victorie-a-sa-din-cei-10-ani-de-mandat-20359015",
+          "title": "Ion Cristoiu: Alianţa PNL-PSD e victoria lui Klaus Iohannis, poate cea mai mare victorie a sa din cei 10 ani de mandat",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         },
         {
+          "url": "https://www.hotnews.ro/stiri-politic-25202694-alianta-psd-pnl-udmr-numi-coalitia-nationala-pentru-romania-contine-acordul-politic.htm",
+          "title": "DOCUMENT Alianța PSD-PNL-UDMR se va numi Coaliția Națională pentru România / Ce conține acordul politic / Cum se schimbă ministerele la rotație: Justiția va reveni PSD, Finanțele, PNL - Politic - HotNews.ro",
+          "date": "24 November 2021",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         },
         {
+          "url": "https://www.hotnews.ro/stiri-politic-23701215-marcel-ciolacu-nationalism-psd-dublu-standard.htm",
+          "title": "Marcel Ciolacu apără o linie naționalistă a PSD: Există dublu standard / Naționalismul nu este un lucru rău - Politic - HotNews.ro",
+          "date": "4 March 2020",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         },
         {
+          "url": "https://www.g4media.ro/marcel-ciolacu-da-semnalul-intoarcerii-la-mesajul-nationalist-promovat-de-liviu-dragnea-reteta-de-pasta-de-dinti-din-romania-este-total-diferita-de-cea-din-europa-rosiile-au-alt-gust-romania-are-ne.html",
+          "title": "Marcel Ciolacu dă semnalul întoarcerii la mesajul naționalist promovat de Liviu Dragnea: Rețeta de pastă de dinți din România este total diferită de cea din Europa. Roșiile au alt gust/ România are nevoie de naționalism",
+          "date": "4 March 2020",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         },
         {
+          "url": "https://www.g4media.ro/video-interviu-marcel-ciolacu-nu-sunt-de-acord-cu-casatoria-intre-persoane-de-acelasi-sex-nici-cu-parteneriatul-civil-cum-explica-votul-europarlamentarilor-psd-pentru-rezolutia-europa-zo.html",
+          "title": "VIDEO INTERVIU Marcel Ciolacu: Nu sunt de acord cu căsătoria între persoane de același sex, nici cu parteneriatul civil / Cum explică votul europarlamentarilor PSD pentru rezoluția \"Europa, zonă de libertate pentru persoanele LGBT\"",
+          "date": "16 March 2021",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         }
       ]
     }
