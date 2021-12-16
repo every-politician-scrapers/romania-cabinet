@@ -48,7 +48,7 @@
               }
             },
             {
-              "text": "He served from 18 October 2021 to 2 November 2021 as interim President of the Chamber of Deputies, after the resignation of Ludovic Orban on 13 October, and since 25 November 2021 as Minister of Digitalization in the Ciucă Cabinet.",
+              "text": "He served from 18 October 2021 to 2 November 2021 as interim President of the Chamber of Deputies, after the resignation of Ludovic Orban on 13 October, and as Minister of Digitalization in the Ciucă Cabinet from 25 November to 15 December 2021, when he resigned on the grounds of accusations of plagiarism,  and significant irregularities  on his Curriculum vitae.",
               "links": [
                 {
                   "text": "President of the Chamber of Deputies",
@@ -62,6 +62,19 @@
                 {
                   "type": "internal",
                   "page": "Ciucă Cabinet"
+                },
+                {
+                  "type": "internal",
+                  "page": "Curriculum vitae"
+                }
+              ]
+            },
+            {
+              "text": "The plagiarism concerns were raised in the newspaper Libertatea, who explained they could not locate an academic paper that was listed on his CV and there were concerns raised about misleading statements regarding which university he attended.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Libertatea"
                 }
               ]
             }
@@ -97,6 +110,9 @@
           },
           "term_start": {
             "text": "25 November 2021"
+          },
+          "term_end": {
+            "text": "15 December 2021"
           },
           "predecessor": {
             "text": "Barna Tánczos (Acting)",
@@ -205,6 +221,24 @@
           "type": "inline",
           "data": {},
           "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "last": "Bucharest",
+          "first": "Associated Press in",
+          "date": "2021-12-15",
+          "title": "Romanian minister resigns over claims he faked education credentials",
+          "url": "https://www.theguardian.com/world/2021/dec/15/romanian-minister-florin-roman-resigns-fake-education-credentials",
+          "access-date": "2021-12-15",
+          "website": "the Guardian",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
         }
       ]
     }
