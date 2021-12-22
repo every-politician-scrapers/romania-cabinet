@@ -124,16 +124,16 @@
       ],
       "references": [
         {
+          "url": "https://www.gov.ro/en/government/the-cabinet-of-ministers",
+          "title": "Ministers of the Romanian Government",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         },
         {
+          "url": "https://senat.ro/FisaSenator.aspx?ParlamentarID=62B89E76-A840-4448-BC79-24298CC2FEA6",
+          "title": "Senatul României - Fișă senator",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         }
       ]
     }
