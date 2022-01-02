@@ -201,24 +201,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.gov.ro/en/government/the-cabinet-of-ministers",
-          "title": "Ministers of the Romanian Government",
-          "publisher": "Gov.ro",
-          "accessdate": "2021-12-08",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.cdep.ro/pls/parlam/structura2015.mp?idm=51&leg=2016&cam=2&idl=1&pag=0",
-          "title": "Budai Marius-Constantin",
-          "publisher": "Cdep.ro",
-          "accessdate": "2021-12-08",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

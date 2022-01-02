@@ -551,53 +551,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.mediafax.ro/politic/biografie-sorin-grindeanu-propus-prim-ministru-al-romaniei-a-urmat-un-curs-la-academia-nationala-de-informatii-a-fost-membru-in-comisia-de-control-a-sri-ce-avere-are-grindeanu-16042349",
-          "title": "Sorin Grindeanu, noul premier al României",
-          "date": "30 December 2016",
-          "newspaper": "Mediafax",
-          "access-date": "30 December 2016",
-          "language": "ro",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "http://indianexpress.com/article/world/romania-gets-new-pm-sorin-grindeanu-ending-political-turmoil-4451842/",
-          "title": "Romania gets new PM Sorin Grindeanu, ending political turmoil",
-          "date": "30 December 2016",
-          "newspaper": "The Indian Express",
-          "access-date": "30 December 2016",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "http://www.euronews.com/2016/12/30/leftist-social-democrat-sorin-grindeanu-is-named-romania-s-prime-minister-designate-by-president-iohannis",
-          "title": "Romania: Veteran leftist Sorin Grindeanu named PM-designate",
-          "date": "30 December 2016",
-          "website": "euronews",
-          "access-date": "30 December 2016",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.bloomberg.com/news/articles/2016-12-28/romanian-party-proposes-new-premier-candidate-to-avert-crisis",
-          "title": "Romanian Party Makes New Pick for Premier to Avert Crisis",
-          "date": "28 December 2016",
-          "newspaper": "Bloomberg.com",
-          "access-date": "30 December 2016",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.theguardian.com/world/2017/feb/01/romanians-protests-emergency-law-prisoner-pardons-corruption",
-          "title": "Protesters in Romania denounce plan to decriminalise misconduct offences",
-          "newspaper": "The Guardian",
-          "access-date": "1 February 2017",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]
