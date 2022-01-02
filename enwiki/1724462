@@ -513,50 +513,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.mediafax.ro/politic/iohannis-a-anuntat-in-bpn-depunerea-mandatului-si-demisia-din-partid-orban-si-gorghiu-si-au-prezentat-candidaturile-pentru-presedintia-pnl-13728170",
-          "title": "Iohannis: Mi-am anunțat demisia din PNL. Mulțumesc pentru că am avut onoarea să fiu președintele PNL",
-          "work": "Mediafax.ro",
-          "author": "Andi Manciu",
-          "date": "18 December 2014",
-          "language": "ro",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.euronews.net/2009/10/21/romanian-opposition-demands-new-pm/",
-          "title": "Romanian opposition demands new PM",
-          "work": "Euronews",
-          "date": "21 October 2009",
-          "access-date": "16 November 2014",
-          "archive-date": "29 February 2012",
-          "url-status": "live",
-          "archive-url": "https://web.archive.org/web/20120229172637/http://www.euronews.net/2009/10/21/romanian-opposition-demands-new-pm/",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "date": "30 November 2009",
-          "access-date": "16 November 2014",
-          "url": "http://www.financiarul.ro/2009/11/30/national-minorities-in-romanias-parliament-support-mircea-geoanas-candidacy-for-runoff-presidential-election/",
-          "title": "National minorities in Romania's Parliament support Mircea Geoana's candidacy for runoff presidential election – FINANCIARUL – ultimele stiri din Finante, Banci, Economie, Imobiliare si IT",
-          "archive-date": "10 January 2014",
-          "url-status": "live",
-          "archive-url": "https://web.archive.org/web/20140110122322/http://www.financiarul.ro/2009/11/30/national-minorities-in-romanias-parliament-support-mircea-geoanas-candidacy-for-runoff-presidential-election/",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://euobserver.com/political/126530",
-          "title": "Romanians elect first ethnic German president",
-          "work": "EUobserver",
-          "author": "Valentina Pop",
-          "date": "17 November 2014",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

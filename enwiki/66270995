@@ -130,31 +130,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "date": "24 December 2020",
-          "title": "Members of Citu Government take oath of office",
-          "work": "ACTMedia News Agency",
-          "url": "https://www.actmedia.eu/daily/members-of-citu-government-take-oath-of-office/90198",
-          "url-status": "live",
-          "access-date": "2 January 2021",
-          "archive-url": "https://web.archive.org/web/20210102212535/https://www.actmedia.eu/daily/members-of-citu-government-take-oath-of-office/90198",
-          "archive-date": "2 January 2021",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "date": "23 December 2020",
-          "title": "Guvernul Cîțu a fost votat în Parlament. A primit 260 de voturi pentru și 186 împotrivă",
-          "language": "ro",
-          "work": "Alba24",
-          "url": "https://alba24.ro/guvernul-citu-a-fost-votat-in-parlament-a-primit-260-de-voturi-pentru-si-186-impotriva-817270.html",
-          "url-status": "live",
-          "access-date": "2 January 2021",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

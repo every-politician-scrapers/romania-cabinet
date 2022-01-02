@@ -324,22 +324,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "title": "Romania PM quits as financial crisis topples government",
-          "url": "https://www.telegraph.co.uk/news/worldnews/europe/romania/9063708/Romania-PM-quits-as-financial-crisis-topples-government.html",
-          "journal": "The Telegraph",
-          "access-date": "2012-02-06",
-          "template": "citation",
-          "type": "citation"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
       ]
     }
   ]
