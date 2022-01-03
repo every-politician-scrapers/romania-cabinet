@@ -17,17 +17,7 @@
         {
           "sentences": [
             {
-              "text": "Adrian Câciu (born February 20, 1974 in Mihăilești, Buzău, Romania) is a Romanian economist and politician.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Mihăilești, Buzău"
-                },
-                {
-                  "type": "internal",
-                  "page": "Romania"
-                }
-              ],
+              "text": "Adrian Câciu (born February 20, 1974) is a Romanian economist and politician.",
               "formatting": {
                 "bold": [
                   "Adrian Câciu"
@@ -103,19 +93,6 @@
           },
           "birth_date": {
             "text": "February 20, 1974"
-          },
-          "birth_place": {
-            "text": "Mihăilești, Buzău, Romania",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mihăilești, Buzău"
-              },
-              {
-                "type": "internal",
-                "page": "Romania"
-              }
-            ]
           },
           "party": {
             "text": "Social Democratic Party",
