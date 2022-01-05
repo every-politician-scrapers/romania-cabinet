@@ -26,7 +26,7 @@
         {
           "sentences": [
             {
-              "text": "Constantin Mugur Isărescu (born 1 August 1949) is the Governor of the National Bank of Romania, a position he held since September 1990, with the exception of an eleven months period (22 December 1999 to 28 November 2000), during which he served as Prime Minister of Romania.",
+              "text": "Constantin Mugur Isărescu (born 1 August 1949) is the Governor of the National Bank of Romania, a position he held since September 1990, with the exception of an eleven months period (16 November 1999 to 28 October 2000), during which he served as Prime Minister of Romania.",
               "links": [
                 {
                   "type": "internal",
@@ -101,10 +101,10 @@
             ]
           },
           "term_start": {
-            "text": "16 December 1999"
+            "text": "16 November 1999"
           },
           "term_end": {
-            "text": "28 December 2000"
+            "text": "28 October 2000"
           },
           "predecessor": {
             "text": "Alexandru Athanasiu (Acting)\nRadu Vasile",
@@ -138,7 +138,7 @@
             ]
           },
           "term_start2": {
-            "text": "28 December 2000"
+            "text": "28 October 2000"
           },
           "predecessor2": {
             "text": "Emil Iota Ghizari (ad interim)",

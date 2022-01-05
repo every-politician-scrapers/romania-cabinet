@@ -151,6 +151,13 @@
         },
         {
           "list": [
+            "term",
+            "a"
+          ],
+          "template": "ref label"
+        },
+        {
+          "list": [
             "Gigel Știrbu",
             "ro"
           ],
@@ -167,6 +174,12 @@
           "spouse": "Éva Czézár",
           "from": "2012",
           "template": "marriage"
+        },
+        {
+          "list": [
+            "term"
+          ],
+          "template": "note"
         }
       ],
       "infoboxes": [
@@ -208,8 +221,12 @@
             ]
           },
           "primeminister": {
-            "text": "Nicolae Ciucă",
+            "text": "Florin Cîțu Nicolae Ciucă",
             "links": [
+              {
+                "type": "internal",
+                "page": "Florin Cîțu"
+              },
               {
                 "type": "internal",
                 "page": "Nicolae Ciucă"
@@ -217,56 +234,14 @@
             ]
           },
           "term_start": {
-            "text": "25 November 2021"
-          },
-          "alongside1": {
-            "text": "Dan Barna (until 7 September 2021)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Dan Barna"
-              }
-            ]
-          },
-          "president1": {
-            "text": "Klaus Iohannis",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Klaus Iohannis"
-              }
-            ]
-          },
-          "primeminister1": {
-            "text": "Florin Cîțu",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Florin Cîțu"
-              }
-            ]
-          },
-          "term_start1": {
             "text": "23 December 2020"
           },
-          "term_end1": {
-            "text": "24 November 2021"
-          },
-          "predecessor1": {
+          "predecessor": {
             "text": "Raluca Turcan",
             "links": [
               {
                 "type": "internal",
                 "page": "Raluca Turcan"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Himself \nSorin Grindeanu",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sorin Grindeanu"
               }
             ]
           },
@@ -499,6 +474,9 @@
           },
           "website": {
             "text": "http://www.kelemenhunor.ro/"
+          },
+          "footnotes": {
+            "text": "a. with Dan Barna before 7 September 2021"
           }
         }
       ]
