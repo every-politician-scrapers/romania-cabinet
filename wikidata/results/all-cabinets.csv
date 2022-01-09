@@ -1,5 +1,4 @@
 ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
-,Q18537457,Second Antonescu cabinet,,,,,,,,,,,,,,,,
 ,Q18539380,Q18539380,,,,,,,,,,,,,,,,
 ,Q18540015,Q18540015,,,,,,,,,,,,,,,,
 ,Q18540016,Q18540016,,,,,,,,,,,,,,,,
@@ -101,6 +100,7 @@ ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision
 ,Q18548800,Fifth Tătărăscu cabinet,1939-11-24,11,,,1940-05-10,11,,,,,,,,,,
 ,Q12729697,Sixth Tătărăscu cabinet,1940-05-11,11,,,1940-07-03,11,,,,,,,,,,
 ,Q12729704,First Antonescu cabinet,1940-09-04,11,,,1940-09-14,11,,,,,,,,,,
+,Q18537457,Second Antonescu cabinet,1940-09-14,11,,,1941-01-24,11,,,,,,,,,,
 ,Q18537458,Third Antonescu cabinet,1941-01-27,11,,,1944-08-23,11,,,,,,,,,,
 ,Q989063,First Sănătescu cabinet,1944-08-23,11,,,1944-11-03,11,,,,,,,,,,
 ,Q966560,Second Sănătescu cabinet,1944-11-04,11,,,1944-12-05,11,,,,,,,,,,
