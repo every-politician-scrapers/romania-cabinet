@@ -41,21 +41,11 @@
               }
             },
             {
-              "text": "On 18 August 2021, he was sworn in as Minister of Finance in the PNL-led Cîțu cabinet.",
+              "text": "On 25 November 2021, he was sworn in as Minister of Investments and European Projects in the Ciucă Cabinet.",
               "links": [
                 {
                   "type": "internal",
-                  "page": "Minister of Finance"
-                },
-                {
-                  "text": "PNL",
-                  "type": "internal",
-                  "page": "National Liberal Party (Romania)"
-                },
-                {
-                  "text": "Cîțu cabinet",
-                  "type": "internal",
-                  "page": "Cîțu Cabinet"
+                  "page": "Ciucă Cabinet"
                 }
               ]
             }
@@ -64,9 +54,10 @@
         {
           "sentences": [
             {
-              "text": "Between 2006 and 2009 Dan Vîlceanu was the leader of the Gorj branch of Social Democratic Youth (Romania) (Tineretul Social Democrat, TSD), the youth organisation of the Social Democratic Party (PSD) of Romania).",
+              "text": "Between 2006 and 2009 Dan Vîlceanu was the leader of the Gorj branch of Social Democratic Youth, the youth organisation of the Social Democratic Party (PSD) of Romania.",
               "links": [
                 {
+                  "text": "Social Democratic Youth",
                   "type": "internal",
                   "page": "Social Democratic Youth (Romania)"
                 },
@@ -86,33 +77,62 @@
         {
           "sentences": [
             {
-              "text": "Dan Vîlceanu joined the Democratic Liberal Party (Partidul Democrat-Liberal, PDL) and served as General Secretary of PDL Gorj (2011–2012), first deputy chairman of PDL Gorj (2012–2013), chairman of PDL Gorj (2013–2015) and (after the merger with the National Liberal Party) co-chairman/chairman of PNL Gorj National Liberal Party (Romania) (Partidul Național Liberal, PNL) respectively since 2015.",
+              "text": "Vîlceanu then joined the Democratic Liberal Party (PDL) to serve as General Secretary (2011–2012), first deputy chairman (2012–2013), and chairman of the Gorj branch of the party (2013–2015).",
               "links": [
                 {
                   "text": "Democratic Liberal Party",
                   "type": "internal",
                   "page": "Democratic Liberal Party (Romania)"
-                },
+                }
+              ]
+            },
+            {
+              "text": "After the PDL merged with the National Liberal Party (PNL), he had been serving as co-chairman/chairman of the latter's Gorj branch respectively since 2015, and as Secretary-General of the latter party since 26 September 2021.",
+              "links": [
                 {
-                  "text": "merger with the National Liberal Party",
+                  "text": "merged",
                   "type": "internal",
                   "page": "Democratic Liberal Party (Romania)",
                   "anchor": "Merger with the National Liberal Party"
                 },
                 {
+                  "text": "National Liberal Party",
                   "type": "internal",
                   "page": "National Liberal Party (Romania)"
                 }
               ]
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Furthermore, he also served as Minister of Finance in the PNL-led Cîțu cabinet, between 18 August and 25 November 2021.",
+              "links": [
+                {
+                  "text": "Minister of Finance",
+                  "type": "internal",
+                  "page": "Ministry of Public Finance (Romania)"
+                },
+                {
+                  "text": "PNL",
+                  "type": "internal",
+                  "page": "National Liberal Party (Romania)"
+                },
+                {
+                  "text": "Cîțu cabinet",
+                  "type": "internal",
+                  "page": "Cîțu Cabinet"
+                }
+              ]
+            },
+            {
+              "text": "Additionally, between 7 September and 25 November 2021, he served as acting Minister of Transport in the same cabinet."
+            }
+          ]
         }
       ],
       "templates": [
-        {
-          "date": "August 2021",
-          "template": "one source"
-        },
         {
           "description": "Romanian politician",
           "template": "short description"
@@ -134,16 +154,13 @@
       ],
       "infoboxes": [
         {
-          "office3": {
-            "text": "Minister of Finance"
+          "office": {
+            "text": "Minister of European Funds"
           },
-          "term_start3": {
-            "text": "18 August 2021"
-          },
-          "term_end3": {
+          "term_start": {
             "text": "25 November 2021"
           },
-          "predecessor3": {
+          "predecessor": {
             "text": "Florin Cîțu (ad interim)",
             "links": [
               {
@@ -157,12 +174,65 @@
               ]
             }
           },
-          "successor3": {
+          "office2": {
+            "text": "Minister of Finance"
+          },
+          "term_start2": {
+            "text": "18 August 2021"
+          },
+          "term_end2": {
+            "text": "25 November 2021"
+          },
+          "predecessor2": {
+            "text": "Florin Cîțu (ad interim)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Florin Cîțu"
+              }
+            ],
+            "formatting": {
+              "italic": [
+                "ad interim"
+              ]
+            }
+          },
+          "successor2": {
             "text": "Adrian Câciu",
             "links": [
               {
                 "type": "internal",
                 "page": "Adrian Câciu"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Minister of Transport"
+          },
+          "status3": {
+            "text": "Acting"
+          },
+          "term_start3": {
+            "text": "7 September 2021"
+          },
+          "term_end3": {
+            "text": "25 November 2021"
+          },
+          "predecessor3": {
+            "text": "Cătălin Drulă",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cătălin Drulă"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Sorin Grindeanu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sorin Grindeanu"
               }
             ]
           },
