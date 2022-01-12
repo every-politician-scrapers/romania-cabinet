@@ -490,12 +490,12 @@
             "text": "Religion"
           },
           "data1": {
-            "text": "Evangelical Lutheran",
+            "text": "Lutheran",
             "links": [
               {
-                "text": "Evangelical Lutheran",
+                "text": "Lutheran",
                 "type": "internal",
-                "page": "Evangelical Church of Augustan Confession in Romania"
+                "page": "Evangelical Church of the Augsburg Confession in Romania"
               }
             ]
           },
