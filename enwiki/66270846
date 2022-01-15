@@ -17,7 +17,7 @@
         {
           "sentences": [
             {
-              "text": "Virgil-Daniel Popescu is a Romanian politician who has been serving as Minister of Energy in the Cîțu Cabinet, led by Prime Minister Florin Cîțu,.",
+              "text": "Virgil-Daniel Popescu is a Romanian politician who has been serving as Minister of Energy in the Ciucă Cabinet, led by Prime Minister Nicolae Ciucă,.",
               "links": [
                 {
                   "text": "Romanian",
@@ -26,11 +26,11 @@
                 },
                 {
                   "type": "internal",
-                  "page": "Cîțu Cabinet"
+                  "page": "Ciucă Cabinet"
                 },
                 {
                   "type": "internal",
-                  "page": "Florin Cîțu"
+                  "page": "Nicolae Ciucă"
                 }
               ],
               "formatting": {
@@ -40,21 +40,30 @@
               }
             },
             {
-              "text": "He previously served in the first cabinet and second cabinet led by Ludovic Orban.",
+              "text": "He previously served in the first and second cabinets led by Ludovic Orban, as well as in the cabinet led by Florin Cîțu.",
               "links": [
                 {
-                  "text": "first cabinet",
+                  "text": "first",
                   "type": "internal",
                   "page": "First Orban Cabinet"
                 },
                 {
-                  "text": "second cabinet",
+                  "text": "second cabinets",
                   "type": "internal",
                   "page": "Second Orban Cabinet"
                 },
                 {
                   "type": "internal",
                   "page": "Ludovic Orban"
+                },
+                {
+                  "text": "cabinet",
+                  "type": "internal",
+                  "page": "Cîțu Cabinet"
+                },
+                {
+                  "type": "internal",
+                  "page": "Florin Cîțu"
                 }
               ]
             }
@@ -73,9 +82,9 @@
         },
         {
           "list": [
-            "2020",
-            "12",
-            "23"
+            "2021",
+            "11",
+            "25"
           ],
           "lc": "yes",
           "template": "as of"
@@ -90,14 +99,26 @@
             "text": "Minister of Energy"
           },
           "term_start": {
-            "text": "23 December 2020"
+            "text": "4 November 2019"
           },
           "primeminister": {
-            "text": "Cîțu Cabinet",
+            "text": "Ludovic Orban Nicolae Ciucă (Acting) Florin Cîțu Nicolae Ciucă",
             "links": [
               {
                 "type": "internal",
-                "page": "Cîțu Cabinet"
+                "page": "Ludovic Orban"
+              },
+              {
+                "type": "internal",
+                "page": "Nicolae Ciucă"
+              },
+              {
+                "type": "internal",
+                "page": "Florin Cîțu"
+              },
+              {
+                "type": "internal",
+                "page": "Nicolae Ciucă"
               }
             ]
           },

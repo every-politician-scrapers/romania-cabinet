@@ -277,70 +277,12 @@
             ]
           },
           "term_start5": {
-            "text": "2020",
-            "number": 2020
+            "text": "19 December 2012"
           },
           "constituency5": {
-            "text": "Sălaj",
+            "text": "Sălaj County",
             "links": [
               {
-                "text": "Sălaj",
-                "type": "internal",
-                "page": "Sălaj County"
-              }
-            ]
-          },
-          "office6": {
-            "text": "Member of the Chamber of Deputies",
-            "links": [
-              {
-                "text": "Chamber of Deputies",
-                "type": "internal",
-                "page": "Chamber of Deputies (Romania)"
-              }
-            ]
-          },
-          "term_start6": {
-            "text": "2016",
-            "number": 2016
-          },
-          "term_end6": {
-            "text": "2020",
-            "number": 2020
-          },
-          "constituency6": {
-            "text": "Sălaj",
-            "links": [
-              {
-                "text": "Sălaj",
-                "type": "internal",
-                "page": "Sălaj County"
-              }
-            ]
-          },
-          "office7": {
-            "text": "Member of the Chamber of Deputies",
-            "links": [
-              {
-                "text": "Chamber of Deputies",
-                "type": "internal",
-                "page": "Chamber of Deputies (Romania)"
-              }
-            ]
-          },
-          "term_start7": {
-            "text": "2012",
-            "number": 2012
-          },
-          "term_end7": {
-            "text": "2016",
-            "number": 2016
-          },
-          "constituency7": {
-            "text": "Sălaj",
-            "links": [
-              {
-                "text": "Sălaj",
                 "type": "internal",
                 "page": "Sălaj County"
               }
@@ -363,7 +305,7 @@
             ]
           },
           "party": {
-            "text": "National Liberal Party (PNL) (2015–present)",
+            "text": "National Liberal Party (PNL) (2014–present)",
             "links": [
               {
                 "text": "National Liberal Party",
@@ -373,7 +315,7 @@
             ]
           },
           "otherparty": {
-            "text": "Democratic Liberal Party (PDL) (2007–2015)\nDemocratic Party (PD) (before 2007)",
+            "text": "Democratic Liberal Party (PDL) (2007–2014)\nDemocratic Party (PD) (before 2007)",
             "links": [
               {
                 "text": "Democratic Liberal Party",
