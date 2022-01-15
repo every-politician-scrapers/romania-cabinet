@@ -50,6 +50,11 @@
                 {
                   "type": "internal",
                   "page": "President of the Senate of Romania"
+                },
+                {
+                  "text": "coalition",
+                  "type": "internal",
+                  "page": "National Coalition for Romania"
                 }
               ]
             },
