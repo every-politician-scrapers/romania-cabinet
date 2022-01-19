@@ -25,7 +25,7 @@
         {
           "sentences": [
             {
-              "text": "Dr. Kălliman Hunor (born 18 October 1967) is a Romanian politician and Hungarian language writer.",
+              "text": "Dr. Hunor Kelemen (born 18 October 1967) is a Romanian politician and Hungarian language writer.",
               "links": [
                 {
                   "text": "Romanian",
@@ -40,7 +40,7 @@
               ],
               "formatting": {
                 "bold": [
-                  "Dr. Kălliman Hunor"
+                  "Dr. Hunor Kelemen"
                 ]
               }
             },
@@ -141,7 +141,7 @@
         },
         {
           "list": [
-            "Kălliman Hunor"
+            "Kelemen Hunor"
           ],
           "template": "hungarian name"
         },
@@ -185,7 +185,7 @@
       "infoboxes": [
         {
           "name": {
-            "text": "Hunor Kălliman"
+            "text": "Hunor Kelemen"
           },
           "image": {
             "text": "File:KelemenHunorFotoThalerTamas.jpg"
