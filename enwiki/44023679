@@ -25,11 +25,15 @@
         {
           "sentences": [
             {
-              "text": "Gabriela Firea (born Gabriela Vrânceanu, 13 July 1972) is a Romanian journalist and politician who served as mayor of Bucharest between 2016 and 2020.",
+              "text": "Gabriela Firea (born Gabriela Vrânceanu, 13 July 1972) is a Romanian journalist and politician who served as mayor of Bucharest, the capital of Romania, between 2016 and 2020.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Bucharest"
+                },
+                {
+                  "type": "internal",
+                  "page": "Romania"
                 }
               ],
               "formatting": {
@@ -50,14 +54,19 @@
                   "text": "June 2016 local election",
                   "type": "internal",
                   "page": "2016 Romanian local elections"
+                },
+                {
+                  "text": "mayor of Bucharest",
+                  "type": "internal",
+                  "page": "Mayor of Bucharest"
                 }
               ]
             },
             {
-              "text": "She won 43% from the total of only 33% that went to vote."
+              "text": "She won 43% from the total of only 33% citizens of Bucharest who went to vote at that time."
             },
             {
-              "text": "Her closest challengers, Nicușor Dan (Save Bucharest Union) and Cătălin Predoiu (National Liberal Party), gained 30.5% and 11.2% respectively.",
+              "text": "Her closest political contenders, more specifically Nicușor Dan (Save Bucharest Union) and Cătălin Predoiu (National Liberal Party), gained only 30.5% and 11.2% respectively.",
               "links": [
                 {
                   "type": "internal",
@@ -79,12 +88,31 @@
               ]
             },
             {
-              "text": "She was voted out of office at the September 2020 Romanian local elections.",
+              "text": "Subsequently, she lost the position of mayor of Bucharest at the September 2020 Romanian local elections, in which she finished second behind incumbent Bucharest mayor Nicușor Dan (then an independent candidate supported by the 2020 USR-PLUS Alliance and the National Liberal Party).",
               "links": [
                 {
                   "text": "September 2020 Romanian local elections",
                   "type": "internal",
                   "page": "2020 Romanian local elections"
+                },
+                {
+                  "type": "internal",
+                  "page": "Nicușor Dan"
+                },
+                {
+                  "text": "independent candidate",
+                  "type": "internal",
+                  "page": "independent politician"
+                },
+                {
+                  "text": "2020 USR-PLUS Alliance",
+                  "type": "internal",
+                  "page": "USR PLUS"
+                },
+                {
+                  "text": "National Liberal Party",
+                  "type": "internal",
+                  "page": "National Liberal Party (Romania)"
                 }
               ]
             }
