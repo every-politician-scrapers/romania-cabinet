@@ -25,7 +25,7 @@
         {
           "sentences": [
             {
-              "text": "Dr. Hunor Kelemen (born 18 October 1967) is a Romanian politician and Hungarian language writer.",
+              "text": "Hunor Kelemen (born 18 October 1967) is a Romanian politician and Hungarian language writer.",
               "links": [
                 {
                   "text": "Romanian",
@@ -40,7 +40,7 @@
               ],
               "formatting": {
                 "bold": [
-                  "Dr. Hunor Kelemen"
+                  "Hunor Kelemen"
                 ]
               }
             },
