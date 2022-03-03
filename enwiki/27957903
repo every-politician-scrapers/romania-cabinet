@@ -19,6 +19,9 @@
       "depth": 0,
       "paragraphs": [
         {
+          "sentences": []
+        },
+        {
           "sentences": [
             {
               "text": "Attila-Zoltán Cseke (born 9 June 1973) is a Romanian lawyer and politician.",
@@ -36,11 +39,11 @@
               }
             },
             {
-              "text": "A member of the Democratic Union of Hungarians in Romania (UDMR), he was a member of the Romanian Senate for Bihor County from 2008 to 2012, representing the same county in the Chamber of Deputies from 2012 to 2016 before returning to the Senate.",
+              "text": "A member of the Democratic Alliance of Hungarians in Romania (UDMR), he was a member of the Romanian Senate for Bihor County from 2008 to 2012, representing the same county in the Chamber of Deputies from 2012 to 2016 before returning to the Senate.",
               "links": [
                 {
                   "type": "internal",
-                  "page": "Democratic Union of Hungarians in Romania"
+                  "page": "Democratic Alliance of Hungarians in Romania"
                 },
                 {
                   "text": "Romanian Senate",
