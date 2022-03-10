@@ -1,557 +1,62 @@
 {
-  "title": "Sorin Grindeanu",
-  "pageID": 52728253,
-  "categories": [
-    "1973 births",
-    "Councillors in Romania",
-    "Living people",
-    "Members of the Chamber of Deputies (Romania)",
-    "People from Caransebeș",
-    "West University of Timișoara alumni",
-    "Prime Ministers of Romania",
-    "Romanian Ministers of Communications",
-    "Social Democratic Party (Romania) politicians"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Sorin Mihai Grindeanu (born 5 December 1973) is a Romanian politician who served as Prime Minister of Romania from January to June 2017 when he was removed by a motion of no confidence adopted by the Parliament.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Prime Minister of Romania"
-                },
-                {
-                  "text": "motion of no confidence",
-                  "type": "internal",
-                  "page": "motion of no confidence"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Sorin Mihai Grindeanu"
-                ]
-              }
-            },
-            {
-              "text": "He served as ad interim President of the Chamber of Deputies in November 2021.",
-              "links": [
-                {
-                  "text": "ad interim",
-                  "type": "internal",
-                  "page": "acting (law)"
-                },
-                {
-                  "text": "President of the Chamber of Deputies",
-                  "type": "internal",
-                  "page": "President of the Chamber of Deputies of Romania"
-                }
-              ]
-            },
-            {
-              "text": "He currently serves as Deputy Prime Minister of Romania since 25 November 2021 as a part of the Ciucă Cabinet, along with Hunor Kelemen.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Deputy Prime Minister of Romania"
-                },
-                {
-                  "type": "internal",
-                  "page": "Ciucă Cabinet"
-                },
-                {
-                  "type": "internal",
-                  "page": "Hunor Kelemen"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Grindeanu was a member of the Chamber of Deputies from 2012 until the June 2016 local election, when he became president of the Timiș County Council.",
-              "links": [
-                {
-                  "text": "Chamber of Deputies",
-                  "type": "internal",
-                  "page": "Chamber of Deputies (Romania)"
-                },
-                {
-                  "text": "2012",
-                  "type": "internal",
-                  "page": "2012 Romanian legislative election"
-                },
-                {
-                  "text": "June 2016 local election",
-                  "type": "internal",
-                  "page": "2016 Romanian local elections"
-                },
-                {
-                  "type": "internal",
-                  "page": "Timiș County"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "A member of the Social Democratic Party (PSD), he was nominated by the leader of the party, Liviu Dragnea, on 28 December 2016 to form a new government after the party won the legislative election of the previous year in a landslide.",
-              "links": [
-                {
-                  "text": "Social Democratic Party",
-                  "type": "internal",
-                  "page": "Social Democratic Party (Romania)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Liviu Dragnea"
-                },
-                {
-                  "text": "legislative election",
-                  "type": "internal",
-                  "page": "2016 Romanian legislative election"
-                }
-              ]
-            },
-            {
-              "text": "Two days later, President Klaus Iohannis officially appointed him as Prime Minister.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Klaus Iohannis"
-                }
-              ]
-            },
-            {
-              "text": "He assumed office on 4 January 2017."
-            },
-            {
-              "text": "He was also Minister for Communications under the fourth cabinet of Victor Ponta, between 17 December 2014 and 17 November 2015.",
-              "links": [
-                {
-                  "text": "fourth cabinet",
-                  "type": "internal",
-                  "page": "Fourth Ponta Cabinet"
-                },
-                {
-                  "type": "internal",
-                  "page": "Victor Ponta"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "In early 2017, his government adopted a decree decriminalizing certain official misconduct, sparking widespread protests.",
-              "links": [
-                {
-                  "text": "widespread protests",
-                  "type": "internal",
-                  "page": "2017 Romanian protests"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Romanian politician",
-          "template": "short description"
-        },
-        {
-          "date": "June 2017",
-          "template": "use dmy dates"
-        },
-        {
-          "year": "1973",
-          "month": "12",
-          "day": "5",
-          "df": "y",
-          "template": "birth date and age"
-        },
-        {
-          "transcription": "soˈrin miˈhaj ɡrinˈde̯anu",
-          "template": "ipa"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Sorin Grindeanu"
-          },
-          "image": {
-            "text": "Sorin Grindeanu in Geneva - 2018 (25019917997) (cropped).jpg"
-          },
-          "caption": {
-            "text": "Grindeanu in 2018"
-          },
-          "office": {
-            "text": "President of the Chamber of Deputies",
-            "links": [
-              {
-                "text": "President of the Chamber of Deputies",
-                "type": "internal",
-                "page": "President of the Chamber of Deputies of Romania"
-              }
-            ]
-          },
-          "status": {
-            "text": "Acting"
-          },
-          "president": {
-            "text": "Klaus Iohannis",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Klaus Iohannis"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "2 November 2021"
-          },
-          "term_end": {
-            "text": "23 November 2021"
-          },
-          "predecessor": {
-            "text": "Florin Roman (Acting)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Florin Roman"
-              }
-            ]
-          },
-          "successor": {
-            "text": "Marcel Ciolacu",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Marcel Ciolacu"
-              }
-            ]
-          },
-          "office1": {
-            "text": "65th Prime Minister of Romania",
-            "links": [
-              {
-                "text": "65th",
-                "type": "internal",
-                "page": "List of Prime Ministers of Romania"
-              },
-              {
-                "type": "internal",
-                "page": "Prime Minister of Romania"
-              }
-            ]
-          },
-          "president1": {
-            "text": "Klaus Iohannis",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Klaus Iohannis"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "4 January 2017"
-          },
-          "term_end1": {
-            "text": "29 June 2017"
-          },
-          "predecessor1": {
-            "text": "Dacian Cioloș",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Dacian Cioloș"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Mihai Tudose",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mihai Tudose"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Deputy Prime Minister of Romania",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Deputy Prime Minister of Romania"
-              }
-            ]
-          },
-          "alongside2": {
-            "text": "Hunor Kelemen",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Hunor Kelemen"
-              }
-            ]
-          },
-          "president2": {
-            "text": "Klaus Iohannis",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Klaus Iohannis"
-              }
-            ]
-          },
-          "primeminister2": {
-            "text": "Nicolae Ciucă",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nicolae Ciucă"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "25 November 2021"
-          },
-          "predecessor2": {
-            "text": "Dan Barna",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Dan Barna"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Minister of Transport and Infrastructure"
-          },
-          "primeminister3": {
-            "text": "Nicolae Ciucă",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nicolae Ciucă"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "25 November 2021"
-          },
-          "predecessor3": {
-            "text": "Dan Vîlceanu (Acting)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Dan Vîlceanu"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Minister of Communications"
-          },
-          "primeminister4": {
-            "text": "Victor Ponta",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Victor Ponta"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "17 December 2014"
-          },
-          "term_end4": {
-            "text": "17 November 2015"
-          },
-          "predecessor4": {
-            "text": "Răzvan Cotovelea"
-          },
-          "successor4": {
-            "text": "Marius Bostan"
-          },
-          "office5": {
-            "text": "Member of the Chamber of Deputies",
-            "links": [
-              {
-                "text": "Chamber of Deputies",
-                "type": "internal",
-                "page": "Chamber of Deputies (Romania)"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "21 December 2020"
-          },
-          "constituency5": {
-            "text": "Timiș County",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Timiș County"
-              }
-            ]
-          },
-          "term_start6": {
-            "text": "19 December 2012"
-          },
-          "term_end6": {
-            "text": "26 June 2016"
-          },
-          "constituency6": {
-            "text": "Timiș County",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Timiș County"
-              }
-            ]
-          },
-          "office7": {
-            "text": "President of the Timiș County Council",
-            "links": [
-              {
-                "text": "Timiș County Council",
-                "type": "internal",
-                "page": "Timiș County"
-              }
-            ]
-          },
-          "term_start7": {
-            "text": "26 June 2016"
-          },
-          "term_end7": {
-            "text": "4 January 2017"
-          },
-          "predecessor7": {
-            "text": "Titu Bojin"
-          },
-          "successor7": {
-            "text": "Călin-Ionel Dobra"
-          },
-          "office8": {
-            "text": "Deputy Mayor of Timișoara",
-            "links": [
-              {
-                "text": "Deputy Mayor of Timișoara",
-                "type": "internal",
-                "page": "List of mayors of Timișoara"
-              }
-            ]
-          },
-          "1blankname8": {
-            "text": "Mayor"
-          },
-          "1namedata8": {
-            "text": "Gheorghe Ciuhandu",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Gheorghe Ciuhandu"
-              }
-            ]
-          },
-          "term_start8": {
-            "text": "June 2008"
-          },
-          "term_end8": {
-            "text": "December 2012"
-          },
-          "office9": {
-            "text": "Member of the Local Council of Timișoara",
-            "links": [
-              {
-                "text": "Local Council of Timișoara",
-                "type": "internal",
-                "page": "Timișoara"
-              }
-            ]
-          },
-          "1blankname9": {
-            "text": "Mayor"
-          },
-          "1namedata9": {
-            "text": "Gheorghe Ciuhandu",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Gheorghe Ciuhandu"
-              }
-            ]
-          },
-          "term_start9": {
-            "text": "June 2004"
-          },
-          "term_end9": {
-            "text": "June 2008"
-          },
-          "birth_name": {
-            "text": "Sorin Mihai Grindeanu"
-          },
-          "birth_date": {
-            "text": "December 5, 1973"
-          },
-          "birth_place": {
-            "text": "Caransebeș, Caraș-Severin County, Romania",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Caransebeș"
-              },
-              {
-                "type": "internal",
-                "page": "Caraș-Severin County"
-              },
-              {
-                "text": "Romania",
-                "type": "internal",
-                "page": "Socialist Republic of Romania"
-              }
-            ]
-          },
-          "party": {
-            "text": "Social Democratic Party",
-            "links": [
-              {
-                "text": "Social Democratic Party",
-                "type": "internal",
-                "page": "Social Democratic Party (Romania)"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Mihaela Grindeanu"
-          },
-          "children": {
-            "text": "2",
-            "number": 2
-          },
-          "alma_mater": {
-            "text": "West University of Timișoara",
-            "links": [
-              {
-                "type": "internal",
-                "page": "West University of Timișoara"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Sorin Grindeanu",
+  "image": "Sorin Grindeanu in Geneva - 2018 (25019917997) (cropped).jpg",
+  "caption": "Grindeanu in 2018",
+  "office": "President of the Chamber of Deputies",
+  "status": "Acting",
+  "president": "Klaus Iohannis",
+  "term_start": "2 November 2021",
+  "term_end": "23 November 2021",
+  "predecessor": "Florin Roman (Acting)",
+  "successor": "Marcel Ciolacu",
+  "office1": "65th Prime Minister of Romania",
+  "president1": "Klaus Iohannis",
+  "term_start1": "4 January 2017",
+  "term_end1": "29 June 2017",
+  "predecessor1": "Dacian Cioloș",
+  "successor1": "Mihai Tudose",
+  "office2": "Deputy Prime Minister of Romania",
+  "alongside2": "Hunor Kelemen",
+  "president2": "Klaus Iohannis",
+  "primeminister2": "Nicolae Ciucă",
+  "term_start2": "25 November 2021",
+  "predecessor2": "Dan Barna",
+  "office3": "Minister of Transport and Infrastructure",
+  "primeminister3": "Nicolae Ciucă",
+  "term_start3": "25 November 2021",
+  "predecessor3": "Dan Vîlceanu (Acting)",
+  "office4": "Minister of Communications",
+  "primeminister4": "Victor Ponta",
+  "term_start4": "17 December 2014",
+  "term_end4": "17 November 2015",
+  "predecessor4": "Răzvan Cotovelea",
+  "successor4": "Marius Bostan",
+  "office5": "Member of the Chamber of Deputies",
+  "term_start5": "21 December 2020",
+  "constituency5": "Timiș County",
+  "term_start6": "19 December 2012",
+  "term_end6": "26 June 2016",
+  "constituency6": "Timiș County",
+  "office7": "President of the Timiș County Council",
+  "term_start7": "26 June 2016",
+  "term_end7": "4 January 2017",
+  "predecessor7": "Titu Bojin",
+  "successor7": "Călin-Ionel Dobra",
+  "office8": "Deputy Mayor of Timișoara",
+  "1blankname8": "Mayor",
+  "1namedata8": "Gheorghe Ciuhandu",
+  "term_start8": "June 2008",
+  "term_end8": "December 2012",
+  "office9": "Member of the Local Council of Timișoara",
+  "1blankname9": "Mayor",
+  "1namedata9": "Gheorghe Ciuhandu",
+  "term_start9": "June 2004",
+  "term_end9": "June 2008",
+  "birth_name": "Sorin Mihai Grindeanu",
+  "birth_date": "December 5, 1973",
+  "birth_place": "Caransebeș, Caraș-Severin County, Romania",
+  "party": "Social Democratic Party",
+  "spouse": "Mihaela Grindeanu",
+  "children": "2",
+  "alma_mater": "West University of Timișoara"
 }
