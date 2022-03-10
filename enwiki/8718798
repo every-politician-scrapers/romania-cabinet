@@ -1,339 +1,39 @@
 {
-  "title": "Vasile Dîncu",
-  "pageID": 8718798,
-  "categories": [
-    "1961 births",
-    "Living people",
-    "People from Năsăud",
-    "Social Democratic Party (Romania) politicians",
-    "Social Democratic Party (Romania) MEPs",
-    "MEPs for Romania 2007",
-    "Romanian Ministers of Defence",
-    "Babeș-Bolyai University alumni",
-    "University of Bucharest faculty",
-    "Romanian sociologists",
-    "Romanian writers"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Vasile Sebastian Dîncu (born 25 November 1961) is a Romanian politician, sociologist, professor and writer who served as Deputy Prime Minister in the Cioloș Cabinet and currently serves as Minister of National Defence in the Ciucă Cabinet.",
-              "links": [
-                {
-                  "text": "Romanian",
-                  "type": "internal",
-                  "page": "Romania"
-                },
-                {
-                  "text": "Deputy Prime Minister",
-                  "type": "internal",
-                  "page": "Deputy Prime Minister of Romania"
-                },
-                {
-                  "type": "internal",
-                  "page": "Cioloș Cabinet"
-                },
-                {
-                  "text": "Minister of National Defence",
-                  "type": "internal",
-                  "page": "Ministry of National Defence (Romania)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Ciucă Cabinet"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Vasile Sebastian Dîncu"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Romanian politician",
-          "template": "short description"
-        },
-        {
-          "date": "November 2021",
-          "template": "use dmy dates"
-        },
-        {
-          "year": "1961",
-          "month": "11",
-          "day": "25",
-          "df": "y",
-          "template": "birth date and age"
-        },
-        {
-          "transcription": "vaˈsile ˈdɨŋku",
-          "template": "ipa"
-        }
-      ],
-      "infoboxes": [
-        {
-          "embed": {
-            "text": "yes"
-          },
-          "nationality": {
-            "text": "Romanian"
-          },
-          "fields": {
-            "text": "Politics, sociology, history, and pedagogy",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Politics"
-              },
-              {
-                "text": "sociology",
-                "type": "internal",
-                "page": "sociology"
-              },
-              {
-                "text": "history",
-                "type": "internal",
-                "page": "history"
-              },
-              {
-                "text": "pedagogy",
-                "type": "internal",
-                "page": "pedagogy"
-              }
-            ]
-          },
-          "workplaces": {
-            "text": "University of Bucharest Babeș-Bolyai University",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Bucharest"
-              },
-              {
-                "type": "internal",
-                "page": "Babeș-Bolyai University"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "Babeș-Bolyai University",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Babeș-Bolyai University"
-              }
-            ]
-          }
-        },
-        {
-          "office": {
-            "text": "Minister of National Defence",
-            "links": [
-              {
-                "text": "Minister of National Defence",
-                "type": "internal",
-                "page": "Ministry of National Defence (Romania)"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Nicolae Ciucă",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nicolae Ciucă"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "25 November 2021"
-          },
-          "predecessor": {
-            "text": "Nicolae Ciucă",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nicolae Ciucă"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Deputy Prime Minister of Romania",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Deputy Prime Minister of Romania"
-              }
-            ]
-          },
-          "primeminister1": {
-            "text": "Dacian Cioloș",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Dacian Cioloș"
-              }
-            ]
-          },
-          "president1": {
-            "text": "Klaus Iohannis",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Klaus Iohannis"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "17 November 2015"
-          },
-          "term_end1": {
-            "text": "4 January 2017"
-          },
-          "predecessor1": {
-            "text": "Gabriel Oprea",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Gabriel Oprea"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Sevil Shhaideh",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sevil Shhaideh"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Minister of Regional Development and Public Administration"
-          },
-          "term_start2": {
-            "text": "17 November 2015"
-          },
-          "term_end2": {
-            "text": "4 January 2017"
-          },
-          "predecessor2": {
-            "text": "Sevil Shhaideh",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sevil Shhaideh"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Sevil Shhaideh",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sevil Shhaideh"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Member of the European Parliament for Romania",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Member of the European Parliament"
-              },
-              {
-                "text": "Romania",
-                "type": "internal",
-                "page": "Romania (European Parliament constituency)"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "1 January 2007"
-          },
-          "term_end3": {
-            "text": "13 May 2007"
-          },
-          "office4": {
-            "text": "Senator",
-            "links": [
-              {
-                "text": "Senator",
-                "type": "internal",
-                "page": "Senate of Romania"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "21 December 2020"
-          },
-          "term_start5": {
-            "text": "14 February 2004"
-          },
-          "term_end5": {
-            "text": "20 December 2008"
-          },
-          "name": {
-            "text": "Vasile Dîncu"
-          },
-          "image": {
-            "text": "Vasile Dîncu portrait.jpg"
-          },
-          "caption": {
-            "text": "Official portrait, 2020"
-          },
-          "birth_date": {
-            "text": "November 25, 1961"
-          },
-          "birth_place": {
-            "text": "Năsăud, Cluj Region, Romania",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Năsăud"
-              },
-              {
-                "type": "internal",
-                "page": "Cluj Region"
-              },
-              {
-                "text": "Romania",
-                "type": "internal",
-                "page": "Socialist Republic of Romania"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Romanian",
-            "links": [
-              {
-                "text": "Romanian",
-                "type": "internal",
-                "page": "Romania"
-              }
-            ]
-          },
-          "party": {
-            "text": "Social Democratic Party",
-            "links": [
-              {
-                "text": "Social Democratic Party",
-                "type": "internal",
-                "page": "Social Democratic Party (Romania)"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "embed": "yes",
+  "nationality": "Romanian",
+  "fields": "Politics, sociology, history, and pedagogy",
+  "workplaces": "University of Bucharest Babeș-Bolyai University",
+  "alma_mater": "Babeș-Bolyai University"
+}
+{
+  "office": "Minister of National Defence",
+  "primeminister": "Nicolae Ciucă",
+  "term_start": "25 November 2021",
+  "predecessor": "Nicolae Ciucă",
+  "office1": "Deputy Prime Minister of Romania",
+  "primeminister1": "Dacian Cioloș",
+  "president1": "Klaus Iohannis",
+  "term_start1": "17 November 2015",
+  "term_end1": "4 January 2017",
+  "predecessor1": "Gabriel Oprea",
+  "successor1": "Sevil Shhaideh",
+  "office2": "Minister of Regional Development and Public Administration",
+  "term_start2": "17 November 2015",
+  "term_end2": "4 January 2017",
+  "predecessor2": "Sevil Shhaideh",
+  "successor2": "Sevil Shhaideh",
+  "office3": "Member of the European Parliament for Romania",
+  "term_start3": "1 January 2007",
+  "term_end3": "13 May 2007",
+  "office4": "Senator",
+  "term_start4": "21 December 2020",
+  "term_start5": "14 February 2004",
+  "term_end5": "20 December 2008",
+  "name": "Vasile Dîncu",
+  "image": "Vasile Dîncu portrait.jpg",
+  "caption": "Official portrait, 2020",
+  "birth_date": "November 25, 1961",
+  "birth_place": "Năsăud, Cluj Region, Romania",
+  "nationality": "Romanian",
+  "party": "Social Democratic Party"
 }

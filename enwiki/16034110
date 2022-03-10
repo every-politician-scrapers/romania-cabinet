@@ -1,330 +1,37 @@
 {
-  "title": "Cătălin Predoiu",
-  "pageID": 16034110,
-  "categories": [
-    "1968 births",
-    "Bogdan Petriceicu Hasdeu National College alumni",
-    "Living people",
-    "Members of the Chamber of Deputies (Romania)",
-    "People from Buzău",
-    "Prime Ministers of Romania",
-    "Romanian lawyers",
-    "Romanian Ministers of Justice",
-    "University of Bucharest alumni"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Cătălin Marian Predoiu (born 27 August 1968, Buzău) is a Romanian lawyer who served as the ad interim Prime Minister of Romania from February 6 to 9 February 2012, following the resignation of Emil Boc.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Buzău"
-                },
-                {
-                  "type": "internal",
-                  "page": "Emil Boc"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Cătălin Marian Predoiu"
-                ]
-              }
-            },
-            {
-              "text": "He had previously been the Minister of Justice of Romania since 29 February 2008.",
-              "links": [
-                {
-                  "text": "Minister of Justice",
-                  "type": "internal",
-                  "page": "Minister of Justice (Romania)"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Romanian politician",
-          "template": "short description"
-        },
-        {
-          "year": "1968",
-          "month": "8",
-          "day": "27",
-          "df": "y",
-          "template": "birth date and age"
-        },
-        {
-          "transcription": "kətəˈlin preˈdoju",
-          "template": "ipa"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Cătălin Predoiu"
-          },
-          "image": {
-            "text": "Cătălin Predoiu 2008.jpg"
-          },
-          "office": {
-            "text": "Prime Minister of Romania\nActing",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Prime Minister of Romania"
-              }
-            ]
-          },
-          "president": {
-            "text": "Traian Băsescu",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Traian Băsescu"
-              }
-            ]
-          },
-          "deputy": {
-            "text": "Béla Markó",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Béla Markó"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "6 February 2012"
-          },
-          "term_end": {
-            "text": "9 February 2012"
-          },
-          "predecessor": {
-            "text": "Emil Boc",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Emil Boc"
-              }
-            ]
-          },
-          "successor": {
-            "text": "Mihai Răzvan Ungureanu",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mihai Răzvan Ungureanu"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Minister of Justice",
-            "links": [
-              {
-                "text": "Minister of Justice",
-                "type": "internal",
-                "page": "Ministry of Justice (Romania)"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "25 November 2021"
-          },
-          "primeminister1": {
-            "text": "Nicolae Ciucă",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nicolae Ciucă"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "Lucian Bode (Acting)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Lucian Bode"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "4 November 2019"
-          },
-          "term_end2": {
-            "text": "23 December 2020"
-          },
-          "primeminister2": {
-            "text": "Ludovic Orban",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ludovic Orban"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "Ana Birchall",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ana Birchall"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Stelian Ion",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Stelian Ion"
-              }
-            ]
-          },
-          "primeminister3": {
-            "text": "Călin Popescu-Tăriceanu\nEmil Boc\nMihai Răzvan Ungureanu",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Călin Popescu-Tăriceanu"
-              },
-              {
-                "type": "internal",
-                "page": "Emil Boc"
-              },
-              {
-                "type": "internal",
-                "page": "Mihai Răzvan Ungureanu"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "29 February 2008"
-          },
-          "term_end3": {
-            "text": "7 May 2012"
-          },
-          "predecessor3": {
-            "text": "Teodor Meleșcanu (Acting)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Teodor Meleșcanu"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Titus Corlăţean",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Titus Corlăţean"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Minister of Foreign Affairs",
-            "links": [
-              {
-                "text": "Minister of Foreign Affairs",
-                "type": "internal",
-                "page": "Ministry of Foreign Affairs (Romania)"
-              }
-            ]
-          },
-          "primeminister4": {
-            "text": "Emil Boc",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Emil Boc"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "1 October 2009"
-          },
-          "term_end4": {
-            "text": "23 December 2009"
-          },
-          "predecessor4": {
-            "text": "Cristian Diaconescu",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Cristian Diaconescu"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "Teodor Baconschi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Teodor Baconschi"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "August 27, 1968"
-          },
-          "birth_place": {
-            "text": "Buzău, Romania",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Buzău"
-              },
-              {
-                "text": "Romania",
-                "type": "internal",
-                "page": "Socialist Republic of Romania"
-              }
-            ]
-          },
-          "party": {
-            "text": "PNL (2014–present)",
-            "links": [
-              {
-                "text": "PNL",
-                "type": "internal",
-                "page": "National Liberal Party (Romania)"
-              }
-            ]
-          },
-          "otherparty": {
-            "text": "PNL-AT (1991–93)\nPDL (2013–14)",
-            "links": [
-              {
-                "text": "PDL",
-                "type": "internal",
-                "page": "Democratic Liberal Party (Romania)"
-              }
-            ]
-          },
-          "profession": {
-            "text": "Lawyer"
-          },
-          "alma_mater": {
-            "text": "University of Bucharest",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Bucharest"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Cătălin Predoiu",
+  "image": "Cătălin Predoiu 2008.jpg",
+  "office": "Prime Minister of Romania\nActing",
+  "president": "Traian Băsescu",
+  "deputy": "Béla Markó",
+  "term_start": "6 February 2012",
+  "term_end": "9 February 2012",
+  "predecessor": "Emil Boc",
+  "successor": "Mihai Răzvan Ungureanu",
+  "office1": "Minister of Justice",
+  "term_start1": "25 November 2021",
+  "primeminister1": "Nicolae Ciucă",
+  "predecessor1": "Lucian Bode (Acting)",
+  "term_start2": "4 November 2019",
+  "term_end2": "23 December 2020",
+  "primeminister2": "Ludovic Orban",
+  "predecessor2": "Ana Birchall",
+  "successor2": "Stelian Ion",
+  "primeminister3": "Călin Popescu-Tăriceanu\nEmil Boc\nMihai Răzvan Ungureanu",
+  "term_start3": "29 February 2008",
+  "term_end3": "7 May 2012",
+  "predecessor3": "Teodor Meleșcanu (Acting)",
+  "successor3": "Titus Corlăţean",
+  "office4": "Minister of Foreign Affairs",
+  "primeminister4": "Emil Boc",
+  "term_start4": "1 October 2009",
+  "term_end4": "23 December 2009",
+  "predecessor4": "Cristian Diaconescu",
+  "successor4": "Teodor Baconschi",
+  "birth_date": "August 27, 1968",
+  "birth_place": "Buzău, Romania",
+  "party": "PNL (2014–present)",
+  "otherparty": "PNL-AT (1991–93)\nPDL (2013–14)",
+  "profession": "Lawyer",
+  "alma_mater": "University of Bucharest"
 }

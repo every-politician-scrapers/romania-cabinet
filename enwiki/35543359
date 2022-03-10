@@ -1,360 +1,44 @@
 {
-  "title": "Nicușor Dan",
-  "pageID": 35543359,
-  "categories": [
-    "1969 births",
-    "Living people",
-    "People from Făgăraș",
-    "Romanian mathematicians",
-    "Romanian political candidates",
-    "Romanian activists",
-    "Romanian conservationists",
-    "University of Bucharest alumni",
-    "University of Paris alumni",
-    "École Normale Supérieure alumni",
-    "International Mathematical Olympiad participants",
-    "Members of the Chamber of Deputies (Romania)",
-    "Save Romania Union politicians",
-    "Mayors of Bucharest",
-    "Romanian expatriates in France"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Nicușor Dan (born 20 December 1969) is a Romanian activist, mathematician, former member of the Chamber of Deputies of Romania as well as former founder and leader of the centre-right Romanian political party Save Romania Union (USR).",
-              "links": [
-                {
-                  "text": "Chamber of Deputies of Romania",
-                  "type": "internal",
-                  "page": "Chamber of Deputies (Romania)"
-                },
-                {
-                  "text": "centre-right",
-                  "type": "internal",
-                  "page": "centre-right politics"
-                },
-                {
-                  "text": "Romanian political party",
-                  "type": "internal",
-                  "page": "List of political parties in Romania"
-                },
-                {
-                  "type": "internal",
-                  "page": "Save Romania Union"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Nicușor Dan"
-                ]
-              }
-            },
-            {
-              "text": "He subsequently became the Mayor of Bucharest following the 2020 Romanian local elections and is currently still serving as such.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Mayor of Bucharest"
-                },
-                {
-                  "text": "2020 Romanian local elections",
-                  "type": "internal",
-                  "page": "2020 Romanian local elections"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "date": "October 2018",
-          "template": "use dmy dates"
-        },
-        {
-          "year": "1969",
-          "month": "12",
-          "day": "20",
-          "df": "y",
-          "template": "birth date and age"
-        },
-        {
-          "text": "Daniel Barsky",
-          "lan1": "de",
-          "template": "ill"
-        },
-        {
-          "text": "Școala Normală Superioară București",
-          "lan1": "ro",
-          "template": "ill"
-        }
-      ],
-      "infoboxes": [
-        {
-          "embed": {
-            "text": "yes"
-          },
-          "fields": {
-            "text": "Mathematics",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mathematics"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "University of Bucharest\nÉcole normale supérieure\nUniversity of Paris",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Bucharest"
-              },
-              {
-                "text": "École normale supérieure",
-                "type": "internal",
-                "page": "École normale supérieure (Paris)"
-              },
-              {
-                "type": "internal",
-                "page": "University of Paris"
-              }
-            ]
-          },
-          "thesis_title": {
-            "text": "Courants de Green et prolongement méromorphe"
-          },
-          "thesis_url": {
-            "text": "https://www.worldcat.org/title/courants-de-green-et-prolongement-meromorphe/oclc/708496745"
-          },
-          "thesis_year": {
-            "text": "1998",
-            "number": 1998
-          },
-          "doctoral_advisors": {
-            "text": "Christophe Soulé\nDaniel Barsky",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Christophe Soulé"
-              }
-            ]
-          },
-          "workplaces": {
-            "text": "Institute of Mathematics of the Romanian Academy\nȘcoala Normală Superioară București",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Institute of Mathematics of the Romanian Academy"
-              }
-            ]
-          }
-        },
-        {
-          "name": {
-            "text": "Nicușor Dan"
-          },
-          "honorific-suffix": {
-            "text": "Ph.D.",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ph.D."
-              }
-            ]
-          },
-          "imagesize": {
-            "text": "250px"
-          },
-          "smallimage": {
-            "text": "Nicușor Dan candidatura bgiu.jpg"
-          },
-          "caption": {
-            "text": "Nicușor Dan in April 2012"
-          },
-          "office": {
-            "text": "General Mayor of Bucharest",
-            "links": [
-              {
-                "text": "General Mayor of Bucharest",
-                "type": "internal",
-                "page": "Mayor of Bucharest"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "29 October 2020"
-          },
-          "predecessor": {
-            "text": "Gabriela Firea",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Gabriela Firea"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Member of the Chamber of Deputies",
-            "links": [
-              {
-                "text": "Chamber of Deputies",
-                "type": "internal",
-                "page": "Chamber of Deputies (Romania)"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "21 December 2016"
-          },
-          "term_end1": {
-            "text": "20 October 2020"
-          },
-          "constituency1": {
-            "text": "Bucharest",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bucharest"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Member of the General Council of the Municipality of Bucharest",
-            "links": [
-              {
-                "text": "General Council of the Municipality of Bucharest",
-                "type": "internal",
-                "page": "General Council of Bucharest"
-              }
-            ]
-          },
-          "1blankname2": {
-            "text": "Mayor"
-          },
-          "1namedata2": {
-            "text": "Gabriela Firea",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Gabriela Firea"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "23 June 2016"
-          },
-          "term_end2": {
-            "text": "21 November 2016"
-          },
-          "office3": {
-            "text": "President of the Save Romania Union",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Save Romania Union"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "28 July 2016"
-          },
-          "term_end3": {
-            "text": "1 June 2017"
-          },
-          "predecessor3": {
-            "text": "Himself (as president of USB)",
-            "links": [
-              {
-                "text": "USB",
-                "type": "internal",
-                "page": "Save Bucharest Union"
-              }
-            ],
-            "formatting": {
-              "italic": [
-                "Himself"
-              ]
-            }
-          },
-          "successor3": {
-            "text": "Elek Levente (interim)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Elek Levente"
-              }
-            ]
-          },
-          "birth_name": {
-            "text": "Nicușor Daniel Dan"
-          },
-          "birth_date": {
-            "text": "December 20, 1969"
-          },
-          "birth_place": {
-            "text": "Făgăraș, Brașov County, Romania",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Făgăraș"
-              },
-              {
-                "type": "internal",
-                "page": "Brașov County"
-              },
-              {
-                "text": "Romania",
-                "type": "internal",
-                "page": "Socialist Republic of Romania"
-              }
-            ]
-          },
-          "party": {
-            "text": "Independent (2017–present)",
-            "links": [
-              {
-                "text": "Independent",
-                "type": "internal",
-                "page": "Independent politician"
-              }
-            ]
-          },
-          "otherparty": {
-            "text": "Save Bucharest Union\n(2015–2016)\nSave Romania Union\n(2016–2017)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Save Bucharest Union"
-              },
-              {
-                "type": "internal",
-                "page": "Save Romania Union"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Mirabela Grădinaru"
-          },
-          "children": {
-            "text": "Aheea"
-          },
-          "occupation": {
-            "text": "Politician"
-          },
-          "profession": {
-            "text": "Mathematician"
-          },
-          "website": {
-            "text": "nicusordan.ro/"
-          }
-        }
-      ]
-    }
-  ]
+  "embed": "yes",
+  "fields": "Mathematics",
+  "alma_mater": "University of Bucharest\nÉcole normale supérieure\nUniversity of Paris",
+  "thesis_title": "Courants de Green et prolongement méromorphe",
+  "thesis_url": "https://www.worldcat.org/title/courants-de-green-et-prolongement-meromorphe/oclc/708496745",
+  "thesis_year": "1998",
+  "doctoral_advisors": "Christophe Soulé\nDaniel Barsky",
+  "workplaces": "Institute of Mathematics of the Romanian Academy\nȘcoala Normală Superioară București"
+}
+{
+  "name": "Nicușor Dan",
+  "honorific-suffix": "Ph.D.",
+  "imagesize": "250px",
+  "smallimage": "Nicușor Dan candidatura bgiu.jpg",
+  "caption": "Nicușor Dan in April 2012",
+  "office": "General Mayor of Bucharest",
+  "term_start": "29 October 2020",
+  "predecessor": "Gabriela Firea",
+  "office1": "Member of the Chamber of Deputies",
+  "term_start1": "21 December 2016",
+  "term_end1": "20 October 2020",
+  "constituency1": "Bucharest",
+  "office2": "Member of the General Council of the Municipality of Bucharest",
+  "1blankname2": "Mayor",
+  "1namedata2": "Gabriela Firea",
+  "term_start2": "23 June 2016",
+  "term_end2": "21 November 2016",
+  "office3": "President of the Save Romania Union",
+  "term_start3": "28 July 2016",
+  "term_end3": "1 June 2017",
+  "predecessor3": "Himself (as president of USB)",
+  "successor3": "Elek Levente (interim)",
+  "birth_name": "Nicușor Daniel Dan",
+  "birth_date": "December 20, 1969",
+  "birth_place": "Făgăraș, Brașov County, Romania",
+  "party": "Independent (2017–present)",
+  "otherparty": "Save Bucharest Union\n(2015–2016)\nSave Romania Union\n(2016–2017)",
+  "spouse": "Mirabela Grădinaru",
+  "children": "Aheea",
+  "occupation": "Politician",
+  "profession": "Mathematician",
+  "website": "nicusordan.ro/"
 }
