@@ -13,7 +13,7 @@ end
 
 CSV::Converters[:titlecase] = ->(val) { val.to_s.titlecase }
 
-class Comparison < EveryPoliticianScraper::Comparison
+class Comparison < EveryPoliticianScraper::NulllessComparison
   def wikidata_csv_options
     { converters: %i[titlecase] }
   end
