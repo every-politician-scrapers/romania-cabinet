@@ -17,10 +17,6 @@ class OfficeholderList < OfficeholderListBase
     def columns
       %w[title no name start end].freeze
     end
-
-    def empty?
-      super || (startDate < '1989-01-01')
-    end
   end
 end
 
