@@ -17,10 +17,6 @@ class OfficeholderList < OfficeholderListBase
     def columns
       %w[no name start end].freeze
     end
-
-    def raw_end
-      super.gsub('prezent', '')
-    end
   end
 end
 
