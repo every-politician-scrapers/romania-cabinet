@@ -8,13 +8,16 @@
       "start": "2021-11-25",
       "parent": "Q30301632"
     },
-    "source": {
-        "url":   "https://www.gov.ro/en/government/the-cabinet-of-ministers",
-        "title": "Ministers of the Romanian Government",
-        "lang":  {
-            "code": "en",
-            "wikidata": "Q1860"
+    "reference": {
+        "P854":   "https://www.gov.ro/en/government/the-cabinet-of-ministers",
+        "P1476": {
+            "text": "Ministers of the Romanian Government",
+            "language": "en"
         }
     },
-    "agent": "every-politican-scrapers/romania-cabinet"
+    "current_only": "true",
+    "lang": "en",
+    "person_description": {
+        "en": "Romanian politician"
+    }
 }
