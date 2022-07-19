@@ -1,0 +1,188 @@
+{
+  "title": "Virgil-Daniel Popescu",
+  "pageID": 66270846,
+  "categories": [
+    "Living people",
+    "Year of birth missing (living people)",
+    "Place of birth missing (living people)",
+    "21st-century Romanian politicians",
+    "Members of the Romanian Cabinet",
+    "National Liberal Party (Romania) politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Virgil-Daniel Popescu is a Romanian politician who has been serving as Minister of Energy in the Ciucă Cabinet, led by Prime Minister Nicolae Ciucă,.",
+              "links": [
+                {
+                  "text": "Romanian",
+                  "type": "internal",
+                  "page": "Romania"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ciucă Cabinet"
+                },
+                {
+                  "type": "internal",
+                  "page": "Nicolae Ciucă"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Virgil-Daniel Popescu"
+                ]
+              }
+            },
+            {
+              "text": "He previously served in the first and second cabinets led by Ludovic Orban, as well as in the cabinet led by Florin Cîțu.",
+              "links": [
+                {
+                  "text": "first",
+                  "type": "internal",
+                  "page": "First Orban Cabinet"
+                },
+                {
+                  "text": "second cabinets",
+                  "type": "internal",
+                  "page": "Second Orban Cabinet"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ludovic Orban"
+                },
+                {
+                  "text": "cabinet",
+                  "type": "internal",
+                  "page": "Cîțu Cabinet"
+                },
+                {
+                  "type": "internal",
+                  "page": "Florin Cîțu"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Romanian politician",
+          "template": "short description"
+        },
+        {
+          "topic": "gov",
+          "date": "January 2021",
+          "template": "expand romanian"
+        },
+        {
+          "list": [
+            "2021",
+            "11",
+            "25"
+          ],
+          "lc": "yes",
+          "template": "as of"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Virgil-Daniel Popescu"
+          },
+          "office": {
+            "text": "Minister of Energy"
+          },
+          "term_start": {
+            "text": "4 November 2019"
+          },
+          "primeminister": {
+            "text": "Ludovic Orban Nicolae Ciucă (Acting) Florin Cîțu Nicolae Ciucă",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ludovic Orban"
+              },
+              {
+                "type": "internal",
+                "page": "Nicolae Ciucă"
+              },
+              {
+                "type": "internal",
+                "page": "Florin Cîțu"
+              },
+              {
+                "type": "internal",
+                "page": "Nicolae Ciucă"
+              }
+            ]
+          },
+          "party": {
+            "text": "National Liberal Party (PNL)",
+            "links": [
+              {
+                "text": "National Liberal Party",
+                "type": "internal",
+                "page": "National Liberal Party (Romania)"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "date": "24 December 2020",
+          "title": "Members of Citu Government take oath of office",
+          "work": "ACTMedia News Agency",
+          "url": "https://www.actmedia.eu/daily/members-of-citu-government-take-oath-of-office/90198",
+          "url-status": "live",
+          "access-date": "2 January 2021",
+          "archive-url": "https://web.archive.org/web/20210102212535/https://www.actmedia.eu/daily/members-of-citu-government-take-oath-of-office/90198",
+          "archive-date": "2 January 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "23 December 2020",
+          "title": "Guvernul Cîțu a fost votat în Parlament. A primit 260 de voturi pentru și 186 împotrivă",
+          "language": "ro",
+          "work": "Alba24",
+          "url": "https://alba24.ro/guvernul-citu-a-fost-votat-in-parlament-a-primit-260-de-voturi-pentru-si-186-impotriva-817270.html",
+          "url-status": "live",
+          "access-date": "2 January 2021",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "ciucă cabinet"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "romania-politician-stub"
+        }
+      ]
+    }
+  ]
+}

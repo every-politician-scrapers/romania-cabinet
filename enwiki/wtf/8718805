@@ -1,0 +1,787 @@
+{
+  "title": "Eduard Hellvig",
+  "pageID": 8718805,
+  "categories": [
+    "Living people",
+    "1974 births",
+    "People from Zalău",
+    "Babeș-Bolyai University alumni",
+    "National University of Political Studies and Public Administration alumni",
+    "Romanian political scientists",
+    "Romanian journalists",
+    "National Liberal Party (Romania) politicians",
+    "Conservative Party (Romania) politicians",
+    "Members of the Chamber of Deputies (Romania)",
+    "Romanian Ministers of Regional Development",
+    "MEPs for Romania 2007",
+    "MEPs for Romania 2009–2014",
+    "MEPs for Romania 2014–2019",
+    "Directors of the Romanian Intelligence Service",
+    "Officers of the Order of the Star of Romania"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Eduard Raul Hellvig (born 27 October 1974) is a Romanian political scientist, journalist and politician who has served as director of the Romanian Intelligence Service (SRI) since 2015.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Romanian Intelligence Service"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Eduard Raul Hellvig"
+                ]
+              }
+            },
+            {
+              "text": "A former member of the National Liberal Party (PNL) and previously of the Conservative Party (PC), he represented Bihor County in the Romanian Chamber of Deputies from 2004 to 2008, and sat for Ilfov County from 2012 to 2013.",
+              "links": [
+                {
+                  "text": "National Liberal Party",
+                  "type": "internal",
+                  "page": "National Liberal Party (Romania)"
+                },
+                {
+                  "text": "Conservative Party",
+                  "type": "internal",
+                  "page": "Conservative Party (Romania)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Bihor County"
+                },
+                {
+                  "type": "internal",
+                  "page": "Romanian Chamber of Deputies"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ilfov County"
+                }
+              ]
+            },
+            {
+              "text": "In the Victor Ponta cabinet, he was Minister of Regional Development and Tourism in 2012.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Victor Ponta"
+                },
+                {
+                  "text": "Minister of Regional Development and Tourism",
+                  "type": "internal",
+                  "page": "Ministry of Regional Development and Public Administration (Romania)"
+                }
+              ]
+            },
+            {
+              "text": "During 2007, he was Member of the European Parliament (MEP) for Romania, a position he once again took up in 2013, and which he left upon becoming SRI director.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Member of the European Parliament"
+                },
+                {
+                  "text": "Romania",
+                  "type": "internal",
+                  "page": "Romania (European Parliament constituency)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Romanian political scientist, journalist and politician",
+          "template": "short description"
+        },
+        {
+          "year": "1974",
+          "month": "10",
+          "day": "27",
+          "mf": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Eduard Hellvig"
+          },
+          "image": {
+            "text": "Eduard Hellvig.png"
+          },
+          "alt": {
+            "text": "Picture of Eduard Hellvig on White Background"
+          },
+          "office": {
+            "text": "Director of the Romanian Intelligence Service",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Romanian Intelligence Service"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "2 March 2015"
+          },
+          "predecessor": {
+            "text": "Florian Coldea (interim)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Florian Coldea"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Member of the European Parliament\nfor Romania",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Member of the European Parliament"
+              },
+              {
+                "text": "Romania",
+                "type": "internal",
+                "page": "Romania (European Parliament constituency)"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "4 September 2013"
+          },
+          "term_end1": {
+            "text": "1 March 2015"
+          },
+          "term_start2": {
+            "text": "1 January 2007"
+          },
+          "term_end2": {
+            "text": "25 November 2007"
+          },
+          "office3": {
+            "text": "Minister of Regional Development and Tourism",
+            "links": [
+              {
+                "text": "Minister of Regional Development and Tourism",
+                "type": "internal",
+                "page": "Ministry of Regional Development and Public Administration (Romania)"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "7 May 2012"
+          },
+          "term_end3": {
+            "text": "19 December 2012"
+          },
+          "primeminister3": {
+            "text": "Victor Ponta",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Victor Ponta"
+              }
+            ]
+          },
+          "predecessor3": {
+            "text": "Cristian Predescu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cristian Predescu"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Liviu Dragnea",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Liviu Dragnea"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "October 27, 1974"
+          },
+          "birth_place": {
+            "text": "Zalău, Sălaj County, Romania",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Zalău"
+              },
+              {
+                "type": "internal",
+                "page": "Sălaj County"
+              },
+              {
+                "text": "Romania",
+                "type": "internal",
+                "page": "Socialist Republic of Romania"
+              }
+            ]
+          },
+          "party": {
+            "text": "Conservative Party (2003–2008)\nNational Liberal Party (2008–2015)",
+            "links": [
+              {
+                "text": "Conservative Party",
+                "type": "internal",
+                "page": "Conservative Party (Romania)"
+              },
+              {
+                "text": "National Liberal Party",
+                "type": "internal",
+                "page": "National Liberal Party (Romania)"
+              }
+            ]
+          },
+          "otherparty": {
+            "text": "Social Liberal Union (USL)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Social Liberal Union"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Andreea Hellvig"
+          },
+          "children": {
+            "text": "1",
+            "number": 1
+          },
+          "alma_mater": {
+            "text": "Babeș-Bolyai University (B.A.)\nNational University of Political Studies and Public Administration (Ph.D.)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Babeș-Bolyai University"
+              },
+              {
+                "text": "B.A.",
+                "type": "internal",
+                "page": "Bachelor of Arts"
+              },
+              {
+                "type": "internal",
+                "page": "National University of Political Studies and Public Administration"
+              },
+              {
+                "text": "Ph.D.",
+                "type": "internal",
+                "page": "Doctor of Philosophy"
+              }
+            ]
+          },
+          "awards": {
+            "text": "Order of the Star of Romania, Officer rank",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Order of the Star of Romania"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Biography",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Born in Zalău, he attended Babeș-Bolyai University from 1993 to 1997, graduating with a degree in Political Science.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Zalău"
+                },
+                {
+                  "type": "internal",
+                  "page": "Babeș-Bolyai University"
+                }
+              ]
+            },
+            {
+              "text": "In 2009, he received a doctorate in the same field from the National School of Political Science and Public Administration.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "National School of Political Science and Public Administration"
+                }
+              ]
+            },
+            {
+              "text": "From 1997 to 1998, he worked as a stockbroker; during that time, he was also present on the editorial staff for Stelian Tănase's Sfera Politicii magazine.",
+              "links": [
+                {
+                  "text": "stockbroker",
+                  "type": "internal",
+                  "page": "stockbroker"
+                },
+                {
+                  "type": "internal",
+                  "page": "Stelian Tănase"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sfera Politicii"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Sfera Politicii"
+                ]
+              }
+            },
+            {
+              "text": "In 1999–2000, during the Romanian Democratic Convention cabinet, he worked as a Chief of Staff for Interior Minister Constantin Dudu Ionescu.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Romanian Democratic Convention"
+                },
+                {
+                  "text": "Interior Minister",
+                  "type": "internal",
+                  "page": "Ministry of Internal Affairs (Romania)"
+                }
+              ]
+            },
+            {
+              "text": "In 2000, he was on the Presidential campaign team of that cabinet's final prime minister, Mugur Isărescu.",
+              "links": [
+                {
+                  "text": "Presidential campaign team",
+                  "type": "internal",
+                  "page": "2000 Romanian general election"
+                },
+                {
+                  "type": "internal",
+                  "page": "Mugur Isărescu"
+                }
+              ]
+            },
+            {
+              "text": "From 2001 to 2003 he headed a polling firm, and in 2004 he became director of Sintezis, an information technology company.",
+              "links": [
+                {
+                  "text": "information technology",
+                  "type": "internal",
+                  "page": "information technology"
+                }
+              ]
+            },
+            {
+              "text": "In 2005, together with Zsolt Szilágyi and others, Hellvig was nominated as a member of Generația Așteptată (\"The Awaited Generation\"), a project which took inspiration from a campaign in the newspaper Cotidianul, and which sought to evidence and nominate the valuable young contributors to Romanian society.",
+              "links": [
+                {
+                  "text": "Zsolt Szilágyi",
+                  "type": "internal",
+                  "page": "Zsolt Szilágyi (politician)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Cotidianul"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Generația Așteptată",
+                  "Cotidianul"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Hellvig entered the Romanian Humanist Party (PUR), as the PC was then called, in 2003, and served as interim head of its Bihor County chapter from 2004 to 2005."
+            },
+            {
+              "text": "Elected to the Chamber in 2004, he served, from 2005 to 2008, on its defense committee.",
+              "links": [
+                {
+                  "text": "in 2004",
+                  "type": "internal",
+                  "page": "2004 Romanian legislative election"
+                }
+              ]
+            },
+            {
+              "text": "He crossed to the PNL in September 2008, and served as its secretary general from 2011 to 2014."
+            },
+            {
+              "text": "From January to November 2007, he was a Member of the European Parliament.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Member of the European Parliament"
+                }
+              ]
+            },
+            {
+              "text": "At the 2008 election, he ran for re-election to the Chamber, but was defeated.",
+              "links": [
+                {
+                  "text": "2008 election",
+                  "type": "internal",
+                  "page": "2008 Romanian legislative election"
+                }
+              ]
+            },
+            {
+              "text": "Subsequently, he became a close ally of PNL leader Crin Antonescu.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Crin Antonescu"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In May 2012, Hellvig was named Regional Development and Tourism Minister in the new Ponta cabinet, serving until December."
+            },
+            {
+              "text": "Elected to a new term in the Chamber at that point, he initially sat on the foreign affairs committee, until February 2013, when he switched to the European affairs committee.",
+              "links": [
+                {
+                  "text": "Elected",
+                  "type": "internal",
+                  "page": "2012 Romanian legislative election"
+                }
+              ]
+            },
+            {
+              "text": "He became one of the Chamber's vice presidents in December 2012."
+            },
+            {
+              "text": "In November 2012, investigators from the National Integrity Agency (ANI) charged that for several months, from the time he took ministerial office until he left Sintezis that September, he was, legally, in a conflict of interest.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "National Integrity Agency"
+                },
+                {
+                  "text": "conflict of interest",
+                  "type": "internal",
+                  "page": "conflict of interest"
+                }
+              ]
+            },
+            {
+              "text": "Hellvig denied the charges, which were upheld the following April by the Bucharest Court of Appeal, prompting him to state he would continue to fight for vindication."
+            },
+            {
+              "text": "In December 2014, the High Court of Cassation and Justice decided in Hellvig's favor, ruling that he had not been in a conflict of interest and rejecting the ANI's claims.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "High Court of Cassation and Justice"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In September 2013, when two vacancies opened in the PNL's delegation to the European Parliament, Hellvig filled one of the openings after resigning from the Chamber."
+            },
+            {
+              "text": "As MEP, he sits on the Internal Market Committee.",
+              "links": [
+                {
+                  "text": "Internal Market Committee",
+                  "type": "internal",
+                  "page": "European Parliament Committee on Internal Market and Consumer Protection"
+                }
+              ]
+            },
+            {
+              "text": "He won a full term as MEP at the May 2014 European Parliament election.",
+              "links": [
+                {
+                  "text": "European Parliament election",
+                  "type": "internal",
+                  "page": "2014 European Parliament election in Romania"
+                }
+              ]
+            },
+            {
+              "text": "In February 2015, President Klaus Iohannis nominated him to be director of the Romanian Intelligence Service; the following month, a joint session of Parliament confirmed him to the post on a 498–15 vote.",
+              "links": [
+                {
+                  "text": "President",
+                  "type": "internal",
+                  "page": "President of Romania"
+                },
+                {
+                  "type": "internal",
+                  "page": "Klaus Iohannis"
+                },
+                {
+                  "type": "internal",
+                  "page": "Romanian Intelligence Service"
+                },
+                {
+                  "text": "Parliament",
+                  "type": "internal",
+                  "page": "Parliament of Romania"
+                }
+              ]
+            },
+            {
+              "text": "A vice president of the PNL at the time, he subsequently resigned from the party, as required, and also from the European Parliament."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2019 he was awarded the Order of the Star of Romania, Officer rank.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Order of the Star of Romania"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He and his wife Andreea (née Dumitraș) have a daughter.",
+              "formatting": {
+                "italic": [
+                  "née"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "text": "Constantin Dudu Ionescu",
+          "lan1": "ro",
+          "template": "ill"
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "https://www.juridice.ro/666366/ordinul-national-steaua-romaniei-a-fost-conferit-directorului-sri-si-ministrului-apararii-nationale.html",
+          "title": "Ordinul Național Steaua României a fost conferit directorului SRI și ministrului apărării naționale",
+          "lang": "ro",
+          "website": "www.juridice.ro",
+          "date": "November 29, 2019",
+          "access-date": "November 27, 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Notes",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "ro"
+          ],
+          "template": "in lang"
+        },
+        {
+          "list": [
+            "ro"
+          ],
+          "template": "in lang"
+        },
+        {
+          "list": [
+            "en"
+          ],
+          "template": "in lang"
+        },
+        {
+          "template": "first ponta cabinet"
+        },
+        {
+          "template": "authority control"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Official site",
+            "links": [
+              {
+                "text": "Official site",
+                "type": "external",
+                "site": "https://web.archive.org/web/20130525045935/http://www.hellvig.ro/"
+              }
+            ]
+          },
+          {
+            "text": "Chamber of Deputies profile",
+            "links": [
+              {
+                "text": "Chamber of Deputies profile",
+                "type": "external",
+                "site": "http://www.cdep.ro/pls/parlam/structura.mp?idm=165&cam=2&leg=2012"
+              }
+            ]
+          },
+          {
+            "text": "European Parliament profile",
+            "links": [
+              {
+                "text": "European Parliament profile",
+                "type": "external",
+                "site": "http://www.europarl.europa.eu/meps/en/37448/EDUARD-RAUL_HELLVIG_home.html"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

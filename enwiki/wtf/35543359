@@ -1,0 +1,1736 @@
+{
+  "title": "Nicușor Dan",
+  "pageID": 35543359,
+  "categories": [
+    "1969 births",
+    "Living people",
+    "People from Făgăraș",
+    "Romanian mathematicians",
+    "Romanian political candidates",
+    "Romanian activists",
+    "Romanian conservationists",
+    "University of Bucharest alumni",
+    "University of Paris alumni",
+    "École Normale Supérieure alumni",
+    "International Mathematical Olympiad participants",
+    "Members of the Chamber of Deputies (Romania)",
+    "Save Romania Union politicians",
+    "Mayors of Bucharest",
+    "Romanian expatriates in France"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Nicușor Dan (born 20 December 1969) is a Romanian activist, mathematician, former member of the Chamber of Deputies of Romania as well as former founder and leader of the centre-right Romanian political party Save Romania Union (USR).",
+              "links": [
+                {
+                  "text": "Chamber of Deputies of Romania",
+                  "type": "internal",
+                  "page": "Chamber of Deputies (Romania)"
+                },
+                {
+                  "text": "centre-right",
+                  "type": "internal",
+                  "page": "centre-right politics"
+                },
+                {
+                  "text": "Romanian political party",
+                  "type": "internal",
+                  "page": "List of political parties in Romania"
+                },
+                {
+                  "type": "internal",
+                  "page": "Save Romania Union"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Nicușor Dan"
+                ]
+              }
+            },
+            {
+              "text": "He subsequently became the Mayor of Bucharest following the 2020 Romanian local elections and is currently still serving as such.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Mayor of Bucharest"
+                },
+                {
+                  "text": "2020 Romanian local elections",
+                  "type": "internal",
+                  "page": "2020 Romanian local elections"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Romanian politician",
+          "template": "short description"
+        },
+        {
+          "date": "October 2018",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1969",
+          "month": "12",
+          "day": "20",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "text": "Daniel Barsky",
+          "lan1": "de",
+          "template": "ill"
+        },
+        {
+          "text": "Școala Normală Superioară București",
+          "lan1": "ro",
+          "template": "ill"
+        }
+      ],
+      "infoboxes": [
+        {
+          "embed": {
+            "text": "yes"
+          },
+          "fields": {
+            "text": "Mathematics",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mathematics"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Bucharest\nÉcole normale supérieure\nUniversity of Paris",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Bucharest"
+              },
+              {
+                "text": "École normale supérieure",
+                "type": "internal",
+                "page": "École normale supérieure (Paris)"
+              },
+              {
+                "type": "internal",
+                "page": "University of Paris"
+              }
+            ]
+          },
+          "thesis_title": {
+            "text": "Courants de Green et prolongement méromorphe"
+          },
+          "thesis_url": {
+            "text": "https://www.worldcat.org/title/courants-de-green-et-prolongement-meromorphe/oclc/708496745"
+          },
+          "thesis_year": {
+            "text": "1998",
+            "number": 1998
+          },
+          "doctoral_advisors": {
+            "text": "Christophe Soulé\nDaniel Barsky",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Christophe Soulé"
+              }
+            ]
+          },
+          "workplaces": {
+            "text": "Institute of Mathematics of the Romanian Academy\nȘcoala Normală Superioară București",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Institute of Mathematics of the Romanian Academy"
+              }
+            ]
+          }
+        },
+        {
+          "name": {
+            "text": "Nicușor Dan"
+          },
+          "honorific-suffix": {
+            "text": "Ph.D.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ph.D."
+              }
+            ]
+          },
+          "imagesize": {
+            "text": "250px"
+          },
+          "smallimage": {
+            "text": "Nicușor Dan candidatura bgiu.jpg"
+          },
+          "caption": {
+            "text": "Nicușor Dan in April 2012"
+          },
+          "office": {
+            "text": "General Mayor of Bucharest",
+            "links": [
+              {
+                "text": "General Mayor of Bucharest",
+                "type": "internal",
+                "page": "Mayor of Bucharest"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "29 October 2020"
+          },
+          "predecessor": {
+            "text": "Gabriela Firea",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gabriela Firea"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Member of the Chamber of Deputies",
+            "links": [
+              {
+                "text": "Chamber of Deputies",
+                "type": "internal",
+                "page": "Chamber of Deputies (Romania)"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "21 December 2016"
+          },
+          "term_end1": {
+            "text": "20 October 2020"
+          },
+          "constituency1": {
+            "text": "Bucharest",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bucharest"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Member of the General Council of the Municipality of Bucharest",
+            "links": [
+              {
+                "text": "General Council of the Municipality of Bucharest",
+                "type": "internal",
+                "page": "General Council of Bucharest"
+              }
+            ]
+          },
+          "1blankname2": {
+            "text": "Mayor"
+          },
+          "1namedata2": {
+            "text": "Gabriela Firea",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gabriela Firea"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "23 June 2016"
+          },
+          "term_end2": {
+            "text": "21 November 2016"
+          },
+          "office3": {
+            "text": "President of the Save Romania Union",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Save Romania Union"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "28 July 2016"
+          },
+          "term_end3": {
+            "text": "1 June 2017"
+          },
+          "predecessor3": {
+            "text": "Himself (as president of USB)",
+            "links": [
+              {
+                "text": "USB",
+                "type": "internal",
+                "page": "Save Bucharest Union"
+              }
+            ],
+            "formatting": {
+              "italic": [
+                "Himself"
+              ]
+            }
+          },
+          "successor3": {
+            "text": "Elek Levente (interim)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elek Levente"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Nicușor Daniel Dan"
+          },
+          "birth_date": {
+            "text": "December 20, 1969"
+          },
+          "birth_place": {
+            "text": "Făgăraș, Brașov County, Romania",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Făgăraș"
+              },
+              {
+                "type": "internal",
+                "page": "Brașov County"
+              },
+              {
+                "text": "Romania",
+                "type": "internal",
+                "page": "Socialist Republic of Romania"
+              }
+            ]
+          },
+          "party": {
+            "text": "Independent (2017–present)",
+            "links": [
+              {
+                "text": "Independent",
+                "type": "internal",
+                "page": "Independent politician"
+              }
+            ]
+          },
+          "otherparty": {
+            "text": "Save Bucharest Union\n(2015–2016)\nSave Romania Union\n(2016–2017)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Save Bucharest Union"
+              },
+              {
+                "type": "internal",
+                "page": "Save Romania Union"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Mirabela Grădinaru"
+          },
+          "children": {
+            "text": "Aheea"
+          },
+          "occupation": {
+            "text": "Politician"
+          },
+          "profession": {
+            "text": "Mathematician"
+          },
+          "website": {
+            "text": "nicusordan.ro/"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.hotnews.ro/stiri-politic-24331444-nicusor-dan-castigator-alegerilor-282-631-voturi-gabriela-firea-250-690-voturi-rezultate-finale-biroul-electoral-municipal-pentru-primaria-capitalei.htm?fbclid=IwAR24GgF--mkmru_Z-JYgwO2qNmnJHdrp7F3KAiVbneNbl4FqVei016bmo60",
+          "title": "Nicuşor Dan, câştigător al alegerilor cu 282.631 de voturi. Gabriela Firea, 250.690 de voturi / Rezultatele în sectoare - date finale AEP - Politic - HotNews.ro",
+          "date": "5 October 2020",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Biography",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Born in Făgăraș, Brașov County, he attended the Radu Negru High School in his native city.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Făgăraș"
+                },
+                {
+                  "type": "internal",
+                  "page": "Brașov County"
+                },
+                {
+                  "text": "Radu Negru High School",
+                  "type": "internal",
+                  "page": "Radu Negru National College"
+                }
+              ]
+            },
+            {
+              "text": "He won first prizes in the International Mathematical Olympiads in 1987 and 1988 with perfect scores.",
+              "links": [
+                {
+                  "text": "International Mathematical Olympiads",
+                  "type": "internal",
+                  "page": "International Mathematical Olympiad"
+                }
+              ]
+            },
+            {
+              "text": "Dan moved to Bucharest at the age of 18 and began studying mathematics at the University of Bucharest.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Bucharest"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 1992, he moved to France to continue studying mathematics: he followed the courses of the École Normale Supérieure, one of the most prestigious French grande écoles, where he gained a master's degree.",
+              "links": [
+                {
+                  "text": "École Normale Supérieure",
+                  "type": "internal",
+                  "page": "École Normale Supérieure"
+                },
+                {
+                  "text": "grande écoles",
+                  "type": "internal",
+                  "page": "grande école"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "grande écoles"
+                ]
+              }
+            },
+            {
+              "text": "In 1998 Dan completed a PhD in mathematics at Paris 13 University, with thesis \"Courants de Green et prolongement méromorphe\" written under the direction of Christophe Soulé and Daniel Barsky.",
+              "links": [
+                {
+                  "text": "Paris 13 University",
+                  "type": "internal",
+                  "page": "Université Sorbonne Paris Nord"
+                },
+                {
+                  "type": "internal",
+                  "page": "Christophe Soulé"
+                }
+              ]
+            },
+            {
+              "text": "He returned to Bucharest that year, giving as reasons for his return his inadaptation to the French culture and the desire to change Romania."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Nicușor Dan was one of the creators and the first administrative director of the Școala Normală Superioară București, a university set up on the model of the French École Normale Supérieure within the Romanian Academy's Institute of Mathematics.",
+              "links": [
+                {
+                  "text": "École Normale Supérieure",
+                  "type": "internal",
+                  "page": "École Normale Supérieure"
+                },
+                {
+                  "type": "internal",
+                  "page": "Romanian Academy"
+                },
+                {
+                  "text": "Institute of Mathematics",
+                  "type": "internal",
+                  "page": "Institute of Mathematics of the Romanian Academy"
+                }
+              ]
+            },
+            {
+              "text": ", he was a professor of mathematics at the institute."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "text": "Daniel Barsky",
+          "lan1": "de",
+          "template": "ill"
+        },
+        {
+          "text": "Școala Normală Superioară București",
+          "lan1": "ro",
+          "template": "ill"
+        },
+        {
+          "list": [
+            "2011"
+          ],
+          "template": "as of"
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.imo-official.org/participant_r.aspx?id=1571",
+          "title": "Nicușor Dan's individual ranking",
+          "publisher": "www.imo-official.org",
+          "access-date": "2016-04-02",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.theses.fr/1998PA132019",
+          "title": "Courants de Green et prolongement méromorphe par Nicusor Dan",
+          "website": "theses.fr",
+          "date": "January 1998",
+          "access-date": "September 27, 2020",
+          "type": "thesis",
+          "last1": "Dan",
+          "first1": "Nicusor",
+          "template": "citation"
+        },
+        {
+          "url": "https://www.worldcat.org/title/courants-de-green-et-prolongement-meromorphe/oclc/708496745",
+          "title": "Courants de Green et prolongement méromorphe",
+          "trans-title": "Green currents and meromorphic continuation",
+          "language": "fr",
+          "publisher": "Université Sorbonne Paris Nord",
+          "location": "Paris",
+          "year": "1998",
+          "first": "Nicușor",
+          "last": "Dan",
+          "oclc": "708496745",
+          "template": "citation",
+          "type": "thesis"
+        },
+        {
+          "url": "https://evz.ro/nicusor-dan-100-de-minciuni-sau-promisiuni-neonorate-ale-lui-sorin-oprescu-974649.html",
+          "title": "Nicușor Dan: 100 de minciuni sau promisiuni neonorate ale lui Sorin Oprescu",
+          "newspaper": "Evenimentul Zilei",
+          "date": "2 April 2012",
+          "language": "ro",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Activism",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In 1998, Dan founded Asociația \"Tinerii pentru Acțiune Civică\" (\"Young People for Civic Action\" Association), for which he wanted to gather a thousand young people who wanted to change Romania, which was his stated goal for returning to the country.",
+              "formatting": {
+                "italic": [
+                  "Asociația \"Tinerii pentru Acțiune Civică\""
+                ]
+              }
+            },
+            {
+              "text": "Despite failing in its goals, the association did organize two forums for young people who studied abroad, in 2000 and 2002, to which a few hundred people participated."
+            },
+            {
+              "text": "As result of these forums, the \"Ad Astra\" Association of Romanian researchers was created in 2000."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Save Bucharest Association",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": []
+        },
+        {
+          "sentences": [
+            {
+              "text": "Dan founded the Asociația \"Salvați Bucureștiul\" (\"Save Bucharest\" Association) in 2006 as a reaction to the demolition of architectural heritage houses and the building of high-rise buildings in protected Bucharest neighborhoods, as well as the diminishing number of green space areas in Bucharest.",
+              "links": [
+                {
+                  "text": "green space",
+                  "type": "internal",
+                  "page": "Green infrastructure"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Asociația \"Salvați Bucureștiul\""
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In March 2008, the association published the \"Bucharest, an urbanistic disaster\" Report, which discussed Bucharest's problems and ways to overcome them."
+            },
+            {
+              "text": "In the same year, during the elections, together with other NGOs, the association drafted a Pact for Bucharest, which was signed by all the candidates for mayor of Bucharest.",
+              "links": [
+                {
+                  "text": "NGOs",
+                  "type": "internal",
+                  "page": "Non-governmental organization"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Pact for Bucharest"
+                ]
+              }
+            },
+            {
+              "text": "On April Fools' Day in 2012, Dan published a list of 100 electoral promises made by elected mayor of Bucharest Sorin Oprescu which were not kept, including the \"Pact for Bucharest\".",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "April Fools' Day"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sorin Oprescu"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The association was involved in many trials, winning 23 trials against the local authorities of Bucharest."
+            },
+            {
+              "text": "Among them are the cancellation of a project which would have built a water park on 7 hectares of Tineretului Park, saving from demolition a number of heritage buildings on Șoseaua Kiseleff no. 45, and the cancelation of a project which would have built a glass building on top of Palatul Știrbei on Calea Victoriei.",
+              "links": [
+                {
+                  "text": "water park",
+                  "type": "internal",
+                  "page": "water park"
+                },
+                {
+                  "type": "internal",
+                  "page": "Tineretului Park"
+                },
+                {
+                  "text": "Șoseaua Kiseleff",
+                  "type": "internal",
+                  "page": "Șoseaua Kiseleff"
+                },
+                {
+                  "type": "internal",
+                  "page": "Palatul Știrbei"
+                },
+                {
+                  "type": "internal",
+                  "page": "Calea Victoriei"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The association was also able to push some changes in 2009 to the urban planning law.",
+              "links": [
+                {
+                  "text": "urban planning",
+                  "type": "internal",
+                  "page": "urban planning"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": []
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Nicușor_Dan_on_bicycle.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Nicu%C8%99or_Dan_on_bicycle.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Nicu%C8%99or_Dan_on_bicycle.jpg",
+          "caption": "Nicușor Dan on a bicycle during his electoral campaign for Mayor of Bucharest",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "Save Bucharest Association"
+          ],
+          "template": "main"
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0
+    },
+    {
+      "title": "2012 local elections",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Nicușor Dan announced his candidacy for Mayor of Bucharest in November 2011 at a café on Arthur Verona street, with just a few guests, among which Theodor Paleologu, a historian and Member of Parliament.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Mayor of Bucharest"
+                },
+                {
+                  "type": "internal",
+                  "page": "Theodor Paleologu"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": []
+        },
+        {
+          "sentences": [
+            {
+              "text": "For gathering the 36,000 signatures needed for his candidacy, having the backing of no party, he relied on a network of volunteers organized on Facebook.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Facebook"
+                }
+              ]
+            },
+            {
+              "text": "On 22 April, 15 bands and musicians performed pro-bono at Arenele Romane for Dan's campaign in order to help him gather the signatures.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Arenele Romane"
+                }
+              ]
+            },
+            {
+              "text": "During the 12-hour-long concert, volunteers gathered 4,000 signatures."
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Nicușor_Dan_mayoral_campaign,_volunteers.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Nicu%C8%99or_Dan_mayoral_campaign%2C_volunteers.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Nicu%C8%99or_Dan_mayoral_campaign%2C_volunteers.jpg",
+          "caption": "Volunteers in Dan's campaign carrying the signatures to the Electoral Bureau",
+          "links": []
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.hotnews.ro/stiri-alegeri_bucuresti_2012-12037101-nicusor-dan-organizeaza-concert-pentru-strange-semnaturi-pentru-inscrierea-cursa-electorala.htm",
+          "title": "Nicușor Dan organizează un concert pentru a strânge semnături pentru înscrierea in cursa electorală",
+          "publisher": "Hotnews.ro",
+          "date": "19 April 2012",
+          "language": "ro",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Political positions and program",
+      "depth": 2,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Among his proposed projects are the creation of a light rail infrastructure over the existing rail lines in Bucharest, creating an infrastructure for prioritizing public transport over other traffic in intersections, consolidating buildings that are likely to be affected by earthquakes, and clearing illegal buildings from parks.",
+              "links": [
+                {
+                  "text": "light rail",
+                  "type": "internal",
+                  "page": "light rail"
+                },
+                {
+                  "text": "prioritizing",
+                  "type": "internal",
+                  "page": "Traffic signal preemption"
+                },
+                {
+                  "text": "public transport",
+                  "type": "internal",
+                  "page": "public transport"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Dan argues that it is important to incentivize young people to stay in the city, by making it a regional hub in IT, creative industries and higher education, and attracting investors and skilled people from across the region.",
+              "links": [
+                {
+                  "text": "creative industries",
+                  "type": "internal",
+                  "page": "creative industries"
+                },
+                {
+                  "text": "higher education",
+                  "type": "internal",
+                  "page": "higher education"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Support and opinions on his candidacy",
+      "depth": 2,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "He received support from Andrei Pleșu, who argued that Dan is the only one of the candidates who is interested in the architecture of Bucharest and does not support any utopian initiatives.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Andrei Pleșu"
+                }
+              ]
+            },
+            {
+              "text": "He also received support from political scientist and Member of the European Parliament Cristian Preda.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Cristian Preda"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Dan gained the support of some journalists who wrote about him in op-eds from several newspapers: Andrei Crăciun of Adevărul saw in him \"a Don Quijote untouched by the vulgar lard of undeserved riches\" and \"a person who works against the system\".",
+              "links": [
+                {
+                  "text": "op-eds",
+                  "type": "internal",
+                  "page": "op-ed"
+                },
+                {
+                  "type": "internal",
+                  "page": "Adevărul"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Adevărul"
+                ]
+              }
+            },
+            {
+              "text": "Florin Negruțiu, the editor-in-chief of Gândul thought he is an \"atypical candidate\" for Bucharest, the model candidate of the intellectuals; nevertheless, the journalist did not see any chances that Dan would become mayor, because he is \"too serious\" a candidate, and unlikely to appeal to the masses.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Gândul"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Gândul"
+                ]
+              }
+            },
+            {
+              "text": "Neculai Constantin Munteanu from Radio Free Europe wrote that he supports Dan for his unselfish way of caring about Bucharest and that his opponents are \"comedians\", for which one can \"admire the imposture, ludicrousness, and incompetence\".",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Neculai Constantin Munteanu"
+                },
+                {
+                  "type": "internal",
+                  "page": "Radio Free Europe"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Radio Free Europe"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "2016 local elections",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Having registered Save Bucharest Union (USB) as a political party in 2015, Nicușor Dan ran again for Mayor of Bucharest in 2016.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Save Bucharest Union"
+                },
+                {
+                  "type": "internal",
+                  "page": "Mayor of Bucharest"
+                }
+              ]
+            },
+            {
+              "text": "This time, the elections were held in a single round.",
+              "links": [
+                {
+                  "text": "the elections",
+                  "type": "internal",
+                  "page": "2016 Romanian local elections"
+                }
+              ]
+            },
+            {
+              "text": "He gained 30,52% of the total votes, losing to the socialist candidate, Gabriela Firea, who gained 42,97% of the total votes.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Gabriela Firea"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In the election, Dan managed to attract the young electorate, with over half of his voters being under the age of 40."
+            },
+            {
+              "text": "Some of USB's candidates for sector mayor have also performed well in their respective races, proving USB's viability as a future political force.",
+              "links": [
+                {
+                  "text": "sector mayor",
+                  "type": "internal",
+                  "page": "Sectors of Bucharest"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.hotnews.ro/stiri-administratie_locala-20269592-nicusor-dan-lansat-partidul-uniunea-salvati-bucurestiul-suntem-continuarea-acestui-efort-care-dna-face-curata-administratia-publica-din-bucuresti-orasul-asta-nu-are-vizune-venim-propunem.htm",
+          "title": "Nicusor Dan a lansat partidul Uniunea Salvati Bucurestiul: Suntem in continuarea efortului DNA de a curata administratia publica din Bucuresti. Orasul nu are o viziune, venim sa o propunem",
+          "last": "Ivanov",
+          "first": "Catiusa",
+          "date": "1 July 2015",
+          "work": "Hotnews.ro",
+          "access-date": "19 July 2019",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.euractiv.ro/politic-intern/profilul-alegatorilor-gabrielei-firea-si-ai-lui-nicusor-dan.-candidatul-usb-votat-de-tineri-educati-4588",
+          "title": "Alegeri locale 2016: Profilul alegătorilor Gabrielei Firea și ai lui Nicușor Dan. Candidatul USB, votat de tineri educați",
+          "last": "Căbescu",
+          "first": "Paula",
+          "date": "7 June 2016",
+          "work": "EURACTIV",
+          "access-date": "19 July 2019",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.gandul.info/stiri/rezultate-finale-alegeri-locale-2016-firea-42-97-nicusor-dan-30-52-15460603",
+          "title": "REZULTATE FINALE alegeri locale 2016. Firea – 42,97 %, Nicuşor Dan – 30,52%",
+          "last": "Pecheanu",
+          "first": "Gabriel",
+          "date": "9 June 2016",
+          "work": "Gândul",
+          "access-date": "19 July 2019",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Save Romania Union",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Wanting to capitalize on the momentum that saw him gain a third of the votes in the local elections, Dan announced shortly after the 2016 local election that the Save Bucharest Union will change its name to Save Romania Union (USR), shifting its focus to a national stage.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Save Romania Union"
+                }
+              ]
+            },
+            {
+              "text": "He also announced plans for the new party to enter the Parliamentary elections of that year.",
+              "links": [
+                {
+                  "text": "the Parliamentary elections of that year",
+                  "type": "internal",
+                  "page": "2016 Romanian legislative election"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "With Nicușor Dan at the top of the candidate list, USR gained 8.92% of the vote in the Senate race and 8.87% in the Chamber of Deputies, which made them the third largest party in Romania.",
+              "links": [
+                {
+                  "text": "Senate",
+                  "type": "internal",
+                  "page": "Senate of Romania"
+                },
+                {
+                  "text": "Chamber of Deputies",
+                  "type": "internal",
+                  "page": "Chamber of Deputies (Romania)"
+                }
+              ]
+            },
+            {
+              "text": "The result also meant that Dan became a member of the Chamber of Deputies."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "Save Romania Union"
+          ],
+          "template": "main"
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.hotnews.ro/stiri-politic-21054884-nicusor-dan-anunta-uniunea-salvati-bucurestiul-devine-uniunea-salvati-romania-vom-lupta-pentru-locuri-parlament.htm",
+          "title": "Un nou partid pe scena politica nationala. Uniunea Salvati Bucurestiul devine Uniunea Salvati Romania. Nicusor Dan: Vom lupta pentru locuri in Parlament",
+          "last": "I.C.",
+          "date": "5 June 2016",
+          "work": "Hotnews.ro",
+          "access-date": "19 July 2019",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.agerpres.ro/politica/2016/12/22/retrospectiva-2016-de-la-asociatia-salvati-bucurestiul-la-uniunea-salvati-romania-lupta-civica-transferata-in-parlament-16-06-31",
+          "title": "RETROSPECTIVĂ 2016 De la Asociaţia Salvaţi Bucureştiul, la Uniunea Salvaţi România: Lupta civică, transferată în Parlament",
+          "last": "Agerpres",
+          "date": "22 December 2016",
+          "work": "Agerpres",
+          "access-date": "19 July 2019",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://stirileprotv.ro/stiri/alegeri-parlamentare/rezultate-finale-alegeri-parlamentare-2016-psd-castigat-alegerile-insa-nu-are-majoritate-in-parlament.html",
+          "title": "Rezultate finale alegeri parlamentare 2016. PSD a castigat alegerile, insa nu are majoritate in Parlament",
+          "last": "Stirileprotv.ro",
+          "date": "15 December 2016",
+          "work": "PRO TV",
+          "access-date": "19 July 2019",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.libertatea.ro/stiri/rezultatele-alegerilor-parlamentare-2016-1680979",
+          "title": "Rezultate alegeri parlamentare 2016. Rezultate finale anunțate de BEC: PSD – 45,47%, PNL – 20,04%, USR – 8,87%",
+          "date": "15 December 2016",
+          "work": "Libertatea",
+          "access-date": "19 July 2019",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Departure from USR",
+      "depth": 2,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In 2017, anti-same-sex pressure group Coaliția pentru Familie managed to raise the necessary number of signatures to organize a referendum that would change the part of the Romanian Constitution dealing with marriage, with the hope of redefining it as \"between a man and a woman\".",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Coaliția pentru Familie"
+                },
+                {
+                  "text": "Romanian Constitution",
+                  "type": "internal",
+                  "page": "Constitution of Romania"
+                }
+              ]
+            },
+            {
+              "text": "This created a rift within USR, between the progressive wing, who wanted USR to become the only Parliamentary party to oppose the initiative, and Nicușor Dan, who believed USR should not get involved in the debate and that the party should remain open for both progressives and conservatives."
+            },
+            {
+              "text": "An internal referendum within the party followed, in which 52,7% of members voted to position the party against the Constitutional initiative, which triggered Dan to resign from the party on 1 June 2017."
+            },
+            {
+              "text": "As explanation for his opposition to the National Council vote he cited religious matters, the dangers of deviating from the main party issue, which is the fight against corruption and his refusal to belong to a party that defines itself as a party of civil liberties.",
+              "links": [
+                {
+                  "text": "fight against corruption",
+                  "type": "internal",
+                  "page": "Corruption in Romania",
+                  "anchor": "Anti-corruption measures"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.diggitmagazine.com/articles/case-romania-s-family-referendum",
+          "title": "The Case of Romania's Family Referendum",
+          "last": "Andrei",
+          "first": "Alina",
+          "date": "10 December 2018",
+          "work": "Diggit Magazine",
+          "access-date": "19 July 2019",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.hotnews.ro/stiri-politic-21764439-emanuel-ungureanu-candidat-sefia-usr-lipseste-curajul-fata-ipocriziei-numita-referendum-pentru-familie.htm",
+          "title": "Nicusor Dan: USR are doua probleme – conflictul dintre progresisti si conservatori si lipsa de colegialitate si de incredere/ Serban Marinescu: Lipsa deciziilor ne poate costa mai mult decat o decizie/ Emanuel Ungureanu: Ne lipseste curajul in fata ipocriziei numita referendum pentru familie",
+          "last": "V.M.",
+          "date": "13 May 2017",
+          "work": "Hotnews.ro",
+          "access-date": "19 July 2019",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.hotnews.ro/stiri-politic-21797310-nicusor-dan-isi-explica-plecarea-din-usr-cel-mai-important-motiv-tine-onoare-promis-oamenilor-usr-loc-pentru-progresisti-pentru-conservatori.htm",
+          "title": "Nicusor Dan isi explica plecarea din USR: Este o chestiune de onoare, am promis oamenilor ca in partid va fi loc si pentru progresisti si pentru conservatori",
+          "last": "G.S.",
+          "date": "1 June 2017",
+          "work": "Hotnews.ro",
+          "access-date": "19 July 2019",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.mediafax.ro/politic/usr-in-deriva-dupa-referendumul-intern-privind-redefinirea-familiei-nicusor-dan-nu-da-inapoi-eu-vreau-sa-le-multumesc-si-sa-ii-asigur-ca-raman-in-politica-16693276",
+          "title": "USR, în derivă după referendumul intern privind redefinirea familiei. Nicuşor Dan nu dă înapoi: Eu vreau să le mulţumesc şi să îi asigur că rămân în politică",
+          "last": "Stanila",
+          "first": "Dana",
+          "date": "14 August 2017",
+          "work": "Mediafax",
+          "access-date": "19 July 2019",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.digi24.ro/stiri/actualitate/politica/nicusor-dan-voi-explica-demisia-mea-din-usr-intr-o-conferinta-de-presa-735406",
+          "title": "Nicuşor Dan și-a anunțat oficial demisia din USR. E dispus să se întoarcă în anumite condiții",
+          "date": "1 June 2017",
+          "work": "Digi24",
+          "access-date": "19 July 2019",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.euractiv.ro/politic-intern/demisioneaza-sau-nu-nicusor-dan-de-la-conducerea-usr-7805",
+          "title": "Nicușor Dan pleacă din USR, din cauza deciziei partidului de a nu susţine revizuirea Constituției",
+          "last": "M.K.",
+          "date": "1 June 2017",
+          "work": "EURACTIV",
+          "access-date": "19 July 2019",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Independent",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "After his resignation from USR, Nicușor Dan continued to serve as a member of the Chamber of Deputies as an independent."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Due to a quirk in the Romanian electoral law, USR required his signature when they attempted to legally register their alliance with the Freedom, Unity and Solidarity Party (PLUS).",
+              "links": [
+                {
+                  "text": "their alliance",
+                  "type": "internal",
+                  "page": "2020 USR-PLUS Alliance"
+                },
+                {
+                  "type": "internal",
+                  "page": "Freedom, Unity and Solidarity Party"
+                }
+              ]
+            },
+            {
+              "text": "In order to help his former party, in March 2019 Dan briefly rejoined USR as a common member, gave the necessary signature and then resigned for a second time."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.g4media.ro/nicusor-dan-s-a-reinscris-in-usr-pentru-ca-alianta-2020-sa-poata-fi-inregistrata-ajut-cum-pot-optiunea-asta-electorala.html",
+          "title": "Nicușor Dan s-a reînscris în USR pentru ca Alianța 2020 să poată fi înregistrată: Ajut cum pot opțiunea asta electorală",
+          "last": "Citre",
+          "first": "Cristian",
+          "date": "8 March 2019",
+          "work": "G4Media",
+          "access-date": "19 July 2019",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.digi24.ro/stiri/actualitate/politica/nicusor-dan-isi-anunta-candidatura-la-primarie-am-speranta-ca-voi-fi-candidatul-unic-al-opozitiei-1139898",
+          "title": "Nicuşor Dan îşi anunţă candidatura la primărie: Am speranţa că voi fi candidatul unic al Opoziţiei",
+          "last": "Dumitru",
+          "first": "Adrian",
+          "date": "30 May 2019",
+          "work": "Digi24",
+          "access-date": "19 July 2019",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "2020 local elections",
+      "depth": 2,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In May 2019, he announced his plans to once again run for Mayor of Bucharest, as an independent."
+            },
+            {
+              "text": "Dan mentioned that while he hopes that his candidacy will be supported by the rest of the opposition parties, he will not run against a different common candidate, unwilling to split the vote of the opposition."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was ultimately supported by both USR and the National Liberal Party (PNL).",
+              "links": [
+                {
+                  "text": "National Liberal Party",
+                  "type": "internal",
+                  "page": "National Liberal Party (Romania)"
+                }
+              ]
+            },
+            {
+              "text": "With 95% of votes counted, partial results suggested that he won the mayoral election with 42.8% of votes."
+            },
+            {
+              "text": "Shortly afterwards exit polls showed him winning the race, he announced victory."
+            },
+            {
+              "text": "On 5 October 2020 the Central Electoral Bureau confirmed his status as the new Mayor of Bucharest, winning the elections with a majority of 42.81% against Gabriela Firea (37.97%), the former Mayor.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Gabriela Firea"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.romania-insider.com/romania-local-elections-exit-polls-september-2020",
+          "title": "Romania local elections: Partial results confirm Nicusor Dan is Bucharest's new mayor",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Electoral history",
+      "depth": 0
+    },
+    {
+      "title": "Mayor of Bucharest",
+      "depth": 1,
+      "tables": [
+        [
+          {
+            "col1": {
+              "text": "Election"
+            },
+            "col2": {
+              "text": "Affiliation"
+            },
+            "col3": {
+              "text": "Main round"
+            },
+            "col4": {
+              "text": ""
+            },
+            "col5": {
+              "text": ""
+            }
+          },
+          {
+            "col1": {
+              "text": "Election"
+            },
+            "col2": {
+              "text": "Affiliation"
+            },
+            "col3": {
+              "text": "Votes"
+            },
+            "col4": {
+              "text": "Percentage"
+            },
+            "col5": {
+              "text": "Position"
+            }
+          },
+          {
+            "col1": {
+              "text": "2012",
+              "number": 2012,
+              "links": [
+                {
+                  "text": "2012",
+                  "type": "internal",
+                  "page": "2012 Romanian local elections"
+                }
+              ]
+            },
+            "col2": {
+              "text": "Independent"
+            },
+            "col3": {
+              "text": "66,649",
+              "number": 66649
+            },
+            "col4": {
+              "text": ""
+            },
+            "col5": {
+              "text": ""
+            }
+          },
+          {
+            "col1": {
+              "text": "2016",
+              "number": 2016,
+              "links": [
+                {
+                  "text": "2016",
+                  "type": "internal",
+                  "page": "2016 Romanian local elections"
+                }
+              ]
+            },
+            "col2": {
+              "text": "USB"
+            },
+            "col3": {
+              "text": "175,119",
+              "number": 175119
+            },
+            "col4": {
+              "text": ""
+            },
+            "col5": {
+              "text": ""
+            }
+          },
+          {
+            "col1": {
+              "text": "2020",
+              "number": 2020,
+              "links": [
+                {
+                  "text": "2020",
+                  "type": "internal",
+                  "page": "2020 Romanian local elections"
+                }
+              ]
+            },
+            "col2": {
+              "text": "Independent (supported by PNL and USR PLUS)"
+            },
+            "col3": {
+              "text": "282,631",
+              "number": 282631
+            },
+            "col4": {
+              "text": ""
+            },
+            "col5": {
+              "text": ""
+            }
+          }
+        ]
+      ],
+      "templates": [
+        {
+          "list": [
+            "9.17"
+          ],
+          "c": "#263e6c",
+          "template": "percentage bar"
+        },
+        {
+          "list": [
+            "Gray",
+            "4th"
+          ],
+          "template": "color box"
+        },
+        {
+          "list": [
+            "Save Romania Union"
+          ],
+          "template": "party color"
+        },
+        {
+          "list": [
+            "30.5"
+          ],
+          "template": "percentage bar"
+        },
+        {
+          "list": [
+            "Silver",
+            "2nd"
+          ],
+          "template": "color box"
+        },
+        {
+          "list": [
+            "42.81"
+          ],
+          "c": "#263e6c",
+          "template": "percentage bar"
+        },
+        {
+          "list": [
+            "Gold",
+            "1st"
+          ],
+          "template": "color box"
+        }
+      ]
+    },
+    {
+      "title": "Controversy",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In an article published in 2000 in the conservative weekly Dilema, Nicușor Dan stated that \"I am against the acceptance of homosexual behavior in public spaces, in Romania. I believe this to be an attack against traditional values and therefore, my legitimate collective identity\".",
+              "links": [
+                {
+                  "text": "Dilema",
+                  "type": "internal",
+                  "page": "Dilema veche"
+                }
+              ]
+            },
+            {
+              "text": "The statement kept resurfacing after his political career took off, particularly during his much-publicized departure from USR."
+            },
+            {
+              "text": "Dan distanced himself from his previous statements on several occasions, claiming that he is not homophobic and that his opinion on the matter has changed considerably in the intervening years."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.b1.ro/stiri/politica/nicusor-dan-sunt-impotriva-acceptarii-comportamentului-homosexual-in-spatiul-public-un-articol-din-anul-2000-si-consecintele-lui-electorale-143578.html",
+          "title": "Nicușor Dan: \"Sunt împotriva acceptării comportamentului homosexual în spațiul public\". Un articol din anul 2000 şi consecinţele lui electorale",
+          "date": "16 March 2016",
+          "work": "B1 TV",
+          "access-date": "19 July 2019",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.vice.com/ro/article/kzqgby/am-vorbit-cu-nicusor-dan-despre-homofobie-si-planul-lui-pentru-usr",
+          "title": "Am vorbit cu Nicușor Dan despre homofobie și planul lui pentru USR",
+          "last": "Dumitrescu",
+          "first": "Ionuț",
+          "date": "12 June 2017",
+          "work": "Vice",
+          "access-date": "19 July 2019",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Nicușor Dan lives with his long-time girlfriend, Mirabela, an executive for Renault.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Renault"
+                }
+              ]
+            },
+            {
+              "text": "In May 2016, they became the parents of a baby girl."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.hotnews.ro/stiri-alegeri_locale_2016_bucuresti-20932674-video-interviu-nicusor-dan-pnl-nu-poate-castige-situatia-care-candidam-noi-candideaza-castig-4-100-lei-luna-locuiesc-chirie-intr-apartament-din-zona-gorjului-platesc-chirie-250-euro-luna.htm",
+          "title": "Nicusor Dan: PNL-ul nu poate sa castige in situatia in care candidam si noi, candideaza si ei/ Castig 4.100 lei/luna. Locuiesc cu chirie intr-un apartament din zona Gorjului. Platesc chirie 250 euro/luna",
+          "last": "Ivanov",
+          "first": "Catiusa",
+          "date": "12 April 2016",
+          "work": "Hotnews.ro",
+          "access-date": "19 April 2019",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.stiripesurse.ro/cine-este-iubita-pre-edintelui-usb-nicu-or-dan_1137631.html",
+          "title": "Cine este iubita președintelui USB, Nicușor Dan",
+          "last": "Cruceru",
+          "first": "Alexandra",
+          "date": "26 May 2016",
+          "work": "Stiripesurse.ro",
+          "access-date": "19 July 2019",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "mayors of capital cities of european union member states"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Nicușor Dan's website",
+            "links": [
+              {
+                "text": "Nicușor Dan's website",
+                "type": "external",
+                "site": "http://nicusordan.ro/"
+              }
+            ]
+          },
+          {
+            "text": "Salvați Bucureștiul (Save Bucharest) Association",
+            "links": [
+              {
+                "text": "Salvați Bucureștiul (Save Bucharest) Association",
+                "type": "external",
+                "site": "http://www.salvatibucurestiul.ro/"
+              }
+            ]
+          },
+          {
+            "text": "https://www.worldcat.org/identities/viaf-45153124238924490799/"
+          }
+        ],
+        [
+          {
+            "text": "https://www.worldcat.org/identities/viaf-45153124238924490799/"
+          }
+        ]
+      ],
+      "references": [
+        {
+          "url": "http://www.politico.eu/article/nicusor-dan-independent-candidate-romenia-local-elections-bucharest-geek-takes-on-romanian-establishment-corruption/",
+          "title": "Geek takes on Romanian establishment. The unlikely campaign of a mathematician dedicated to saving Bucharest from the developers — and the politicians",
+          "newspaper": "Politico",
+          "first": "Carmen",
+          "last": "Păun",
+          "date": "June 3, 2016",
+          "access-date": "September 27, 2020",
+          "template": "citation",
+          "type": "cite web"
+        }
+      ]
+    }
+  ]
+}

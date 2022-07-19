@@ -1,0 +1,205 @@
+{
+  "title": "Adrian Câciu",
+  "pageID": 69463891,
+  "categories": [
+    "Bucharest Academy of Economic Studies alumni",
+    "Social Democratic Party (Romania) politicians",
+    "Romanian economists",
+    "Romanian Ministers of Finance",
+    "1974 births",
+    "Living people"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Adrian Câciu (born February 20, 1974) is a Romanian economist and politician.",
+              "formatting": {
+                "bold": [
+                  "Adrian Câciu"
+                ]
+              }
+            },
+            {
+              "text": "Since November 25, 2021, he has been Minister of Finance in the Government of Nicolae Ciucă, and a member of the Social Democratic Party.",
+              "links": [
+                {
+                  "text": "Minister of Finance",
+                  "type": "internal",
+                  "page": "Ministry of Public Finance (Romania)"
+                },
+                {
+                  "text": "Government of Nicolae Ciucă",
+                  "type": "internal",
+                  "page": "Ciucă Cabinet"
+                },
+                {
+                  "text": "Social Democratic Party",
+                  "type": "internal",
+                  "page": "Social Democratic Party (Romania)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Romanian politician",
+          "template": "short description"
+        },
+        {
+          "date": "December 2021",
+          "template": "use mdy dates"
+        },
+        {
+          "date": "December 2021",
+          "template": "use american english"
+        },
+        {
+          "year": "1974",
+          "month": "2",
+          "day": "20",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "office3": {
+            "text": "Minister of Finance",
+            "links": [
+              {
+                "text": "Minister of Finance",
+                "type": "internal",
+                "page": "Ministry of Public Finance (Romania)"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "November 25, 2021"
+          },
+          "predecessor3": {
+            "text": "Dan Vîlceanu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Dan Vîlceanu"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "February 20, 1974"
+          },
+          "party": {
+            "text": "Social Democratic Party",
+            "links": [
+              {
+                "text": "Social Democratic Party",
+                "type": "internal",
+                "page": "Social Democratic Party (Romania)"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In 1997, he graduated in international relations and business from the Academy of Economic Studies in Bucharest."
+            },
+            {
+              "text": "In 2011, he obtained a master's degree in managing rural development projects at the same university."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "date": "23 November 2021",
+          "title": "Cine este Adrian Câciu, propunerea PSD pentru Ministerul Finanțelor: Economist, specialist în agricultură și mason",
+          "url": "https://twnews.co.uk/ro-news/cine-este-adrian-caciu-propunerea-psd-pentru-ministerul-finantelor-economist-specialist-in-agricultura-si-mason",
+          "url-status": "live",
+          "access-date": "2022-01-03",
+          "website": "The World News",
+          "archive-url": "https://web.archive.org/web/20211126113401/https://twnews.co.uk/ro-news/cine-este-adrian-caciu-propunerea-psd-pentru-ministerul-finantelor-economist-specialist-in-agricultura-si-mason",
+          "archive-date": "November 26, 2021",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Politics",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "He was director of the office of the Secretary of State and a member of the management committee of Agentia Domeniilor Statului, an agricultural real estate agency."
+            },
+            {
+              "text": "In November 2021, on the recommendation of the Social Democratic Party, he became the minister of finance in the then-formed government headed by Nicolae Ciucă.",
+              "links": [
+                {
+                  "text": "Social Democratic Party",
+                  "type": "internal",
+                  "page": "Social Democratic Party (Romania)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Nicolae Ciucă"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "Professionally associated with the Ministry of Agriculture and its subordinate institutions."
+          ],
+          "date": "January 2022",
+          "template": "clarify span"
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.presidency.ro/ro/media/comunicate-de-presa/decret-semnat-de-presedintele-romaniei-klaus-iohannis-pentru-numirea-guvernului-romaniei",
+          "title": "Decret semnat de Președintele României, Klaus Iohannis, pentru numirea Guvernului României",
+          "publisher": "Presidency.ro",
+          "accessdate": "2021-12-08",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "author": "Mihai Roman",
+          "url": "https://economedia.ro/cine-e-adrian-caciu-masonul-specialist-in-agronomie-propus-de-psd-la-ministerul-finantelor-fost-functionar-la-ministerul-agriculturii-fara-functii-politice-sau-de-conducere.html#.YaC4pbrdjDc",
+          "title": "Cine e Adrian CĂ˘ciu, masonul specialist ĂŽn agronomie propus de PSD la Ministerul FinanČ›elor: Fost funcČ›ionar la Ministerul Agriculturii, fÄƒrÄƒ funcČ›ii politice sau de conducere",
+          "publisher": "Economedia.ro",
+          "accessdate": "2021-12-08",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "ciucă cabinet"
+        }
+      ]
+    }
+  ]
+}
