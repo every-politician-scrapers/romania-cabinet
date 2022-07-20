@@ -663,15 +663,15 @@
         {
           "sentences": [
             {
-              "text": "He graduated from the Phi Beta Kappa Society⁠ Stanford University in the United States, with a major in Politics and sub-specializations in Economy and Sociology.",
+              "text": "He graduated from the Stanford University in the United States,as member of the Phi Beta Kappa Society⁠ with a major in Politics and sub-specializations in Economy and Sociology.",
               "links": [
                 {
                   "type": "internal",
-                  "page": "Phi Beta Kappa"
+                  "page": "Stanford University"
                 },
                 {
                   "type": "internal",
-                  "page": "Stanford University"
+                  "page": "Phi Beta Kappa"
                 },
                 {
                   "type": "internal",
