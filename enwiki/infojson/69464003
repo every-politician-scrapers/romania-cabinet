@@ -1,0 +1,48 @@
+[
+  {
+    "office": {
+      "links": [
+        "Chamber of Deputies (Romania)"
+      ],
+      "stated_as": "Member of the\nRomanian Chamber of Deputies"
+    },
+    "P580": "2016-12-20"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Labor and Social Protection (Romania)"
+      ],
+      "stated_as": "Minister of Labor and Social Protection"
+    },
+    "P580": "2018-11-20",
+    "P1365": {
+      "links": [
+        "Lia Olguța Vasilescu"
+      ],
+      "stated_as": "Lia Olguța Vasilescu"
+    },
+    "P582": "2019-11-04",
+    "P1366": {
+      "links": [
+        "Violeta Alexandru"
+      ],
+      "stated_as": "Violeta Alexandru"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Labor and Social Protection (Romania)"
+      ],
+      "stated_as": "Minister of Labor and Social Protection"
+    },
+    "P580": "2021-11-25",
+    "P1365": {
+      "links": [
+        "Raluca Turcan"
+      ],
+      "stated_as": "Raluca Turcan"
+    }
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "office": {
+      "links": [
+        "Senate of Romania",
+        "Buzău County"
+      ],
+      "stated_as": "Member of the\nRomanian Senate\nfrom Buzău"
+    },
+    "P580": "2016-12-20"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Culture (Romania)"
+      ],
+      "stated_as": "Minister of Culture"
+    },
+    "P580": "2017-06-29",
+    "P1365": {
+      "links": [
+        "Bogdan Gheorghiu"
+      ],
+      "stated_as": "Bogdan Gheorghiu"
+    },
+    "P582": "2018-01-29",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "George Ivașcu"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Social Democratic Party (Romania)"
+      ],
+      "stated_as": "Spokesman of the Social Democratic Party (PSD)"
+    },
+    "P580": "2021-11-11",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Ștefan-Radu Oprea"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Culture (Romania)"
+      ],
+      "stated_as": "Minister of Culture"
+    },
+    "P580": "2021-11-25",
+    "P1365": {
+      "links": [
+        "Bogdan Gheorghiu"
+      ],
+      "stated_as": "Bogdan Gheorghiu"
+    }
+  }
+]

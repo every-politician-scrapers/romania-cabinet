@@ -1,33 +1,33 @@
-pageid,title
-480668,Mugur Isărescu
-1724462,Klaus Iohannis
-7370704,George Maior
-8718798,Vasile Dîncu
-8718805,Eduard Hellvig
-8723966,Dan Mihalache
-16034110,Cătălin Predoiu
-20250413,Emil Hurezeanu
-24588706,Hunor Kelemen
-25086245,Alina Gorghiu
-27957903,Attila Cseke
-35543359,Nicușor Dan
-36891985,Carol-Eduard Novak
-39089579,Ion Jinga
-44023679,Gabriela Firea
-44438781,Carmen Iohannis
-44500178,Bogdan Aurescu
-48467981,Sorin Cîmpeanu
-52728253,Sorin Grindeanu
-62446047,Marcel Ciolacu
-65258264,Nicolae Ciucă
-66270846,Virgil-Daniel Popescu
-66270995,Barna Tánczos
-66271511,Lucian Bode
-69379511,Alexandru Rafila
-69463836,Lucian Romașcanu
-69463891,Adrian Câciu
-69463918,Florin Spătaru
-69464003,Marius-Constantin Budăi
-69511251,Constantin-Daniel Cadariu
-71016631,Gabriela Dancău
-71271897,Sebastian Burduja
+pageid,title,wikidata,label
+480668,Mugur Isărescu,Q255022,Mugur Isărescu
+1724462,Klaus Iohannis,Q701484,Klaus Iohannis
+7370704,George Maior,Q5542064,George Maior
+8718798,Vasile Dîncu,Q347209,Vasile Dîncu
+8718805,Eduard Hellvig,Q349024,Eduard Raul Hellvig
+8723966,Dan Mihalache,Q347466,Dan Mihalache
+16034110,Cătălin Predoiu,Q1151156,Cătălin Predoiu
+20250413,Emil Hurezeanu,Q1336281,Emil Hurezeanu
+24588706,Hunor Kelemen,Q923357,Hunor Kelemen
+25086245,Alina Gorghiu,Q4726709,Alina Gorghiu
+27957903,Attila Cseke,Q747255,Attila Cseke
+35543359,Nicușor Dan,Q11163124,Nicușor Dan
+36891985,Carol-Eduard Novak,Q940884,Carol-Eduard Novak
+39089579,Ion Jinga,Q12730882,Ion Jinga
+44023679,Gabriela Firea,Q16593781,Gabriela Firea
+44438781,Carmen Iohannis,Q18561320,Carmen Iohannis
+44500178,Bogdan Aurescu,Q18537583,Bogdan Aurescu
+48467981,Sorin Cîmpeanu,Q21095867,Sorin Cîmpeanu
+52728253,Sorin Grindeanu,Q19003460,Sorin Grindeanu
+62446047,Marcel Ciolacu,Q21179176,Marcel Ciolacu
+65258264,Nicolae Ciucă,Q28950289,Nicolae Ciucă
+66270846,Virgil-Daniel Popescu,Q28113715,Virgil-Daniel Popescu
+66270995,Barna Tánczos,Q20437970,Barna Tánczos
+66271511,Lucian Bode,Q3265173,Lucian Bode
+69379511,Alexandru Rafila,Q88007402,Alexandru Rafila
+69463836,Lucian Romașcanu,Q28039745,Lucian Romașcanu
+69463891,Adrian Câciu,Q109746326,Adrian Câciu
+69463918,Florin Spătaru,Q109700122,Florin Spătaru
+69464003,Marius-Constantin Budăi,Q28038940,Marius-Constantin Budăi
+69511251,Constantin-Daniel Cadariu,Q28113961,Constantin-Daniel Cadariu
+71016631,Gabriela Dancău,Q72691233,Gabriela Dancau
+71271897,Sebastian Burduja,Q24525133,Sebastian-Ioan Burduja
