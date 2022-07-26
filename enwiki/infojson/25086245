@@ -1,0 +1,58 @@
+[
+  {
+    "office": {
+      "links": [
+        "Chamber of Deputies (Romania)"
+      ],
+      "stated_as": "Member of the Chamber of Deputies"
+    },
+    "P580": "2008-12-15",
+    "P582": "2016-12-19"
+  },
+  {
+    "office": {
+      "links": [
+        "National Liberal Party (Romania)"
+      ],
+      "stated_as": "President of the National Liberal Party"
+    },
+    "P580": "2014-12-18",
+    "P1365": {
+      "links": [
+        "Klaus Iohannis"
+      ],
+      "stated_as": "Klaus Iohannis"
+    },
+    "P582": "2016-12-12",
+    "P1366": {
+      "links": [
+        "Raluca Turcan"
+      ],
+      "stated_as": "Raluca Turcan (acting)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Senate of Romania"
+      ],
+      "stated_as": "Member of the Senate of Romania"
+    },
+    "P580": "2016-12-21"
+  },
+  {
+    "office": {
+      "links": [
+        "Senate of Romania"
+      ],
+      "stated_as": "President of the Senate of Romania"
+    },
+    "P580": "2022-06-29",
+    "P1365": {
+      "links": [
+        "Florin Cîțu"
+      ],
+      "stated_as": "Florin Cîțu"
+    }
+  }
+]

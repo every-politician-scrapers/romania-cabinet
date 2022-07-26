@@ -1,0 +1,61 @@
+[
+  {
+    "office": {
+      "links": [
+        "Member of the European Parliament",
+        "Romania (European Parliament constituency)"
+      ],
+      "stated_as": "Member of the European Parliament\nfor Romania"
+    },
+    "P580": "2007-01-01",
+    "P582": "2007-11-25"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Regional Development and Public Administration (Romania)"
+      ],
+      "stated_as": "Minister of Regional Development and Tourism"
+    },
+    "P580": "2012-05-07",
+    "P1365": {
+      "links": [
+        "Cristian Predescu"
+      ],
+      "stated_as": "Cristian Predescu"
+    },
+    "P582": "2012-12-19",
+    "P1366": {
+      "links": [
+        "Liviu Dragnea"
+      ],
+      "stated_as": "Liviu Dragnea"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Member of the European Parliament",
+        "Romania (European Parliament constituency)"
+      ],
+      "stated_as": "Member of the European Parliament\nfor Romania"
+    },
+    "P580": "2013-09-04",
+    "P582": "2015-03-01"
+  },
+  {
+    "office": {
+      "links": [
+        "Romanian Intelligence Service"
+      ],
+      "stated_as": "Director of the Romanian Intelligence Service"
+    },
+    "P580": "2015-03-02",
+    "P1365": {
+      "links": [
+        "Florian Coldea"
+      ],
+      "stated_as": "Florian Coldea (interim)"
+    }
+  }
+]

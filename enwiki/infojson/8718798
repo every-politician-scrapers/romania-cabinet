@@ -1,0 +1,91 @@
+[
+  {
+    "office": {
+      "links": [
+        "Senate of Romania"
+      ],
+      "stated_as": "Senator"
+    },
+    "P580": "2004-02-14",
+    "P582": "2008-12-20"
+  },
+  {
+    "office": {
+      "links": [
+        "Member of the European Parliament",
+        "Romania (European Parliament constituency)"
+      ],
+      "stated_as": "Member of the European Parliament for Romania"
+    },
+    "P580": "2007-01-01",
+    "P582": "2007-05-13"
+  },
+  {
+    "office": {
+      "links": [
+        "Deputy Prime Minister of Romania"
+      ],
+      "stated_as": "Deputy Prime Minister of Romania"
+    },
+    "P580": "2015-11-17",
+    "P1365": {
+      "links": [
+        "Gabriel Oprea"
+      ],
+      "stated_as": "Gabriel Oprea"
+    },
+    "P582": "2017-01-04",
+    "P1366": {
+      "links": [
+        "Sevil Shhaideh"
+      ],
+      "stated_as": "Sevil Shhaideh"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Regional Development and Public Administration"
+    },
+    "P580": "2015-11-17",
+    "P1365": {
+      "links": [
+        "Sevil Shhaideh"
+      ],
+      "stated_as": "Sevil Shhaideh"
+    },
+    "P582": "2017-01-04",
+    "P1366": {
+      "links": [
+        "Sevil Shhaideh"
+      ],
+      "stated_as": "Sevil Shhaideh"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Senate of Romania"
+      ],
+      "stated_as": "Senator"
+    },
+    "P580": "2020-12-21"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of National Defence (Romania)"
+      ],
+      "stated_as": "Minister of National Defence"
+    },
+    "P580": "2021-11-25",
+    "P1365": {
+      "links": [
+        "Nicolae Ciucă"
+      ],
+      "stated_as": "Nicolae Ciucă"
+    }
+  }
+]

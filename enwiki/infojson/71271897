@@ -1,0 +1,27 @@
+[
+  {
+    "office": {
+      "links": [
+        "Chamber of Deputies (Romania)",
+        "Bucharest"
+      ],
+      "stated_as": "Member of the\nRomanian Chamber of Deputies\nfrom Bucharest"
+    },
+    "P580": "2020-12-21"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Research, Innovation and Digitalization"
+    },
+    "P580": "2022-05-03",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Ioan-Marcel Boloș"
+    }
+  }
+]

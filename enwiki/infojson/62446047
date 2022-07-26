@@ -1,0 +1,85 @@
+[
+  {
+    "office": {
+      "links": [
+        "Chamber of Deputies (Romania)"
+      ],
+      "stated_as": "Member of the Chamber of Deputies"
+    },
+    "P580": "2012-12-19"
+  },
+  {
+    "office": {
+      "links": [
+        "Deputy Prime Minister of Romania"
+      ],
+      "stated_as": "Deputy Prime Minister of Romania"
+    },
+    "P580": "2017-06-29",
+    "P1365": {
+      "links": [
+        "Augustin Jianu"
+      ],
+      "stated_as": "Augustin Jianu"
+    },
+    "P582": "2018-01-29",
+    "P1366": {
+      "links": [
+        "Viorel Ștefan"
+      ],
+      "stated_as": "Viorel Ștefan"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "President of the Chamber of Deputies of Romania"
+      ],
+      "stated_as": "President of the Chamber of Deputies"
+    },
+    "P580": "2019-05-27",
+    "P1365": {
+      "links": [
+        "Liviu Dragnea"
+      ],
+      "stated_as": "Liviu Dragnea"
+    },
+    "P582": "2020-12-19",
+    "P1366": {
+      "links": [
+        "Ludovic Orban"
+      ],
+      "stated_as": "Ludovic Orban"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Social Democratic Party (Romania)"
+      ],
+      "stated_as": "Leader of the Social Democratic Party"
+    },
+    "P580": "2019-11-26",
+    "P1365": {
+      "links": [
+        "Viorica Dăncilă"
+      ],
+      "stated_as": "Viorica Dăncilă"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "President of the Chamber of Deputies of Romania"
+      ],
+      "stated_as": "President of the Chamber of Deputies"
+    },
+    "P580": "2021-11-23",
+    "P1365": {
+      "links": [
+        "Sorin Grindeanu"
+      ],
+      "stated_as": "Sorin Grindeanu (Acting)"
+    }
+  }
+]
