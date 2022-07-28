@@ -752,13 +752,29 @@
           "template": "s-bef"
         },
         {
-          "title": "President of the National Liberal Party\nalongside Vasile Blaga",
-          "years": "(2014–2016)",
+          "title": "Co-President of the National Liberal Party",
+          "alongside": "Vasile Blaga",
+          "years": "2014–2016",
           "template": "s-ttl"
         },
         {
           "after": "Raluca Turcan\nActing",
           "template": "s-aft"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Florin Cîțu",
+          "template": "s-bef"
+        },
+        {
+          "title": "President of the Romanian Senate\nActing",
+          "years": "2022–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
         },
         {
           "template": "pnlheads"

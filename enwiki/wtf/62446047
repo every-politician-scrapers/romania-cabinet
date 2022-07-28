@@ -22,7 +22,7 @@
         {
           "sentences": [
             {
-              "text": "Ion-Marcel Ciolacu (born 28 November 1967) is a Romanian politician and the leader of the Social Democratic Party (PSD).",
+              "text": "Ion-Marcel Ciolacu (born 28 November 1967) is a Romanian politician who currently serves as the leader of the Social Democratic Party (PSD).",
               "links": [
                 {
                   "text": "Social Democratic Party",
@@ -450,12 +450,8 @@
       ]
     },
     {
-      "title": "Biography",
-      "depth": 0
-    },
-    {
       "title": "Early life and education",
-      "depth": 1,
+      "depth": 0,
       "paragraphs": [
         {
           "sentences": [
@@ -483,6 +479,10 @@
     },
     {
       "title": "Political career",
+      "depth": 0
+    },
+    {
+      "title": "Rise in politics",
       "depth": 1,
       "paragraphs": [
         {
@@ -530,21 +530,53 @@
               "text": "Ciolacu entered national politics in 2012 when he was first elected for a deputy seat in Parliament."
             },
             {
-              "text": "In 2015 he was elected PSD president for Buzau county, replacing his mentor Boscodeala who stepped down while being investigated for corruption."
+              "text": "In 2015 he was elected PSD president for Buzău County, replacing his mentor Boscodeala who stepped down while being investigated for corruption."
             },
             {
               "text": "Ciolacu's election was controversial."
             },
             {
               "text": "He ran against his former mentor, Senator Vasile Ion, who eventually withdrew from the race, accusing Ciolacu of rigging the internal elections."
-            }
-          ]
-        },
-        {
-          "sentences": [
+            },
             {
               "text": "Ciolacu was re-elected to Parliament in 2016."
-            },
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.hotnews.ro/ancheta-15757026-dosarul-gloria-buzau-constantin-boscodeala-primarul-buzaului.htm",
+          "title": "Dosar finalizat in 2899 zile de la inceperea urmaririi penale Dosarul \"Gloria Buzau\" - Constantin Boscodeala, primarul Buzaului",
+          "website": "hotnews.ro",
+          "date": "8 October 2013",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://justitiecurata.ro/tovarasii-de-vanatoare-ai-lui-omar-hayssam-deschid-listele-parlamentare-la-buzau/",
+          "title": "Tovarășii de vânătoare ai lui Omar Hayssam deschid listele parlamentare la Buzău",
+          "website": "justitiecurata.ro/",
+          "date": "2016",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://romania.europalibera.org/a/marcel-ciolacu-supravietuitorul-mentorilor-sai-de-la-ion-vasile-si-victor-ponta-la-liviu-dragnea/30293212.html",
+          "title": "Marcel Ciolacu, supraviețuitorul tuturor patronilor săi politici, de la Ion Vasile și Victor Ponta, la Liviu Dragnea",
+          "website": "romania.europalibera.org",
+          "date": "26 November 2019",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "As Deputy Prime Minister",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
             {
               "text": "In 2017, almost completely unknown on the national political stage, Ciolacu was named deputy prime minister in the cabinet led by Mihai Tudose."
             },
@@ -652,7 +684,7 @@
               ]
             },
             {
-              "text": "As it became quite apparent that this was another power struggle between the prime minister and the leader of the SDP, Ciolacu publicly positioned himself in the Tudose camp."
+              "text": "As it became quite apparent that this was another power struggle between the prime minister and the leader of the PSD, Ciolacu publicly positioned himself in the Tudose camp."
             },
             {
               "text": "Dragnea once again convened a special party meeting in order to force Tudose's resignation."
@@ -664,7 +696,36 @@
               "text": "Ciolacu handed in his own resignation from the government shortly thereafter."
             }
           ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.digi24.ro/stiri/actualitate/politica/criza-guvern-psd/live-blog-zi-decisiva-pentru-guvernul-grindeanu-motiunea-de-cenzura-la-votul-parlamentului-746670",
+          "title": "LIVE BLOG. Moțiunea de cenzură a trecut. Partidele şi preşedintele îşi ocupă poziţiile",
+          "website": "www.digi24.ro",
+          "template": "citation",
+          "type": "web"
         },
+        {
+          "url": "https://www.digi24.ro/stiri/actualitate/politica/mihai-tudose-nu-mai-am-cum-sa-lucrez-cu-carmen-dan-857928",
+          "title": "Premierul: Un ministru de interne care îşi permite să mă mintă în halul ăsta, nu mai am ce lucra cu domnia sa",
+          "website": "www.digi24.ro",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.digi24.ro/stiri/actualitate/politica/zi-decisiva-in-psd-va-fi-transat-conflictul-dintre-liviu-dragnea-si-mihai-tudose-860186",
+          "title": "Mihai Tudose a rămas fără sprijinul PSD şi a demisionat",
+          "website": "www.digi24.ro",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "First election to the Chamber presidency",
+      "depth": 1,
+      "paragraphs": [
         {
           "sentences": [
             {
@@ -728,51 +789,6 @@
       ],
       "references": [
         {
-          "url": "https://www.hotnews.ro/ancheta-15757026-dosarul-gloria-buzau-constantin-boscodeala-primarul-buzaului.htm",
-          "title": "Dosar finalizat in 2899 zile de la inceperea urmaririi penale Dosarul \"Gloria Buzau\" - Constantin Boscodeala, primarul Buzaului",
-          "website": "hotnews.ro",
-          "date": "8 October 2013",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://justitiecurata.ro/tovarasii-de-vanatoare-ai-lui-omar-hayssam-deschid-listele-parlamentare-la-buzau/",
-          "title": "Tovarășii de vânătoare ai lui Omar Hayssam deschid listele parlamentare la Buzău",
-          "website": "justitiecurata.ro/",
-          "date": "2016",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://romania.europalibera.org/a/marcel-ciolacu-supravietuitorul-mentorilor-sai-de-la-ion-vasile-si-victor-ponta-la-liviu-dragnea/30293212.html",
-          "title": "Marcel Ciolacu, supraviețuitorul tuturor patronilor săi politici, de la Ion Vasile și Victor Ponta, la Liviu Dragnea",
-          "website": "romania.europalibera.org",
-          "date": "26 November 2019",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.digi24.ro/stiri/actualitate/politica/criza-guvern-psd/live-blog-zi-decisiva-pentru-guvernul-grindeanu-motiunea-de-cenzura-la-votul-parlamentului-746670",
-          "title": "LIVE BLOG. Moțiunea de cenzură a trecut. Partidele şi preşedintele îşi ocupă poziţiile",
-          "website": "www.digi24.ro",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.digi24.ro/stiri/actualitate/politica/mihai-tudose-nu-mai-am-cum-sa-lucrez-cu-carmen-dan-857928",
-          "title": "Premierul: Un ministru de interne care îşi permite să mă mintă în halul ăsta, nu mai am ce lucra cu domnia sa",
-          "website": "www.digi24.ro",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.digi24.ro/stiri/actualitate/politica/zi-decisiva-in-psd-va-fi-transat-conflictul-dintre-liviu-dragnea-si-mihai-tudose-860186",
-          "title": "Mihai Tudose a rămas fără sprijinul PSD şi a demisionat",
-          "website": "www.digi24.ro",
-          "template": "citation",
-          "type": "web"
-        },
-        {
           "url": "https://www.digi24.ro/stiri/actualitate/politica/liderul-psd-buzau-liviu-dragnea-a-ajuns-un-om-orbit-de-putere-orgolii-si-spaime-imaginare-999392",
           "title": "Liderul PSD Buzău: \"Liviu Dragnea a ajuns un om orbit de putere, orgolii și spaime imaginare\"",
           "website": "www.digi24.ro",
@@ -803,132 +819,8 @@
       ]
     },
     {
-      "title": "Controversies",
-      "depth": 1
-    },
-    {
-      "title": "Mecan Construct Investigation",
-      "depth": 2,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "In 2009, the Court of Accounts Buzau found that a construction company in the municipality of Buzau, Urbis Serv, headed by Marcel Ciolacu between 2007 and 2008, caused an approximately €1.3 million overcharge for street and sidewalk construction projects through an illegal contract with a company owned by a party colleague."
-            },
-            {
-              "text": "The company, Mecan Construct, was owned by former PSD County Councilor Dumitru Dobrică."
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Ciolacu was accused of conflict of interest causing damages to the municipality by inflating the Mecan contract by approximately 1.3 million euros.",
-              "links": [
-                {
-                  "text": "conflict of interest",
-                  "type": "internal",
-                  "page": "conflict of interest"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Marcel Ciolacu stated that the ruling of the Buzău Court of Accounts was challenged in court."
-            },
-            {
-              "text": "He stated that a criminal investigation file at the National Anticorruption Directorate Ploiești, in which the allegations regarding the contract with Mecan Construct were investigated, concluded without starting criminal proceedings against him.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "National Anticorruption Directorate"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "references": [
-        {
-          "url": "https://www.gandul.info/stiri/familia-psd-de-la-buzau-amintiri-din-tineretea-unui-consilier-onorific-al-lui-ponta-vanatoare-cu-omar-hayssam-contract-umflat-cu-1-3-milioane-euro-pentru-un-coleg-de-partid-14232481",
-          "title": "Familia PSD de la Buzău. Amintiri din tinerețea unui consilier onorific al lui Ponta: vânătoare cu Omar Hayssam, contract umflat cu 1,3 milioane euro pentru un coleg de partid",
-          "work": "Gândul",
-          "author": "Andrei Luca Popescu",
-          "date": "12 May 2015",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.hotnews.ro/stiri-politic-21844409-cine-este-marcel-ciolacu-propus-vicepremier-fara-portofoliul-vaslasul-lui-dragnea-scandalul-pozelor-teroristul-hayssam.htm",
-          "title": "Cine este Marcel Ciolacu, propus vicepremier fără portofoliu. Vâslașul lui Dragnea și scandalul pozelor cu teroristul Hayssam",
-          "work": "HotNews.ro",
-          "date": "28 June 2017",
-          "template": "citation",
-          "type": "web"
-        }
-      ]
-    },
-    {
-      "title": "Relationship with Omar Hayssam",
-      "depth": 2,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Marcel Ciolacu was involved in a media scandal in May 2015 after a 20-year-old photograph of him with Omar Hayssam appeared in the press.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Omar Hayssam"
-                }
-              ]
-            },
-            {
-              "text": "In approximately 2005, Ciolacu and Hayssam had been attending a hunting party organized by the Buzau Forestry Directorate."
-            },
-            {
-              "text": "In 2006, Omar Hayssam masterminded the kidnapping and holding for ransom of three Romanian journalists in Iraq, for which Hayssam was convicted in 2007 by the Bucharest Court of Appeal to 24 years, four months imprisonment."
-            },
-            {
-              "text": "In addition, there was evidence that Ciolacu appeared on a list of Hayssam's debtors: In the early 2000s, Hayssam appears to have loaned Ciolacu 200 million old lei (20,000 RON)."
-            },
-            {
-              "text": "As a result of the scandal, Prime Minister Victor Ponta removed Ciolacu from the position of honorary adviser to the prime minister.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Victor Ponta"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "references": [
-        {
-          "url": "http://www.ziare.com/marcel-ciolacu/presedinte-camera-deputatilor/cine-e-inlocuitorul-lui-dragnea-la-sefia-camerei-deputatilor-marcel-ciolacu-si-scandalul-hayssam-1563490",
-          "title": "Cine e înlocuitorul lui Dragnea la șefia Camerei Deputaților: Marcel Ciolacu și scandalul Hayssam",
-          "work": "Ziare.com",
-          "date": "29 May 2019",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.hotnews.ro/stiri-politic-23173000-cine-marcel-ciolacu-noul-presedinte-camerei-deputatilor-vanatoarea-hayssam-partidele-pescuit-dragnea-tabara-pucistilor.htm",
-          "title": "Cine e Marcel Ciolacu, noul președinte al Camerei Deputaților: De la vânătoarea cu Hayssam și partidele de pescuit cu Dragnea, în tabăra puciștilor",
-          "work": "HotNews.ro",
-          "date": "29 May 2019",
-          "template": "citation",
-          "type": "web"
-        }
-      ]
-    },
-    {
       "title": "As leader of the Social Democratic Party (PSD)",
-      "depth": 0,
+      "depth": 1,
       "paragraphs": [
         {
           "sentences": [
@@ -1046,6 +938,130 @@
       ]
     },
     {
+      "title": "Controversies",
+      "depth": 0
+    },
+    {
+      "title": "Mecan Construct Investigation",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In 2009, the Court of Accounts Buzau found that a construction company in the municipality of Buzau, Urbis Serv, headed by Marcel Ciolacu between 2007 and 2008, caused an approximately €1.3 million overcharge for street and sidewalk construction projects through an illegal contract with a company owned by a party colleague."
+            },
+            {
+              "text": "The company, Mecan Construct, was owned by former PSD County Councilor Dumitru Dobrică."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Ciolacu was accused of conflict of interest causing damages to the municipality by inflating the Mecan contract by approximately 1.3 million euros.",
+              "links": [
+                {
+                  "text": "conflict of interest",
+                  "type": "internal",
+                  "page": "conflict of interest"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Marcel Ciolacu stated that the ruling of the Buzău Court of Accounts was challenged in court."
+            },
+            {
+              "text": "He stated that a criminal investigation file at the National Anticorruption Directorate Ploiești, in which the allegations regarding the contract with Mecan Construct were investigated, concluded without starting criminal proceedings against him.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "National Anticorruption Directorate"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.gandul.info/stiri/familia-psd-de-la-buzau-amintiri-din-tineretea-unui-consilier-onorific-al-lui-ponta-vanatoare-cu-omar-hayssam-contract-umflat-cu-1-3-milioane-euro-pentru-un-coleg-de-partid-14232481",
+          "title": "Familia PSD de la Buzău. Amintiri din tinerețea unui consilier onorific al lui Ponta: vânătoare cu Omar Hayssam, contract umflat cu 1,3 milioane euro pentru un coleg de partid",
+          "work": "Gândul",
+          "author": "Andrei Luca Popescu",
+          "date": "12 May 2015",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.hotnews.ro/stiri-politic-21844409-cine-este-marcel-ciolacu-propus-vicepremier-fara-portofoliul-vaslasul-lui-dragnea-scandalul-pozelor-teroristul-hayssam.htm",
+          "title": "Cine este Marcel Ciolacu, propus vicepremier fără portofoliu. Vâslașul lui Dragnea și scandalul pozelor cu teroristul Hayssam",
+          "work": "HotNews.ro",
+          "date": "28 June 2017",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Relationship with Omar Hayssam",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Marcel Ciolacu was involved in a media scandal in May 2015 after a 20-year-old photograph of him with Omar Hayssam appeared in the press.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Omar Hayssam"
+                }
+              ]
+            },
+            {
+              "text": "In approximately 2005, Ciolacu and Hayssam had been attending a hunting party organized by the Buzau Forestry Directorate."
+            },
+            {
+              "text": "In 2006, Omar Hayssam masterminded the kidnapping and holding for ransom of three Romanian journalists in Iraq, for which Hayssam was convicted in 2007 by the Bucharest Court of Appeal to 24 years, four months imprisonment."
+            },
+            {
+              "text": "In addition, there was evidence that Ciolacu appeared on a list of Hayssam's debtors: In the early 2000s, Hayssam appears to have loaned Ciolacu 200 million old lei (20,000 RON)."
+            },
+            {
+              "text": "As a result of the scandal, Prime Minister Victor Ponta removed Ciolacu from the position of honorary adviser to the prime minister.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Victor Ponta"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.ziare.com/marcel-ciolacu/presedinte-camera-deputatilor/cine-e-inlocuitorul-lui-dragnea-la-sefia-camerei-deputatilor-marcel-ciolacu-si-scandalul-hayssam-1563490",
+          "title": "Cine e înlocuitorul lui Dragnea la șefia Camerei Deputaților: Marcel Ciolacu și scandalul Hayssam",
+          "work": "Ziare.com",
+          "date": "29 May 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.hotnews.ro/stiri-politic-23173000-cine-marcel-ciolacu-noul-presedinte-camerei-deputatilor-vanatoarea-hayssam-partidele-pescuit-dragnea-tabara-pucistilor.htm",
+          "title": "Cine e Marcel Ciolacu, noul președinte al Camerei Deputaților: De la vânătoarea cu Hayssam și partidele de pescuit cu Dragnea, în tabăra puciștilor",
+          "work": "HotNews.ro",
+          "date": "29 May 2019",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
       "title": "Notes",
       "depth": 0,
       "paragraphs": [
@@ -1092,8 +1108,7 @@
           "template": "s-ttl"
         },
         {
-          "after": "Ludovic Orban",
-          "template": "s-aft"
+          "template": "s-inc"
         },
         {
           "template": "s-ppo"
