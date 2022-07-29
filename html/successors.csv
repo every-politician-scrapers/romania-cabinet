@@ -1,0 +1,62 @@
+wanted,position,positionid,from,start,end
+Q28084569,Minister of European Funds,Q21504218,Q28035183,2021-09-08,2021-11-25
+Q109700122,"Minister of Economy, Entrepreneurship and Tourism",Q21504183,Q28113715,2021-09-06,2021-11-25
+Q109700122,"Minister of Economy, Entrepreneurship and Tourism",Q21504183,Q28035503,2020-12-23,2021-09-06
+Q28084569,Minister of European Funds,Q21504218,Q12725938,2020-12-23,2021-09-06
+Q28113961,"Minister of Economy, Entrepreneurship and Tourism",Q21504183,Q28035503,2020-12-23,2021-09-06
+Q21179130,minister of Waterways and forestry,Q47041742,Q21746985,2018-01-29,2019-11-04
+Q28113999,Minister of Communications and Information Society,Q20884417,Q47519680,2018-01-29,2018-11-20
+Q30349022,"Minister of Economy, Entrepreneurship and Tourism",Q21504183,Q12735517,2017-02-23,2017-06-29
+Q28470540,Minister-delegate for relations with Romanians everywhere,Q21503774,Q25931381,2016-07-07,2017-01-04
+Q28035046,Minister-delegate for social dialog,Q21504092,Q21513379,2015-11-17,2017-01-04
+Q554734,Minister of Transport and Infrastructure,Q21513080,Q3064927,2013-08-23,2014-02-26
+Q554734,Minister-delegate for the relation with Parliament,Q21504202,Q16879979,2012-05-07,2012-08-08
+Q1588788,"Minister of Economy, Entrepreneurship and Tourism",Q21504183,Q3265173,2012-02-09,2012-05-07
+Q347505,Minister of Transport and Infrastructure,Q21513080,Q2834282,2012-02,2012-05
+Q291174,Minister of Foreign Affairs,Q21503673,Q240730,2012-01-24,2012-05-07
+Q12858274,Deputy Prime Minister,Q81292982,Q897108,2009-12-23,2012-04-27
+Q1151156,Minister of Foreign Affairs,Q21503673,Q240730,2008-12-22,2009-10-01
+Q1290408,Minister of Relations with the Parliament,Q17278764,Q57692,2008-12-22,2009-10-01
+Q15967059,Minister of Tourism and Regional Development,Q29053673,Q463774,2008-12-22,2012-02-09
+Q460969,Minister of Transport and Infrastructure,Q21513080,Q7281707,2008-12-22,2010-09-03
+Q6761989,Minister of Labour and Social Protection,Q21504145,Q12734974,2008-09-25,2008-12-22
+Q7281730,member of the Chamber of Deputies of Romania,Q17556530,Q579547,2008,2009-10-19
+Q12727491,member of the Chamber of Deputies of Romania,Q17556530,Q12735041,2007-12-19,2008-06-23
+Q5556390,"Minister of Economy, Entrepreneurship and Tourism",Q21504183,Q532674,2007-04-05,2008-12-22
+Q532674,Minister of Finance,Q21504216,Q12740581,2005-08-22,2007-04-05
+Q7851272,Minister of Justice,Q21159939,Q2526083,2004-12-29,2007-04-05
+Q12725790,member of the Chamber of Deputies of Romania,Q17556530,Q12720056,2004-12-20,2004-12-22
+Q12720265,member of the Chamber of Deputies of Romania,Q17556530,Q12735518,2004-12-17,2007-05-29
+Q12725756,member of the Chamber of Deputies of Romania,Q17556530,Q443154,2004-12-17,2007-11-30
+Q12731189,member of the Chamber of Deputies of Romania,Q17556530,Q12728406,2004-12-17,2008-06-24
+Q12741431,member of the Chamber of Deputies of Romania,Q17556530,Q274739,2004-12-17,2007-11-30
+Q5186207,member of the Chamber of Deputies of Romania,Q17556530,Q719016,2004-12-17,2007-03-12
+Q12735873,member of the Chamber of Deputies of Romania,Q17556530,Q18547284,2004-12,2005-06-28
+Q18542015,member of the Senate of Romania,Q19938957,Q12725917,2004-12,2008-06-30
+Q579547,Minister-delegate for the relation with Parliament,Q21504202,Q12744251,2004-06-08,2004-12-28
+Q12730969,member of the Senate of Romania,Q19938957,Q18548175,2004-02-17,2005-02-01
+Q12720255,member of the Chamber of Deputies of Romania,Q17556530,Q12720001,2004,2008-07-08
+Q12725950,member of the Senate of Romania,Q19938957,Q12737910,2004,2008-06-25
+Q12730296,member of the Senate of Romania,Q19938957,Q18539378,2004,2008-06-23
+Q12730575,member of the Chamber of Deputies of Romania,Q17556530,Q18540433,2004,2007-11-06
+Q18539084,member of the Chamber of Deputies of Romania,Q17556530,Q12735995,2004,2008-06-20
+Q18541830,member of the Chamber of Deputies of Romania,Q17556530,Q18541646,2004,2008-06-23
+Q152362,Minister of Foreign Affairs,Q21503673,Q435200,2000-12-28,2004-12-28
+Q18547735,Minister of Internal Affairs,Q21504201,Q1671900,2000-12-28,2004-03-11
+Q1957518,Prime Minister,Q15304810,Q271966,2000-12-28,2004-12-21
+Q12738969,member of the Chamber of Deputies of Romania,Q17556530,Q12721212,2000-12-11,2002-03-11
+Q12742071,member of the Senate of Romania,Q19938957,Q18541634,2000-12,2003-03-24
+Q12725438,member of the Senate of Romania,Q19938957,Q12737148,2000,2001-08-27
+Q12726889,member of the Chamber of Deputies of Romania,Q17556530,Q12725822,2000,2001-02-05
+Q12727503,member of the Senate of Romania,Q19938957,Q12729218,2000,2000-12-21
+Q12730606,member of the Senate of Romania,Q19938957,Q18537738,2000,2004-06-22
+Q12730800,member of the Chamber of Deputies of Romania,Q17556530,Q12734987,2000,2001-02-05
+Q18538461,member of the Senate of Romania,Q19938957,Q1611034,2000,2004-06-24
+Q18544180,member of the Chamber of Deputies of Romania,Q17556530,Q12743208,2000,2004-06-30
+Q18547901,member of the Chamber of Deputies of Romania,Q17556530,Q12727135,2000,2004-06-30
+Q12725504,Minister of National Defence,Q21504197,Q13580827,1998-04-17,2000-03-13
+Q460969,Minister of Transport and Infrastructure,Q21513080,Q57279,1998-04-17,2000-06-26
+Q7281731,Director of the Intelligence Service,Q66616178,Q12725834,1997-05-26,2000-12
+Q12727623,member of the Senate of Romania,Q19938957,Q12730909,1996-11,2000-06
+Q1291842,President of the Senate,Q7241368,Q316823,1996-11,2000-02
+Q12739394,ambassador to the United Kingdom,Q64682711,Q107390602,1940,
