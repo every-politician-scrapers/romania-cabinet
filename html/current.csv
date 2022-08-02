@@ -1,32 +1,32 @@
-position,person,personID,start,gender,DOB,DOD,image,enwiki
-President,Klaus Iohannis,Q701484,2019-12-21,male,1959-06-13,,President Trump Meets with the President of Romania (48587349852) (cropped).jpg,Klaus Iohannis
-Prime Minister,Nicolae Ciucă,Q28950289,2021-11-25,male,1967-02-07,,Nicolae Ciuca (cropped).jpg,Nicolae Ciucă
-Deputy Prime Minister,Hunor Kelemen,Q923357,2020-12-23,male,1967-10-18,,KelemenHunorFotoThalerTamas.jpg,Hunor Kelemen
-Deputy Prime Minister,Sorin Grindeanu,Q19003460,2021-11-25,male,1973-12-05,,Sorin Grindeanu in Geneva - 2018 (25019917997) (cropped).jpg,Sorin Grindeanu
-Minister of Agriculture,Petre Daea,Q12737826,2022-07-08,male,1949-11-02,,,
-Minister of Culture,Lucian Romașcanu,Q28039745,2021-11-25,male,1967-05-19,,"Lucian Romaşcanu, mask.jpg",Lucian Romașcanu
-"Minister for Development, Public Works and Administration",Attila Cseke,Q747255,2020-12-23,male,1973-06-09,,Cseke Attila.JPG,Attila Cseke
-Minister of Economy,Florin Spătaru,Q109700122,2021-11-25,male,1969-12-22,,,Florin Spătaru
-Minister of Education,Sorin Cîmpeanu,Q21095867,2020-12-23,male,1968-04-18,,SorinCîmpeanu2015 (cropped).jpg,Sorin Cîmpeanu
-Minister of Energy,Virgil-Daniel Popescu,Q28113715,2020-12-23,male,1968-04-25,,,Virgil-Daniel Popescu
-Minister of Entrepreneurship and Tourism,Constantin-Daniel Cadariu,Q28113961,2021-11-25,male,1967-12-16,,Constantin-Daniel Cadariu.jpg,Constantin-Daniel Cadariu
-"Minister of Environment, Water and Forests",Barna Tánczos,Q20437970,2020-12-23,male,1976-05-25,,,Barna Tánczos
-"Minister of Family, Youth and Equal Opportunities",Gabriela Firea,Q16593781,2021-11-25,female,1972-07-13,,Gabriela Firea la sediul PSD - 14 (3) (15194578761).jpg,Gabriela Firea
-Minister of Finance,Adrian Câciu,Q109746326,2021-11-25,male,1974-02-20,,,Adrian Câciu
-Minister of Foreign Affairs,Bogdan Aurescu,Q18537583,2019-11-04,male,1973-09-09,,Bogdan Aurescu (02816408) (49515963301).jpg,Bogdan Aurescu
-Minister of Health,Alexandru Rafila,Q88007402,2021-11-25,male,1961-12-27,,,Alexandru Rafila
-Minister of Internal Affairs,Lucian Bode,Q3265173,2020-12-23,male,1974-10-27,,,Lucian Bode
-Minister of Investments and European Projects,Ioan-Marcel Boloș,Q73515577,2022-05-03,male,1968-04-01,,,
-Minister of Justice,Cătălin Predoiu,Q1151156,2021-11-25,male,1968-08-27,,Cătălin Predoiu 2008.jpg,Cătălin Predoiu
-Minister of Labour and Social Protection,Marius-Constantin Budăi,Q28038940,2021-11-25,male,1972-05-01,,Marius Constantin Budai 2020.jpg,Marius-Constantin Budăi
-Minister of National Defence,Vasile Dîncu,Q347209,2021-11-25,male,1961-11-25,,Vasile Dîncu portrait.jpg,Vasile Dîncu
-"Minister of Research, Innovation and Digitalization",Sebastian-Ioan Burduja,Q24525133,2022-05-03,male,1985-06-18,,Sebastian Tianu Burduja.jpg,Sebastian Burduja
-Minister of Transport and Infrastructure,Sorin Grindeanu,Q19003460,2021-11-25,male,1973-12-05,,Sorin Grindeanu in Geneva - 2018 (25019917997) (cropped).jpg,Sorin Grindeanu
-Minister of Youth and Sport,Carol-Eduard Novak,Q940884,2020-12-23,male,1976-07-28,,Novak Mendrisio 1.jpg,Carol-Eduard Novak
-Prosecutor General,Gabriela Scutea,Q93215040,2020-02-20,female,1973-07-31,,,
-President of the Chamber of Deputies,Marcel Ciolacu,Q21179176,2021-11-23,male,1967-11-28,,Jmhhc2g9MDRhMGIwNDU2NmY3MmExNGU2ZjEzMmI0MjNjNmI3ZWQ=.thumb.jpg,Marcel Ciolacu
-President of the Senate,Alina Gorghiu,Q4726709,2022-06-29,female,1978-09-16,,Alina Gorghiu 44.jpg,Alina Gorghiu
-Governor of the National Bank,Mugur Isărescu,Q255022,2000-12-28,male,1949-08-01,,Mugur Isărescu.jpg,Mugur Isărescu
-Chief of the General Staff,Daniel Petrescu,Q90258002,2019-10-29,male,1971-01-26,,Daniel Petrescu in 2020.jpg,
-Mayor of Bucharest,Nicușor Dan,Q11163124,2020-10-29,male,1969-12-20,,Nicușor Dan candidatura bgiu.jpg,Nicușor Dan
-Prefect of Bucharest,Toni Greblă,Q18549788,2022-05-04,male,1953-12-30,,,
+position,person,personID,start,end
+President,Klaus Iohannis,Q701484,2019-12-21,
+Prime Minister,Nicolae Ciucă,Q28950289,2021-11-25,
+Deputy Prime Minister,Hunor Kelemen,Q923357,2020-12-23,
+Deputy Prime Minister,Sorin Grindeanu,Q19003460,2021-11-25,
+Minister of Agriculture,Petre Daea,Q12737826,2022-07-08,
+Minister of Culture,Lucian Romașcanu,Q28039745,2021-11-25,
+"Minister for Development, Public Works and Administration",Attila Cseke,Q747255,2020-12-23,
+Minister of Economy,Florin Spătaru,Q109700122,2021-11-25,
+Minister of Education,Sorin Cîmpeanu,Q21095867,2020-12-23,
+Minister of Energy,Virgil-Daniel Popescu,Q28113715,2020-12-23,
+Minister of Entrepreneurship and Tourism,Constantin-Daniel Cadariu,Q28113961,2021-11-25,
+"Minister of Environment, Water and Forests",Barna Tánczos,Q20437970,2020-12-23,
+"Minister of Family, Youth and Equal Opportunities",Gabriela Firea,Q16593781,2021-11-25,
+Minister of Finance,Adrian Câciu,Q109746326,2021-11-25,
+Minister of Foreign Affairs,Bogdan Aurescu,Q18537583,2019-11-04,
+Minister of Health,Alexandru Rafila,Q88007402,2021-11-25,
+Minister of Internal Affairs,Lucian Bode,Q3265173,2020-12-23,
+Minister of Investments and European Projects,Ioan-Marcel Boloș,Q73515577,2022-05-03,
+Minister of Justice,Cătălin Predoiu,Q1151156,2021-11-25,
+Minister of Labour and Social Protection,Marius-Constantin Budăi,Q28038940,2021-11-25,
+Minister of National Defence,Vasile Dîncu,Q347209,2021-11-25,
+"Minister of Research, Innovation and Digitalization",Sebastian-Ioan Burduja,Q24525133,2022-05-03,
+Minister of Transport and Infrastructure,Sorin Grindeanu,Q19003460,2021-11-25,
+Minister of Youth and Sport,Carol-Eduard Novak,Q940884,2020-12-23,
+Prosecutor General,Gabriela Scutea,Q93215040,2020-02-20,
+President of the Chamber of Deputies,Marcel Ciolacu,Q21179176,2021-11-23,
+President of the Senate,Alina Gorghiu,Q4726709,2022-06-29,
+Governor of the National Bank,Mugur Isărescu,Q255022,2000-12-28,
+Chief of the General Staff,Daniel Petrescu,Q90258002,2019-10-29,
+Mayor of Bucharest,Nicușor Dan,Q11163124,2020-10-29,
+Prefect of Bucharest,Toni Greblă,Q18549788,2022-05-04,
