@@ -5214,15 +5214,21 @@
         },
         {
           "before": "Crin Antonescu",
+          "rows": "2",
           "template": "s-bef"
         },
         {
           "title": "Leader of the National Liberal Party",
+          "rows": "2",
           "years": "2014",
           "template": "s-ttl"
         },
         {
-          "after": "Vasile Blaga and Alina Gorghiu",
+          "after": "Vasile Blaga",
+          "template": "s-aft"
+        },
+        {
+          "after": "Alina Gorghiu",
           "template": "s-aft"
         },
         {
@@ -5239,12 +5245,9 @@
           "template": "s-ttl"
         },
         {
-          "after": "Florin Cîțu",
-          "as": "President of the Senate",
+          "after": "Alina Gorghiu",
+          "as": "Acting President of the Senate",
           "template": "s-aft"
-        },
-        {
-          "template": "pnlheads"
         },
         {
           "template": "klaus iohannis"
@@ -5269,6 +5272,9 @@
         },
         {
           "template": "charlemagne prize recipients"
+        },
+        {
+          "template": "pnlheads"
         },
         {
           "template": "authority control"

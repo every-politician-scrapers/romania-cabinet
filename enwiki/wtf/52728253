@@ -1243,6 +1243,9 @@
       "paragraphs": [
         {
           "sentences": []
+        },
+        {
+          "sentences": []
         }
       ],
       "templates": [
@@ -1283,6 +1286,18 @@
         {
           "after": "Mihai Tudose",
           "template": "s-aft"
+        },
+        {
+          "before": "Dan Vîlceanu Acting",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister of Transport and Infrastructure",
+          "years": "2021–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
         },
         {
           "template": "prime ministers of romania"
